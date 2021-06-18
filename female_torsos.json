@@ -1,0 +1,7417 @@
+﻿{
+   "0":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "1":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "2":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "3":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "4":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "5":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "6":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "7":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "8":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "9":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "10":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "11":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "12":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "13":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "14":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "15":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "16":{
+      "0":{
+         "GXT":"CLO_VALF_G_0_0",
+         "Name_EN":"Magenta Long Gloves",
+         "Name_RU":"Фиолетовые перчатки"
+      },
+      "1":{
+         "GXT":"CLO_VALF_G_0_1",
+         "Name_EN":"Black Long Gloves",
+         "Name_RU":"Черные перчатки"
+      },
+      "2":{
+         "GXT":"CLO_VALF_G_0_2",
+         "Name_EN":"Stone Long Gloves",
+         "Name_RU":"Серые перчатки"
+      },
+      "3":{
+         "GXT":"CLO_VALF_G_0_3",
+         "Name_EN":"Purple Long Gloves",
+         "Name_RU":"Сиреневые перчатки"
+      },
+      "4":{
+         "GXT":"CLO_VALF_G_0_4",
+         "Name_EN":"Cream Long Gloves",
+         "Name_RU":"Кремовые перчатки"
+      },
+      "5":{
+         "GXT":"CLO_VALF_G_0_5",
+         "Name_EN":"Red Long Gloves",
+         "Name_RU":"Красные перчатки"
+      }
+   },
+   "17":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "18":{
+      "0":{
+         "GXT":"CLO_LTSFT_0_0",
+         "Name_EN":"Black Tact Gloves",
+         "Name_RU":"Черные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_LTSFT_0_1",
+         "Name_EN":"Gray Tact Gloves",
+         "Name_RU":"Серые перчатки"
+      },
+      "2":{
+         "GXT":"CLO_LTSFT_0_2",
+         "Name_EN":"Charcoal Tact Gloves",
+         "Name_RU":"Пепельные перчатки"
+      },
+      "3":{
+         "GXT":"CLO_LTSFT_0_3",
+         "Name_EN":"Tan Tact Gloves",
+         "Name_RU":"Белые перчатки"
+      },
+      "4":{
+         "GXT":"CLO_LTSFT_0_4",
+         "Name_EN":"Forest Tact Gloves",
+         "Name_RU":"Зеленые перчатки"
+      }
+   },
+   "19":{
+      "0":{
+         "GXT":"CLO_LTSFT_1_0",
+         "Name_EN":"Black Wool Gloves",
+         "Name_RU":"Черные шерстяные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_LTSFT_1_1",
+         "Name_EN":"Gray Wool Gloves",
+         "Name_RU":"Серые шерстяные перчатки"
+      },
+      "2":{
+         "GXT":"CLO_LTSFT_1_2",
+         "Name_EN":"Charcoal Wool Gloves",
+         "Name_RU":"Пепельные шерстяные перч."
+      },
+      "3":{
+         "GXT":"CLO_LTSFT_1_3",
+         "Name_EN":"Tan Wool Gloves",
+         "Name_RU":"Белые шерстяные перч."
+      },
+      "4":{
+         "GXT":"CLO_LTSFT_1_4",
+         "Name_EN":"Green Wool Gloves",
+         "Name_RU":"Зеленые шерстяные перчатки"
+      }
+   },
+   "20":{
+      "0":{
+         "GXT":"CLO_HSTF_G_0_0",
+         "Name_EN":"Black Driving Gloves",
+         "Name_RU":"Черные водительские"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_0_1",
+         "Name_EN":"Brown Driving Gloves",
+         "Name_RU":"Бурые водительские"
+      }
+   },
+   "21":{
+      "0":{
+         "GXT":"CLO_HSTF_G_0_0",
+         "Name_EN":"Black Driving Gloves",
+         "Name_RU":"Черные водительские"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_0_1",
+         "Name_EN":"Brown Driving Gloves",
+         "Name_RU":"Бурые водительские"
+      }
+   },
+   "22":{
+      "0":{
+         "GXT":"CLO_HSTF_G_0_0",
+         "Name_EN":"Black Driving Gloves",
+         "Name_RU":"Черные водительские"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_0_1",
+         "Name_EN":"Brown Driving Gloves",
+         "Name_RU":"Бурые водительские"
+      }
+   },
+   "23":{
+      "0":{
+         "GXT":"CLO_HSTF_G_0_0",
+         "Name_EN":"Black Driving Gloves",
+         "Name_RU":"Черные водительские"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_0_1",
+         "Name_EN":"Brown Driving Gloves",
+         "Name_RU":"Бурые водительские"
+      }
+   },
+   "24":{
+      "0":{
+         "GXT":"CLO_HSTF_G_0_0",
+         "Name_EN":"Black Driving Gloves",
+         "Name_RU":"Черные водительские"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_0_1",
+         "Name_EN":"Brown Driving Gloves",
+         "Name_RU":"Бурые водительские"
+      }
+   },
+   "25":{
+      "0":{
+         "GXT":"CLO_HSTF_G_0_0",
+         "Name_EN":"Black Driving Gloves",
+         "Name_RU":"Черные водительские"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_0_1",
+         "Name_EN":"Brown Driving Gloves",
+         "Name_RU":"Бурые водительские"
+      }
+   },
+   "26":{
+      "0":{
+         "GXT":"CLO_HSTF_G_0_0",
+         "Name_EN":"Black Driving Gloves",
+         "Name_RU":"Черные водительские"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_0_1",
+         "Name_EN":"Brown Driving Gloves",
+         "Name_RU":"Бурые водительские"
+      }
+   },
+   "27":{
+      "0":{
+         "GXT":"CLO_HSTF_G_0_0",
+         "Name_EN":"Black Driving Gloves",
+         "Name_RU":"Черные водительские"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_0_1",
+         "Name_EN":"Brown Driving Gloves",
+         "Name_RU":"Бурые водительские"
+      }
+   },
+   "28":{
+      "0":{
+         "GXT":"CLO_HSTF_G_0_0",
+         "Name_EN":"Black Driving Gloves",
+         "Name_RU":"Черные водительские"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_0_1",
+         "Name_EN":"Brown Driving Gloves",
+         "Name_RU":"Бурые водительские"
+      }
+   },
+   "29":{
+      "0":{
+         "GXT":"CLO_HSTF_G_0_0",
+         "Name_EN":"Black Driving Gloves",
+         "Name_RU":"Черные водительские"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_0_1",
+         "Name_EN":"Brown Driving Gloves",
+         "Name_RU":"Бурые водительские"
+      }
+   },
+   "30":{
+      "0":{
+         "GXT":"CLO_HSTF_G_0_0",
+         "Name_EN":"Black Driving Gloves",
+         "Name_RU":"Черные водительские"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_0_1",
+         "Name_EN":"Brown Driving Gloves",
+         "Name_RU":"Бурые водительские"
+      }
+   },
+   "31":{
+      "0":{
+         "GXT":"CLO_HSTF_G_0_0",
+         "Name_EN":"Black Driving Gloves",
+         "Name_RU":"Черные водительские"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_0_1",
+         "Name_EN":"Brown Driving Gloves",
+         "Name_RU":"Бурые водительские"
+      }
+   },
+   "32":{
+      "0":{
+         "GXT":"CLO_HSTF_G_0_0",
+         "Name_EN":"Black Driving Gloves",
+         "Name_RU":"Черные водительские"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_0_1",
+         "Name_EN":"Brown Driving Gloves",
+         "Name_RU":"Бурые водительские"
+      }
+   },
+   "33":{
+      "0":{
+         "GXT":"CLO_HSTF_G_1_0",
+         "Name_EN":"Black Leather Gloves",
+         "Name_RU":"Черные кожаные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_1_1",
+         "Name_EN":"Brown Leather Gloves",
+         "Name_RU":"Коричневые перчатки"
+      }
+   },
+   "34":{
+      "0":{
+         "GXT":"CLO_HSTF_G_1_0",
+         "Name_EN":"Black Leather Gloves",
+         "Name_RU":"Черные кожаные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_1_1",
+         "Name_EN":"Brown Leather Gloves",
+         "Name_RU":"Коричневые перчатки"
+      }
+   },
+   "35":{
+      "0":{
+         "GXT":"CLO_HSTF_G_1_0",
+         "Name_EN":"Black Leather Gloves",
+         "Name_RU":"Черные кожаные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_1_1",
+         "Name_EN":"Brown Leather Gloves",
+         "Name_RU":"Коричневые перчатки"
+      }
+   },
+   "36":{
+      "0":{
+         "GXT":"CLO_HSTF_G_1_0",
+         "Name_EN":"Black Leather Gloves",
+         "Name_RU":"Черные кожаные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_1_1",
+         "Name_EN":"Brown Leather Gloves",
+         "Name_RU":"Коричневые перчатки"
+      }
+   },
+   "37":{
+      "0":{
+         "GXT":"CLO_HSTF_G_1_0",
+         "Name_EN":"Black Leather Gloves",
+         "Name_RU":"Черные кожаные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_1_1",
+         "Name_EN":"Brown Leather Gloves",
+         "Name_RU":"Коричневые перчатки"
+      }
+   },
+   "38":{
+      "0":{
+         "GXT":"CLO_HSTF_G_1_0",
+         "Name_EN":"Black Leather Gloves",
+         "Name_RU":"Черные кожаные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_1_1",
+         "Name_EN":"Brown Leather Gloves",
+         "Name_RU":"Коричневые перчатки"
+      }
+   },
+   "39":{
+      "0":{
+         "GXT":"CLO_HSTF_G_1_0",
+         "Name_EN":"Black Leather Gloves",
+         "Name_RU":"Черные кожаные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_1_1",
+         "Name_EN":"Brown Leather Gloves",
+         "Name_RU":"Коричневые перчатки"
+      }
+   },
+   "40":{
+      "0":{
+         "GXT":"CLO_HSTF_G_1_0",
+         "Name_EN":"Black Leather Gloves",
+         "Name_RU":"Черные кожаные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_1_1",
+         "Name_EN":"Brown Leather Gloves",
+         "Name_RU":"Коричневые перчатки"
+      }
+   },
+   "41":{
+      "0":{
+         "GXT":"CLO_HSTF_G_1_0",
+         "Name_EN":"Black Leather Gloves",
+         "Name_RU":"Черные кожаные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_1_1",
+         "Name_EN":"Brown Leather Gloves",
+         "Name_RU":"Коричневые перчатки"
+      }
+   },
+   "42":{
+      "0":{
+         "GXT":"CLO_HSTF_G_1_0",
+         "Name_EN":"Black Leather Gloves",
+         "Name_RU":"Черные кожаные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_1_1",
+         "Name_EN":"Brown Leather Gloves",
+         "Name_RU":"Коричневые перчатки"
+      }
+   },
+   "43":{
+      "0":{
+         "GXT":"CLO_HSTF_G_1_0",
+         "Name_EN":"Black Leather Gloves",
+         "Name_RU":"Черные кожаные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_1_1",
+         "Name_EN":"Brown Leather Gloves",
+         "Name_RU":"Коричневые перчатки"
+      }
+   },
+   "44":{
+      "0":{
+         "GXT":"CLO_HSTF_G_1_0",
+         "Name_EN":"Black Leather Gloves",
+         "Name_RU":"Черные кожаные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_1_1",
+         "Name_EN":"Brown Leather Gloves",
+         "Name_RU":"Коричневые перчатки"
+      }
+   },
+   "45":{
+      "0":{
+         "GXT":"CLO_HSTF_G_1_0",
+         "Name_EN":"Black Leather Gloves",
+         "Name_RU":"Черные кожаные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_1_1",
+         "Name_EN":"Brown Leather Gloves",
+         "Name_RU":"Коричневые перчатки"
+      }
+   },
+   "46":{
+      "0":{
+         "GXT":"CLO_HSTF_G_2_0",
+         "Name_EN":"Black Woolen Gloves",
+         "Name_RU":"Черные шерстяные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_2_1",
+         "Name_EN":"Gray Woolen Gloves",
+         "Name_RU":"Серые шерстяные перчатки"
+      }
+   },
+   "47":{
+      "0":{
+         "GXT":"CLO_HSTF_G_2_0",
+         "Name_EN":"Black Woolen Gloves",
+         "Name_RU":"Черные шерстяные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_2_1",
+         "Name_EN":"Gray Woolen Gloves",
+         "Name_RU":"Серые шерстяные перчатки"
+      }
+   },
+   "48":{
+      "0":{
+         "GXT":"CLO_HSTF_G_2_0",
+         "Name_EN":"Black Woolen Gloves",
+         "Name_RU":"Черные шерстяные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_2_1",
+         "Name_EN":"Gray Woolen Gloves",
+         "Name_RU":"Серые шерстяные перчатки"
+      }
+   },
+   "49":{
+      "0":{
+         "GXT":"CLO_HSTF_G_2_0",
+         "Name_EN":"Black Woolen Gloves",
+         "Name_RU":"Черные шерстяные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_2_1",
+         "Name_EN":"Gray Woolen Gloves",
+         "Name_RU":"Серые шерстяные перчатки"
+      }
+   },
+   "50":{
+      "0":{
+         "GXT":"CLO_HSTF_G_2_0",
+         "Name_EN":"Black Woolen Gloves",
+         "Name_RU":"Черные шерстяные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_2_1",
+         "Name_EN":"Gray Woolen Gloves",
+         "Name_RU":"Серые шерстяные перчатки"
+      }
+   },
+   "51":{
+      "0":{
+         "GXT":"CLO_HSTF_G_2_0",
+         "Name_EN":"Black Woolen Gloves",
+         "Name_RU":"Черные шерстяные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_2_1",
+         "Name_EN":"Gray Woolen Gloves",
+         "Name_RU":"Серые шерстяные перчатки"
+      }
+   },
+   "52":{
+      "0":{
+         "GXT":"CLO_HSTF_G_2_0",
+         "Name_EN":"Black Woolen Gloves",
+         "Name_RU":"Черные шерстяные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_2_1",
+         "Name_EN":"Gray Woolen Gloves",
+         "Name_RU":"Серые шерстяные перчатки"
+      }
+   },
+   "53":{
+      "0":{
+         "GXT":"CLO_HSTF_G_2_0",
+         "Name_EN":"Black Woolen Gloves",
+         "Name_RU":"Черные шерстяные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_2_1",
+         "Name_EN":"Gray Woolen Gloves",
+         "Name_RU":"Серые шерстяные перчатки"
+      }
+   },
+   "54":{
+      "0":{
+         "GXT":"CLO_HSTF_G_2_0",
+         "Name_EN":"Black Woolen Gloves",
+         "Name_RU":"Черные шерстяные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_2_1",
+         "Name_EN":"Gray Woolen Gloves",
+         "Name_RU":"Серые шерстяные перчатки"
+      }
+   },
+   "55":{
+      "0":{
+         "GXT":"CLO_HSTF_G_2_0",
+         "Name_EN":"Black Woolen Gloves",
+         "Name_RU":"Черные шерстяные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_2_1",
+         "Name_EN":"Gray Woolen Gloves",
+         "Name_RU":"Серые шерстяные перчатки"
+      }
+   },
+   "56":{
+      "0":{
+         "GXT":"CLO_HSTF_G_2_0",
+         "Name_EN":"Black Woolen Gloves",
+         "Name_RU":"Черные шерстяные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_2_1",
+         "Name_EN":"Gray Woolen Gloves",
+         "Name_RU":"Серые шерстяные перчатки"
+      }
+   },
+   "57":{
+      "0":{
+         "GXT":"CLO_HSTF_G_2_0",
+         "Name_EN":"Black Woolen Gloves",
+         "Name_RU":"Черные шерстяные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_2_1",
+         "Name_EN":"Gray Woolen Gloves",
+         "Name_RU":"Серые шерстяные перчатки"
+      }
+   },
+   "58":{
+      "0":{
+         "GXT":"CLO_HSTF_G_2_0",
+         "Name_EN":"Black Woolen Gloves",
+         "Name_RU":"Черные шерстяные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_2_1",
+         "Name_EN":"Gray Woolen Gloves",
+         "Name_RU":"Серые шерстяные перчатки"
+      }
+   },
+   "59":{
+      "0":{
+         "GXT":"CLO_HSTF_G_3_0",
+         "Name_EN":"Black Fingerless Gloves",
+         "Name_RU":"Черные полуперчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_3_1",
+         "Name_EN":"Gray Fingerless Gloves",
+         "Name_RU":"Серые полуперчатки"
+      }
+   },
+   "60":{
+      "0":{
+         "GXT":"CLO_HSTF_G_3_0",
+         "Name_EN":"Black Fingerless Gloves",
+         "Name_RU":"Черные полуперчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_3_1",
+         "Name_EN":"Gray Fingerless Gloves",
+         "Name_RU":"Серые полуперчатки"
+      }
+   },
+   "61":{
+      "0":{
+         "GXT":"CLO_HSTF_G_3_0",
+         "Name_EN":"Black Fingerless Gloves",
+         "Name_RU":"Черные полуперчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_3_1",
+         "Name_EN":"Gray Fingerless Gloves",
+         "Name_RU":"Серые полуперчатки"
+      }
+   },
+   "62":{
+      "0":{
+         "GXT":"CLO_HSTF_G_3_0",
+         "Name_EN":"Black Fingerless Gloves",
+         "Name_RU":"Черные полуперчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_3_1",
+         "Name_EN":"Gray Fingerless Gloves",
+         "Name_RU":"Серые полуперчатки"
+      }
+   },
+   "63":{
+      "0":{
+         "GXT":"CLO_HSTF_G_3_0",
+         "Name_EN":"Black Fingerless Gloves",
+         "Name_RU":"Черные полуперчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_3_1",
+         "Name_EN":"Gray Fingerless Gloves",
+         "Name_RU":"Серые полуперчатки"
+      }
+   },
+   "64":{
+      "0":{
+         "GXT":"CLO_HSTF_G_3_0",
+         "Name_EN":"Black Fingerless Gloves",
+         "Name_RU":"Черные полуперчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_3_1",
+         "Name_EN":"Gray Fingerless Gloves",
+         "Name_RU":"Серые полуперчатки"
+      }
+   },
+   "65":{
+      "0":{
+         "GXT":"CLO_HSTF_G_3_0",
+         "Name_EN":"Black Fingerless Gloves",
+         "Name_RU":"Черные полуперчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_3_1",
+         "Name_EN":"Gray Fingerless Gloves",
+         "Name_RU":"Серые полуперчатки"
+      }
+   },
+   "66":{
+      "0":{
+         "GXT":"CLO_HSTF_G_3_0",
+         "Name_EN":"Black Fingerless Gloves",
+         "Name_RU":"Черные полуперчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_3_1",
+         "Name_EN":"Gray Fingerless Gloves",
+         "Name_RU":"Серые полуперчатки"
+      }
+   },
+   "67":{
+      "0":{
+         "GXT":"CLO_HSTF_G_3_0",
+         "Name_EN":"Black Fingerless Gloves",
+         "Name_RU":"Черные полуперчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_3_1",
+         "Name_EN":"Gray Fingerless Gloves",
+         "Name_RU":"Серые полуперчатки"
+      }
+   },
+   "68":{
+      "0":{
+         "GXT":"CLO_HSTF_G_3_0",
+         "Name_EN":"Black Fingerless Gloves",
+         "Name_RU":"Черные полуперчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_3_1",
+         "Name_EN":"Gray Fingerless Gloves",
+         "Name_RU":"Серые полуперчатки"
+      }
+   },
+   "69":{
+      "0":{
+         "GXT":"CLO_HSTF_G_3_0",
+         "Name_EN":"Black Fingerless Gloves",
+         "Name_RU":"Черные полуперчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_3_1",
+         "Name_EN":"Gray Fingerless Gloves",
+         "Name_RU":"Серые полуперчатки"
+      }
+   },
+   "70":{
+      "0":{
+         "GXT":"CLO_HSTF_G_3_0",
+         "Name_EN":"Black Fingerless Gloves",
+         "Name_RU":"Черные полуперчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_3_1",
+         "Name_EN":"Gray Fingerless Gloves",
+         "Name_RU":"Серые полуперчатки"
+      }
+   },
+   "71":{
+      "0":{
+         "GXT":"CLO_HSTF_G_3_0",
+         "Name_EN":"Black Fingerless Gloves",
+         "Name_RU":"Черные полуперчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_3_1",
+         "Name_EN":"Gray Fingerless Gloves",
+         "Name_RU":"Серые полуперчатки"
+      }
+   },
+   "72":{
+      "0":{
+         "GXT":"CLO_HSTF_G_6_0",
+         "Name_EN":"Refuse Collector Gloves",
+         "Name_RU":"Полуперчатки мусорщика"
+      }
+   },
+   "73":{
+      "0":{
+         "GXT":"CLO_HSTF_G_6_0",
+         "Name_EN":"Refuse Collector Gloves",
+         "Name_RU":"Полуперчатки мусорщика"
+      }
+   },
+   "74":{
+      "0":{
+         "GXT":"CLO_HSTF_G_6_0",
+         "Name_EN":"Refuse Collector Gloves",
+         "Name_RU":"Полуперчатки мусорщика"
+      }
+   },
+   "75":{
+      "0":{
+         "GXT":"CLO_HSTF_G_6_0",
+         "Name_EN":"Refuse Collector Gloves",
+         "Name_RU":"Полуперчатки мусорщика"
+      }
+   },
+   "76":{
+      "0":{
+         "GXT":"CLO_HSTF_G_6_0",
+         "Name_EN":"Refuse Collector Gloves",
+         "Name_RU":"Полуперчатки мусорщика"
+      }
+   },
+   "77":{
+      "0":{
+         "GXT":"CLO_HSTF_G_6_0",
+         "Name_EN":"Refuse Collector Gloves",
+         "Name_RU":"Полуперчатки мусорщика"
+      }
+   },
+   "78":{
+      "0":{
+         "GXT":"CLO_HSTF_G_6_0",
+         "Name_EN":"Refuse Collector Gloves",
+         "Name_RU":"Полуперчатки мусорщика"
+      }
+   },
+   "79":{
+      "0":{
+         "GXT":"CLO_HSTF_G_6_0",
+         "Name_EN":"Refuse Collector Gloves",
+         "Name_RU":"Полуперчатки мусорщика"
+      }
+   },
+   "80":{
+      "0":{
+         "GXT":"CLO_HSTF_G_6_0",
+         "Name_EN":"Refuse Collector Gloves",
+         "Name_RU":"Полуперчатки мусорщика"
+      }
+   },
+   "81":{
+      "0":{
+         "GXT":"CLO_HSTF_G_6_0",
+         "Name_EN":"Refuse Collector Gloves",
+         "Name_RU":"Полуперчатки мусорщика"
+      }
+   },
+   "82":{
+      "0":{
+         "GXT":"CLO_HSTF_G_6_0",
+         "Name_EN":"Refuse Collector Gloves",
+         "Name_RU":"Полуперчатки мусорщика"
+      }
+   },
+   "83":{
+      "0":{
+         "GXT":"CLO_HSTF_G_6_0",
+         "Name_EN":"Refuse Collector Gloves",
+         "Name_RU":"Полуперчатки мусорщика"
+      }
+   },
+   "84":{
+      "0":{
+         "GXT":"CLO_HSTF_G_6_0",
+         "Name_EN":"Refuse Collector Gloves",
+         "Name_RU":"Полуперчатки мусорщика"
+      }
+   },
+   "85":{
+      "0":{
+         "GXT":"CLO_HSTF_G_4_0",
+         "Name_EN":"White Cotton Gloves",
+         "Name_RU":"Белые хлопчатые перчатки"
+      }
+   },
+   "86":{
+      "0":{
+         "GXT":"CLO_HSTF_G_4_0",
+         "Name_EN":"White Cotton Gloves",
+         "Name_RU":"Белые хлопчатые перчатки"
+      }
+   },
+   "87":{
+      "0":{
+         "GXT":"CLO_HSTF_G_4_0",
+         "Name_EN":"White Cotton Gloves",
+         "Name_RU":"Белые хлопчатые перчатки"
+      }
+   },
+   "88":{
+      "0":{
+         "GXT":"CLO_HSTF_G_4_0",
+         "Name_EN":"White Cotton Gloves",
+         "Name_RU":"Белые хлопчатые перчатки"
+      }
+   },
+   "89":{
+      "0":{
+         "GXT":"CLO_HSTF_G_4_0",
+         "Name_EN":"White Cotton Gloves",
+         "Name_RU":"Белые хлопчатые перчатки"
+      }
+   },
+   "90":{
+      "0":{
+         "GXT":"CLO_HSTF_G_4_0",
+         "Name_EN":"White Cotton Gloves",
+         "Name_RU":"Белые хлопчатые перчатки"
+      }
+   },
+   "91":{
+      "0":{
+         "GXT":"CLO_HSTF_G_4_0",
+         "Name_EN":"White Cotton Gloves",
+         "Name_RU":"Белые хлопчатые перчатки"
+      }
+   },
+   "92":{
+      "0":{
+         "GXT":"CLO_HSTF_G_4_0",
+         "Name_EN":"White Cotton Gloves",
+         "Name_RU":"Белые хлопчатые перчатки"
+      }
+   },
+   "93":{
+      "0":{
+         "GXT":"CLO_HSTF_G_4_0",
+         "Name_EN":"White Cotton Gloves",
+         "Name_RU":"Белые хлопчатые перчатки"
+      }
+   },
+   "94":{
+      "0":{
+         "GXT":"CLO_HSTF_G_4_0",
+         "Name_EN":"White Cotton Gloves",
+         "Name_RU":"Белые хлопчатые перчатки"
+      }
+   },
+   "95":{
+      "0":{
+         "GXT":"CLO_HSTF_G_4_0",
+         "Name_EN":"White Cotton Gloves",
+         "Name_RU":"Белые хлопчатые перчатки"
+      }
+   },
+   "96":{
+      "0":{
+         "GXT":"CLO_HSTF_G_4_0",
+         "Name_EN":"White Cotton Gloves",
+         "Name_RU":"Белые хлопчатые перчатки"
+      }
+   },
+   "97":{
+      "0":{
+         "GXT":"CLO_HSTF_G_4_0",
+         "Name_EN":"White Cotton Gloves",
+         "Name_RU":"Белые хлопчатые перчатки"
+      }
+   },
+   "98":{
+      "0":{
+         "GXT":"CLO_HSTF_G_5_0",
+         "Name_EN":"Blue Surgical Gloves",
+         "Name_RU":"Хирургические перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_5_1",
+         "Name_EN":"White Surgical Gloves",
+         "Name_RU":"Белые перчатки"
+      }
+   },
+   "99":{
+      "0":{
+         "GXT":"CLO_HSTF_G_5_0",
+         "Name_EN":"Blue Surgical Gloves",
+         "Name_RU":"Хирургические перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_5_1",
+         "Name_EN":"White Surgical Gloves",
+         "Name_RU":"Белые перчатки"
+      }
+   },
+   "100":{
+      "0":{
+         "GXT":"CLO_HSTF_G_5_0",
+         "Name_EN":"Blue Surgical Gloves",
+         "Name_RU":"Хирургические перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_5_1",
+         "Name_EN":"White Surgical Gloves",
+         "Name_RU":"Белые перчатки"
+      }
+   },
+   "101":{
+      "0":{
+         "GXT":"CLO_HSTF_G_5_0",
+         "Name_EN":"Blue Surgical Gloves",
+         "Name_RU":"Хирургические перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_5_1",
+         "Name_EN":"White Surgical Gloves",
+         "Name_RU":"Белые перчатки"
+      }
+   },
+   "102":{
+      "0":{
+         "GXT":"CLO_HSTF_G_5_0",
+         "Name_EN":"Blue Surgical Gloves",
+         "Name_RU":"Хирургические перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_5_1",
+         "Name_EN":"White Surgical Gloves",
+         "Name_RU":"Белые перчатки"
+      }
+   },
+   "103":{
+      "0":{
+         "GXT":"CLO_HSTF_G_5_0",
+         "Name_EN":"Blue Surgical Gloves",
+         "Name_RU":"Хирургические перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_5_1",
+         "Name_EN":"White Surgical Gloves",
+         "Name_RU":"Белые перчатки"
+      }
+   },
+   "104":{
+      "0":{
+         "GXT":"CLO_HSTF_G_5_0",
+         "Name_EN":"Blue Surgical Gloves",
+         "Name_RU":"Хирургические перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_5_1",
+         "Name_EN":"White Surgical Gloves",
+         "Name_RU":"Белые перчатки"
+      }
+   },
+   "105":{
+      "0":{
+         "GXT":"CLO_HSTF_G_5_0",
+         "Name_EN":"Blue Surgical Gloves",
+         "Name_RU":"Хирургические перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_5_1",
+         "Name_EN":"White Surgical Gloves",
+         "Name_RU":"Белые перчатки"
+      }
+   },
+   "106":{
+      "0":{
+         "GXT":"CLO_HSTF_G_5_0",
+         "Name_EN":"Blue Surgical Gloves",
+         "Name_RU":"Хирургические перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_5_1",
+         "Name_EN":"White Surgical Gloves",
+         "Name_RU":"Белые перчатки"
+      }
+   },
+   "107":{
+      "0":{
+         "GXT":"CLO_HSTF_G_5_0",
+         "Name_EN":"Blue Surgical Gloves",
+         "Name_RU":"Хирургические перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_5_1",
+         "Name_EN":"White Surgical Gloves",
+         "Name_RU":"Белые перчатки"
+      }
+   },
+   "108":{
+      "0":{
+         "GXT":"CLO_HSTF_G_5_0",
+         "Name_EN":"Blue Surgical Gloves",
+         "Name_RU":"Хирургические перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_5_1",
+         "Name_EN":"White Surgical Gloves",
+         "Name_RU":"Белые перчатки"
+      }
+   },
+   "109":{
+      "0":{
+         "GXT":"CLO_HSTF_G_5_0",
+         "Name_EN":"Blue Surgical Gloves",
+         "Name_RU":"Хирургические перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_5_1",
+         "Name_EN":"White Surgical Gloves",
+         "Name_RU":"Белые перчатки"
+      }
+   },
+   "110":{
+      "0":{
+         "GXT":"CLO_HSTF_G_5_0",
+         "Name_EN":"Blue Surgical Gloves",
+         "Name_RU":"Хирургические перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_5_1",
+         "Name_EN":"White Surgical Gloves",
+         "Name_RU":"Белые перчатки"
+      }
+   },
+   "111":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "112":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "113":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "1":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "2":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "114":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "1":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "2":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "3":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "4":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "5":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "6":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "7":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "8":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "9":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "115":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "1":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "2":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "3":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "4":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "5":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "6":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "7":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "8":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "9":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "116":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "1":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "2":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "3":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "4":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "5":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "6":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "7":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "8":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "9":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "117":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "1":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "2":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "3":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "4":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "5":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "6":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "7":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "8":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "9":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "118":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "1":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "2":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "3":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "4":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "5":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "6":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "7":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "8":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "9":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "119":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "1":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "2":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "3":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "4":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "5":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "6":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "7":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "8":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "9":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "120":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "1":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "2":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "3":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "4":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "5":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "6":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "7":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "8":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "9":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "121":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "1":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "2":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "3":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "4":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "5":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "6":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "7":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "8":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "9":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "122":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "1":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "2":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "3":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "4":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "5":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "6":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "7":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "8":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "9":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "123":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "1":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "2":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "3":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "4":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "5":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "6":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "7":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "8":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "9":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "124":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "1":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "2":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "3":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "4":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "5":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "6":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "7":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "8":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "9":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "125":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "1":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "2":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "3":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "4":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "5":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "6":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "7":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "8":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "9":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "126":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "1":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "2":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "3":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "4":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "5":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "6":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "7":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "8":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "9":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "127":{
+      "0":{
+         "GXT":"CLO_STF_GL_0_0",
+         "Name_EN":"Racesuit Gloves",
+         "Name_RU":"Гоночные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_STF_GL_0_0",
+         "Name_EN":"Racesuit Gloves",
+         "Name_RU":"Гоночные перчатки"
+      },
+      "2":{
+         "GXT":"CLO_STF_GL_0_0",
+         "Name_EN":"Racesuit Gloves",
+         "Name_RU":"Гоночные перчатки"
+      },
+      "3":{
+         "GXT":"CLO_STF_GL_0_0",
+         "Name_EN":"Racesuit Gloves",
+         "Name_RU":"Гоночные перчатки"
+      },
+      "4":{
+         "GXT":"CLO_STF_GL_0_0",
+         "Name_EN":"Racesuit Gloves",
+         "Name_RU":"Гоночные перчатки"
+      },
+      "5":{
+         "GXT":"CLO_STF_GL_0_0",
+         "Name_EN":"Racesuit Gloves",
+         "Name_RU":"Гоночные перчатки"
+      },
+      "6":{
+         "GXT":"CLO_STF_GL_0_0",
+         "Name_EN":"Racesuit Gloves",
+         "Name_RU":"Гоночные перчатки"
+      },
+      "7":{
+         "GXT":"CLO_STF_GL_0_0",
+         "Name_EN":"Racesuit Gloves",
+         "Name_RU":"Гоночные перчатки"
+      },
+      "8":{
+         "GXT":"CLO_STF_GL_0_0",
+         "Name_EN":"Racesuit Gloves",
+         "Name_RU":"Гоночные перчатки"
+      },
+      "9":{
+         "GXT":"CLO_STF_GL_0_0",
+         "Name_EN":"Racesuit Gloves",
+         "Name_RU":"Гоночные перчатки"
+      },
+      "10":{
+         "GXT":"CLO_STF_GL_0_0",
+         "Name_EN":"Racesuit Gloves",
+         "Name_RU":"Гоночные перчатки"
+      },
+      "11":{
+         "GXT":"CLO_STF_GL_0_0",
+         "Name_EN":"Racesuit Gloves",
+         "Name_RU":"Гоночные перчатки"
+      }
+   },
+   "128":{
+      "0":{
+         "GXT":"CLO_STF_GL_1_0",
+         "Name_EN":"Motocross Gloves",
+         "Name_RU":"Перчатки для мотокросса"
+      },
+      "1":{
+         "GXT":"CLO_STF_GL_1_0",
+         "Name_EN":"Motocross Gloves",
+         "Name_RU":"Перчатки для мотокросса"
+      },
+      "2":{
+         "GXT":"CLO_STF_GL_1_0",
+         "Name_EN":"Motocross Gloves",
+         "Name_RU":"Перчатки для мотокросса"
+      },
+      "3":{
+         "GXT":"CLO_STF_GL_1_0",
+         "Name_EN":"Motocross Gloves",
+         "Name_RU":"Перчатки для мотокросса"
+      },
+      "4":{
+         "GXT":"CLO_STF_GL_1_0",
+         "Name_EN":"Motocross Gloves",
+         "Name_RU":"Перчатки для мотокросса"
+      },
+      "5":{
+         "GXT":"CLO_STF_GL_1_0",
+         "Name_EN":"Motocross Gloves",
+         "Name_RU":"Перчатки для мотокросса"
+      },
+      "6":{
+         "GXT":"CLO_STF_GL_1_0",
+         "Name_EN":"Motocross Gloves",
+         "Name_RU":"Перчатки для мотокросса"
+      },
+      "7":{
+         "GXT":"CLO_STF_GL_1_0",
+         "Name_EN":"Motocross Gloves",
+         "Name_RU":"Перчатки для мотокросса"
+      },
+      "8":{
+         "GXT":"CLO_STF_GL_1_0",
+         "Name_EN":"Motocross Gloves",
+         "Name_RU":"Перчатки для мотокросса"
+      },
+      "9":{
+         "GXT":"CLO_STF_GL_1_0",
+         "Name_EN":"Motocross Gloves",
+         "Name_RU":"Перчатки для мотокросса"
+      },
+      "10":{
+         "GXT":"CLO_STF_GL_1_0",
+         "Name_EN":"Motocross Gloves",
+         "Name_RU":"Перчатки для мотокросса"
+      },
+      "11":{
+         "GXT":"CLO_STF_GL_1_0",
+         "Name_EN":"Motocross Gloves",
+         "Name_RU":"Перчатки для мотокросса"
+      },
+      "12":{
+         "GXT":"CLO_STF_GL_1_0",
+         "Name_EN":"Motocross Gloves",
+         "Name_RU":"Перчатки для мотокросса"
+      },
+      "13":{
+         "GXT":"CLO_STF_GL_1_0",
+         "Name_EN":"Motocross Gloves",
+         "Name_RU":"Перчатки для мотокросса"
+      },
+      "14":{
+         "GXT":"CLO_STF_GL_1_0",
+         "Name_EN":"Motocross Gloves",
+         "Name_RU":"Перчатки для мотокросса"
+      },
+      "15":{
+         "GXT":"CLO_STF_GL_1_0",
+         "Name_EN":"Motocross Gloves",
+         "Name_RU":"Перчатки для мотокросса"
+      }
+   },
+   "129":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "130":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "131":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "132":{
+      "0":{
+         "GXT":"CLO_HSTF_G_0_0",
+         "Name_EN":"Black Driving Gloves",
+         "Name_RU":"Черные водительские"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_0_1",
+         "Name_EN":"Brown Driving Gloves",
+         "Name_RU":"Бурые водительские"
+      }
+   },
+   "133":{
+      "0":{
+         "GXT":"CLO_HSTF_G_1_0",
+         "Name_EN":"Black Leather Gloves",
+         "Name_RU":"Черные кожаные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_1_1",
+         "Name_EN":"Brown Leather Gloves",
+         "Name_RU":"Коричневые перчатки"
+      }
+   },
+   "134":{
+      "0":{
+         "GXT":"CLO_HSTF_G_2_0",
+         "Name_EN":"Black Woolen Gloves",
+         "Name_RU":"Черные шерстяные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_2_1",
+         "Name_EN":"Gray Woolen Gloves",
+         "Name_RU":"Серые шерстяные перчатки"
+      }
+   },
+   "135":{
+      "0":{
+         "GXT":"CLO_HSTF_G_3_0",
+         "Name_EN":"Black Fingerless Gloves",
+         "Name_RU":"Черные полуперчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_3_1",
+         "Name_EN":"Gray Fingerless Gloves",
+         "Name_RU":"Серые полуперчатки"
+      }
+   },
+   "136":{
+      "0":{
+         "GXT":"CLO_HSTF_G_6_0",
+         "Name_EN":"Refuse Collector Gloves",
+         "Name_RU":"Полуперчатки мусорщика"
+      }
+   },
+   "137":{
+      "0":{
+         "GXT":"CLO_HSTF_G_4_0",
+         "Name_EN":"White Cotton Gloves",
+         "Name_RU":"Белые хлопчатые перчатки"
+      }
+   },
+   "138":{
+      "0":{
+         "GXT":"CLO_HSTF_G_5_0",
+         "Name_EN":"Blue Surgical Gloves",
+         "Name_RU":"Хирургические перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_5_1",
+         "Name_EN":"White Surgical Gloves",
+         "Name_RU":"Белые перчатки"
+      }
+   },
+   "139":{
+      "0":{
+         "GXT":"CLO_HSTF_G_0_0",
+         "Name_EN":"Black Driving Gloves",
+         "Name_RU":"Черные водительские"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_0_1",
+         "Name_EN":"Brown Driving Gloves",
+         "Name_RU":"Бурые водительские"
+      }
+   },
+   "140":{
+      "0":{
+         "GXT":"CLO_HSTF_G_1_0",
+         "Name_EN":"Black Leather Gloves",
+         "Name_RU":"Черные кожаные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_1_1",
+         "Name_EN":"Brown Leather Gloves",
+         "Name_RU":"Коричневые перчатки"
+      }
+   },
+   "141":{
+      "0":{
+         "GXT":"CLO_HSTF_G_2_0",
+         "Name_EN":"Black Woolen Gloves",
+         "Name_RU":"Черные шерстяные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_2_1",
+         "Name_EN":"Gray Woolen Gloves",
+         "Name_RU":"Серые шерстяные перчатки"
+      }
+   },
+   "142":{
+      "0":{
+         "GXT":"CLO_HSTF_G_3_0",
+         "Name_EN":"Black Fingerless Gloves",
+         "Name_RU":"Черные полуперчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_3_1",
+         "Name_EN":"Gray Fingerless Gloves",
+         "Name_RU":"Серые полуперчатки"
+      }
+   },
+   "143":{
+      "0":{
+         "GXT":"CLO_HSTF_G_6_0",
+         "Name_EN":"Refuse Collector Gloves",
+         "Name_RU":"Полуперчатки мусорщика"
+      }
+   },
+   "144":{
+      "0":{
+         "GXT":"CLO_HSTF_G_4_0",
+         "Name_EN":"White Cotton Gloves",
+         "Name_RU":"Белые хлопчатые перчатки"
+      }
+   },
+   "145":{
+      "0":{
+         "GXT":"CLO_HSTF_G_5_0",
+         "Name_EN":"Blue Surgical Gloves",
+         "Name_RU":"Хирургические перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_5_1",
+         "Name_EN":"White Surgical Gloves",
+         "Name_RU":"Белые перчатки"
+      }
+   },
+   "146":{
+      "0":{
+         "GXT":"CLO_HSTF_G_0_0",
+         "Name_EN":"Black Driving Gloves",
+         "Name_RU":"Черные водительские"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_0_1",
+         "Name_EN":"Brown Driving Gloves",
+         "Name_RU":"Бурые водительские"
+      }
+   },
+   "147":{
+      "0":{
+         "GXT":"CLO_HSTF_G_1_0",
+         "Name_EN":"Black Leather Gloves",
+         "Name_RU":"Черные кожаные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_1_1",
+         "Name_EN":"Brown Leather Gloves",
+         "Name_RU":"Коричневые перчатки"
+      }
+   },
+   "148":{
+      "0":{
+         "GXT":"CLO_HSTF_G_2_0",
+         "Name_EN":"Black Woolen Gloves",
+         "Name_RU":"Черные шерстяные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_2_1",
+         "Name_EN":"Gray Woolen Gloves",
+         "Name_RU":"Серые шерстяные перчатки"
+      }
+   },
+   "149":{
+      "0":{
+         "GXT":"CLO_HSTF_G_3_0",
+         "Name_EN":"Black Fingerless Gloves",
+         "Name_RU":"Черные полуперчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_3_1",
+         "Name_EN":"Gray Fingerless Gloves",
+         "Name_RU":"Серые полуперчатки"
+      }
+   },
+   "150":{
+      "0":{
+         "GXT":"CLO_HSTF_G_6_0",
+         "Name_EN":"Refuse Collector Gloves",
+         "Name_RU":"Полуперчатки мусорщика"
+      }
+   },
+   "151":{
+      "0":{
+         "GXT":"CLO_HSTF_G_4_0",
+         "Name_EN":"White Cotton Gloves",
+         "Name_RU":"Белые хлопчатые перчатки"
+      }
+   },
+   "152":{
+      "0":{
+         "GXT":"CLO_HSTF_G_5_0",
+         "Name_EN":"Blue Surgical Gloves",
+         "Name_RU":"Хирургические перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_5_1",
+         "Name_EN":"White Surgical Gloves",
+         "Name_RU":"Белые перчатки"
+      }
+   },
+   "153":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "154":{
+      "0":{
+         "GXT":"CLO_HSTF_G_0_0",
+         "Name_EN":"Black Driving Gloves",
+         "Name_RU":"Черные водительские"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_0_1",
+         "Name_EN":"Brown Driving Gloves",
+         "Name_RU":"Бурые водительские"
+      }
+   },
+   "155":{
+      "0":{
+         "GXT":"CLO_HSTF_G_1_0",
+         "Name_EN":"Black Leather Gloves",
+         "Name_RU":"Черные кожаные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_1_1",
+         "Name_EN":"Brown Leather Gloves",
+         "Name_RU":"Коричневые перчатки"
+      }
+   },
+   "156":{
+      "0":{
+         "GXT":"CLO_HSTF_G_2_0",
+         "Name_EN":"Black Woolen Gloves",
+         "Name_RU":"Черные шерстяные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_2_1",
+         "Name_EN":"Gray Woolen Gloves",
+         "Name_RU":"Серые шерстяные перчатки"
+      }
+   },
+   "157":{
+      "0":{
+         "GXT":"CLO_HSTF_G_3_0",
+         "Name_EN":"Black Fingerless Gloves",
+         "Name_RU":"Черные полуперчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_3_1",
+         "Name_EN":"Gray Fingerless Gloves",
+         "Name_RU":"Серые полуперчатки"
+      }
+   },
+   "158":{
+      "0":{
+         "GXT":"CLO_HSTF_G_6_0",
+         "Name_EN":"Refuse Collector Gloves",
+         "Name_RU":"Полуперчатки мусорщика"
+      }
+   },
+   "159":{
+      "0":{
+         "GXT":"CLO_HSTF_G_4_0",
+         "Name_EN":"White Cotton Gloves",
+         "Name_RU":"Белые хлопчатые перчатки"
+      }
+   },
+   "160":{
+      "0":{
+         "GXT":"CLO_HSTF_G_5_0",
+         "Name_EN":"Blue Surgical Gloves",
+         "Name_RU":"Хирургические перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_5_1",
+         "Name_EN":"White Surgical Gloves",
+         "Name_RU":"Белые перчатки"
+      }
+   },
+   "161":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "162":{
+      "0":{
+         "GXT":"CLO_HSTF_G_0_0",
+         "Name_EN":"Black Driving Gloves",
+         "Name_RU":"Черные водительские"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_0_1",
+         "Name_EN":"Brown Driving Gloves",
+         "Name_RU":"Бурые водительские"
+      }
+   },
+   "163":{
+      "0":{
+         "GXT":"CLO_HSTF_G_1_0",
+         "Name_EN":"Black Leather Gloves",
+         "Name_RU":"Черные кожаные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_1_1",
+         "Name_EN":"Brown Leather Gloves",
+         "Name_RU":"Коричневые перчатки"
+      }
+   },
+   "164":{
+      "0":{
+         "GXT":"CLO_HSTF_G_2_0",
+         "Name_EN":"Black Woolen Gloves",
+         "Name_RU":"Черные шерстяные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_2_1",
+         "Name_EN":"Gray Woolen Gloves",
+         "Name_RU":"Серые шерстяные перчатки"
+      }
+   },
+   "165":{
+      "0":{
+         "GXT":"CLO_HSTF_G_3_0",
+         "Name_EN":"Black Fingerless Gloves",
+         "Name_RU":"Черные полуперчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_3_1",
+         "Name_EN":"Gray Fingerless Gloves",
+         "Name_RU":"Серые полуперчатки"
+      }
+   },
+   "166":{
+      "0":{
+         "GXT":"CLO_HSTF_G_6_0",
+         "Name_EN":"Refuse Collector Gloves",
+         "Name_RU":"Полуперчатки мусорщика"
+      }
+   },
+   "167":{
+      "0":{
+         "GXT":"CLO_HSTF_G_4_0",
+         "Name_EN":"White Cotton Gloves",
+         "Name_RU":"Белые хлопчатые перчатки"
+      }
+   },
+   "168":{
+      "0":{
+         "GXT":"CLO_HSTF_G_5_0",
+         "Name_EN":"Blue Surgical Gloves",
+         "Name_RU":"Хирургические перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_5_1",
+         "Name_EN":"White Surgical Gloves",
+         "Name_RU":"Белые перчатки"
+      }
+   },
+   "169":{
+      "0":{
+         "GXT":"CLO_GRF_G_0_0",
+         "Name_EN":"Blue Digital Armored",
+         "Name_RU":"Синие цифр. с защитой"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_0_1",
+         "Name_EN":"Brown Digital Armored",
+         "Name_RU":"Бурые цифр. с защитой"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_0_2",
+         "Name_EN":"Green Digital Armored",
+         "Name_RU":"Зеленые цифр. с защитой"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_0_3",
+         "Name_EN":"Gray Digital Armored",
+         "Name_RU":"Серые цифр. с защитой"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_0_4",
+         "Name_EN":"Peach Digital Armored",
+         "Name_RU":"Бежевые цифр. с защитой"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_0_5",
+         "Name_EN":"Fall Armored",
+         "Name_RU":"Осенние с защитой"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_0_6",
+         "Name_EN":"Dark Woodland Armored",
+         "Name_RU":"Лесные с защитой"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_0_7",
+         "Name_EN":"Crosshatch Armored",
+         "Name_RU":"С защитой в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_0_8",
+         "Name_EN":"Moss Digital Armored",
+         "Name_RU":"Болотно-цифр. с защитой"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_0_9",
+         "Name_EN":"Gray Woodland Armored",
+         "Name_RU":"Сероватые с защитой"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_0_10",
+         "Name_EN":"Aqua Camo Armored",
+         "Name_RU":"Морские с защитой"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_0_11",
+         "Name_EN":"Splinter Armored",
+         "Name_RU":"Оскольчатые с защитой"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_0_12",
+         "Name_EN":"Contrast Camo Armored",
+         "Name_RU":"Контрастные с защитой"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_0_13",
+         "Name_EN":"Cobble Armored",
+         "Name_RU":"Галечные с защитой"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_0_14",
+         "Name_EN":"Peach Camo Armored",
+         "Name_RU":"Бежевые с защитой"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_0_15",
+         "Name_EN":"Brushstroke Armored",
+         "Name_RU":"Мазковые с защитой"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_0_16",
+         "Name_EN":"Flecktarn Armored",
+         "Name_RU":"С защитой флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_0_17",
+         "Name_EN":"Light Woodland Armored",
+         "Name_RU":"Полевые с защитой"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_0_18",
+         "Name_EN":"Moss Armored",
+         "Name_RU":"Болотные с защитой"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_0_19",
+         "Name_EN":"Sand Armored",
+         "Name_RU":"Песочные с защитой"
+      }
+   },
+   "170":{
+      "0":{
+         "GXT":"CLO_GRF_G_1_0",
+         "Name_EN":"Blue Digital Tactical",
+         "Name_RU":"Синие цифр. армейские"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_1_1",
+         "Name_EN":"Brown Digital Tactical",
+         "Name_RU":"Бурые цифр. армейские"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_1_2",
+         "Name_EN":"Green Digital Tactical",
+         "Name_RU":"Зеленые цифр. армейские"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_1_3",
+         "Name_EN":"Gray Digital Tactical",
+         "Name_RU":"Серые цифр. армейские"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_1_4",
+         "Name_EN":"Peach Digital Tactical",
+         "Name_RU":"Бежевые цифр. армейские"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_1_5",
+         "Name_EN":"Fall Tactical",
+         "Name_RU":"Осенние армейские"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_1_6",
+         "Name_EN":"Dark Woodland Tactical",
+         "Name_RU":"Лесные армейские"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_1_7",
+         "Name_EN":"Crosshatch Tactical",
+         "Name_RU":"Армейские в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_1_8",
+         "Name_EN":"Moss Digital Tactical",
+         "Name_RU":"Болотно-цифр. армейские"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_1_9",
+         "Name_EN":"Gray Woodland Tactical",
+         "Name_RU":"Сероватые армейские"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_1_10",
+         "Name_EN":"Aqua Camo Tactical",
+         "Name_RU":"Морские армейские"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_1_11",
+         "Name_EN":"Splinter Tactical",
+         "Name_RU":"Оскольчатые армейские"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_1_12",
+         "Name_EN":"Contrast Camo Tactical",
+         "Name_RU":"Контрастные армейские"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_1_13",
+         "Name_EN":"Cobble Tactical",
+         "Name_RU":"Галечные армейские"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_1_14",
+         "Name_EN":"Peach Camo Tactical",
+         "Name_RU":"Бежевые армейские"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_1_15",
+         "Name_EN":"Brushstroke Tactical",
+         "Name_RU":"Мазковые армейские"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_1_16",
+         "Name_EN":"Flecktarn Tactical",
+         "Name_RU":"Армейские флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_1_17",
+         "Name_EN":"Light Woodland Tactical",
+         "Name_RU":"Полевые армейские"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_1_18",
+         "Name_EN":"Moss Tactical",
+         "Name_RU":"Болотные армейские"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_1_19",
+         "Name_EN":"Sand Tactical",
+         "Name_RU":"Песочные армейские"
+      }
+   },
+   "171":{
+      "0":{
+         "GXT":"CLO_GRF_G_0_0",
+         "Name_EN":"Blue Digital Armored",
+         "Name_RU":"Синие цифр. с защитой"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_0_1",
+         "Name_EN":"Brown Digital Armored",
+         "Name_RU":"Бурые цифр. с защитой"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_0_2",
+         "Name_EN":"Green Digital Armored",
+         "Name_RU":"Зеленые цифр. с защитой"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_0_3",
+         "Name_EN":"Gray Digital Armored",
+         "Name_RU":"Серые цифр. с защитой"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_0_4",
+         "Name_EN":"Peach Digital Armored",
+         "Name_RU":"Бежевые цифр. с защитой"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_0_5",
+         "Name_EN":"Fall Armored",
+         "Name_RU":"Осенние с защитой"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_0_6",
+         "Name_EN":"Dark Woodland Armored",
+         "Name_RU":"Лесные с защитой"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_0_7",
+         "Name_EN":"Crosshatch Armored",
+         "Name_RU":"С защитой в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_0_8",
+         "Name_EN":"Moss Digital Armored",
+         "Name_RU":"Болотно-цифр. с защитой"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_0_9",
+         "Name_EN":"Gray Woodland Armored",
+         "Name_RU":"Сероватые с защитой"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_0_10",
+         "Name_EN":"Aqua Camo Armored",
+         "Name_RU":"Морские с защитой"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_0_11",
+         "Name_EN":"Splinter Armored",
+         "Name_RU":"Оскольчатые с защитой"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_0_12",
+         "Name_EN":"Contrast Camo Armored",
+         "Name_RU":"Контрастные с защитой"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_0_13",
+         "Name_EN":"Cobble Armored",
+         "Name_RU":"Галечные с защитой"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_0_14",
+         "Name_EN":"Peach Camo Armored",
+         "Name_RU":"Бежевые с защитой"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_0_15",
+         "Name_EN":"Brushstroke Armored",
+         "Name_RU":"Мазковые с защитой"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_0_16",
+         "Name_EN":"Flecktarn Armored",
+         "Name_RU":"С защитой флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_0_17",
+         "Name_EN":"Light Woodland Armored",
+         "Name_RU":"Полевые с защитой"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_0_18",
+         "Name_EN":"Moss Armored",
+         "Name_RU":"Болотные с защитой"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_0_19",
+         "Name_EN":"Sand Armored",
+         "Name_RU":"Песочные с защитой"
+      }
+   },
+   "172":{
+      "0":{
+         "GXT":"CLO_GRF_G_0_0",
+         "Name_EN":"Blue Digital Armored",
+         "Name_RU":"Синие цифр. с защитой"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_0_1",
+         "Name_EN":"Brown Digital Armored",
+         "Name_RU":"Бурые цифр. с защитой"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_0_2",
+         "Name_EN":"Green Digital Armored",
+         "Name_RU":"Зеленые цифр. с защитой"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_0_3",
+         "Name_EN":"Gray Digital Armored",
+         "Name_RU":"Серые цифр. с защитой"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_0_4",
+         "Name_EN":"Peach Digital Armored",
+         "Name_RU":"Бежевые цифр. с защитой"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_0_5",
+         "Name_EN":"Fall Armored",
+         "Name_RU":"Осенние с защитой"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_0_6",
+         "Name_EN":"Dark Woodland Armored",
+         "Name_RU":"Лесные с защитой"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_0_7",
+         "Name_EN":"Crosshatch Armored",
+         "Name_RU":"С защитой в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_0_8",
+         "Name_EN":"Moss Digital Armored",
+         "Name_RU":"Болотно-цифр. с защитой"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_0_9",
+         "Name_EN":"Gray Woodland Armored",
+         "Name_RU":"Сероватые с защитой"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_0_10",
+         "Name_EN":"Aqua Camo Armored",
+         "Name_RU":"Морские с защитой"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_0_11",
+         "Name_EN":"Splinter Armored",
+         "Name_RU":"Оскольчатые с защитой"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_0_12",
+         "Name_EN":"Contrast Camo Armored",
+         "Name_RU":"Контрастные с защитой"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_0_13",
+         "Name_EN":"Cobble Armored",
+         "Name_RU":"Галечные с защитой"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_0_14",
+         "Name_EN":"Peach Camo Armored",
+         "Name_RU":"Бежевые с защитой"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_0_15",
+         "Name_EN":"Brushstroke Armored",
+         "Name_RU":"Мазковые с защитой"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_0_16",
+         "Name_EN":"Flecktarn Armored",
+         "Name_RU":"С защитой флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_0_17",
+         "Name_EN":"Light Woodland Armored",
+         "Name_RU":"Полевые с защитой"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_0_18",
+         "Name_EN":"Moss Armored",
+         "Name_RU":"Болотные с защитой"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_0_19",
+         "Name_EN":"Sand Armored",
+         "Name_RU":"Песочные с защитой"
+      }
+   },
+   "173":{
+      "0":{
+         "GXT":"CLO_GRF_G_0_0",
+         "Name_EN":"Blue Digital Armored",
+         "Name_RU":"Синие цифр. с защитой"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_0_1",
+         "Name_EN":"Brown Digital Armored",
+         "Name_RU":"Бурые цифр. с защитой"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_0_2",
+         "Name_EN":"Green Digital Armored",
+         "Name_RU":"Зеленые цифр. с защитой"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_0_3",
+         "Name_EN":"Gray Digital Armored",
+         "Name_RU":"Серые цифр. с защитой"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_0_4",
+         "Name_EN":"Peach Digital Armored",
+         "Name_RU":"Бежевые цифр. с защитой"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_0_5",
+         "Name_EN":"Fall Armored",
+         "Name_RU":"Осенние с защитой"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_0_6",
+         "Name_EN":"Dark Woodland Armored",
+         "Name_RU":"Лесные с защитой"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_0_7",
+         "Name_EN":"Crosshatch Armored",
+         "Name_RU":"С защитой в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_0_8",
+         "Name_EN":"Moss Digital Armored",
+         "Name_RU":"Болотно-цифр. с защитой"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_0_9",
+         "Name_EN":"Gray Woodland Armored",
+         "Name_RU":"Сероватые с защитой"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_0_10",
+         "Name_EN":"Aqua Camo Armored",
+         "Name_RU":"Морские с защитой"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_0_11",
+         "Name_EN":"Splinter Armored",
+         "Name_RU":"Оскольчатые с защитой"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_0_12",
+         "Name_EN":"Contrast Camo Armored",
+         "Name_RU":"Контрастные с защитой"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_0_13",
+         "Name_EN":"Cobble Armored",
+         "Name_RU":"Галечные с защитой"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_0_14",
+         "Name_EN":"Peach Camo Armored",
+         "Name_RU":"Бежевые с защитой"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_0_15",
+         "Name_EN":"Brushstroke Armored",
+         "Name_RU":"Мазковые с защитой"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_0_16",
+         "Name_EN":"Flecktarn Armored",
+         "Name_RU":"С защитой флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_0_17",
+         "Name_EN":"Light Woodland Armored",
+         "Name_RU":"Полевые с защитой"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_0_18",
+         "Name_EN":"Moss Armored",
+         "Name_RU":"Болотные с защитой"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_0_19",
+         "Name_EN":"Sand Armored",
+         "Name_RU":"Песочные с защитой"
+      }
+   },
+   "174":{
+      "0":{
+         "GXT":"CLO_GRF_G_0_0",
+         "Name_EN":"Blue Digital Armored",
+         "Name_RU":"Синие цифр. с защитой"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_0_1",
+         "Name_EN":"Brown Digital Armored",
+         "Name_RU":"Бурые цифр. с защитой"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_0_2",
+         "Name_EN":"Green Digital Armored",
+         "Name_RU":"Зеленые цифр. с защитой"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_0_3",
+         "Name_EN":"Gray Digital Armored",
+         "Name_RU":"Серые цифр. с защитой"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_0_4",
+         "Name_EN":"Peach Digital Armored",
+         "Name_RU":"Бежевые цифр. с защитой"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_0_5",
+         "Name_EN":"Fall Armored",
+         "Name_RU":"Осенние с защитой"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_0_6",
+         "Name_EN":"Dark Woodland Armored",
+         "Name_RU":"Лесные с защитой"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_0_7",
+         "Name_EN":"Crosshatch Armored",
+         "Name_RU":"С защитой в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_0_8",
+         "Name_EN":"Moss Digital Armored",
+         "Name_RU":"Болотно-цифр. с защитой"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_0_9",
+         "Name_EN":"Gray Woodland Armored",
+         "Name_RU":"Сероватые с защитой"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_0_10",
+         "Name_EN":"Aqua Camo Armored",
+         "Name_RU":"Морские с защитой"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_0_11",
+         "Name_EN":"Splinter Armored",
+         "Name_RU":"Оскольчатые с защитой"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_0_12",
+         "Name_EN":"Contrast Camo Armored",
+         "Name_RU":"Контрастные с защитой"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_0_13",
+         "Name_EN":"Cobble Armored",
+         "Name_RU":"Галечные с защитой"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_0_14",
+         "Name_EN":"Peach Camo Armored",
+         "Name_RU":"Бежевые с защитой"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_0_15",
+         "Name_EN":"Brushstroke Armored",
+         "Name_RU":"Мазковые с защитой"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_0_16",
+         "Name_EN":"Flecktarn Armored",
+         "Name_RU":"С защитой флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_0_17",
+         "Name_EN":"Light Woodland Armored",
+         "Name_RU":"Полевые с защитой"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_0_18",
+         "Name_EN":"Moss Armored",
+         "Name_RU":"Болотные с защитой"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_0_19",
+         "Name_EN":"Sand Armored",
+         "Name_RU":"Песочные с защитой"
+      }
+   },
+   "175":{
+      "0":{
+         "GXT":"CLO_GRF_G_0_0",
+         "Name_EN":"Blue Digital Armored",
+         "Name_RU":"Синие цифр. с защитой"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_0_1",
+         "Name_EN":"Brown Digital Armored",
+         "Name_RU":"Бурые цифр. с защитой"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_0_2",
+         "Name_EN":"Green Digital Armored",
+         "Name_RU":"Зеленые цифр. с защитой"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_0_3",
+         "Name_EN":"Gray Digital Armored",
+         "Name_RU":"Серые цифр. с защитой"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_0_4",
+         "Name_EN":"Peach Digital Armored",
+         "Name_RU":"Бежевые цифр. с защитой"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_0_5",
+         "Name_EN":"Fall Armored",
+         "Name_RU":"Осенние с защитой"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_0_6",
+         "Name_EN":"Dark Woodland Armored",
+         "Name_RU":"Лесные с защитой"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_0_7",
+         "Name_EN":"Crosshatch Armored",
+         "Name_RU":"С защитой в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_0_8",
+         "Name_EN":"Moss Digital Armored",
+         "Name_RU":"Болотно-цифр. с защитой"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_0_9",
+         "Name_EN":"Gray Woodland Armored",
+         "Name_RU":"Сероватые с защитой"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_0_10",
+         "Name_EN":"Aqua Camo Armored",
+         "Name_RU":"Морские с защитой"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_0_11",
+         "Name_EN":"Splinter Armored",
+         "Name_RU":"Оскольчатые с защитой"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_0_12",
+         "Name_EN":"Contrast Camo Armored",
+         "Name_RU":"Контрастные с защитой"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_0_13",
+         "Name_EN":"Cobble Armored",
+         "Name_RU":"Галечные с защитой"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_0_14",
+         "Name_EN":"Peach Camo Armored",
+         "Name_RU":"Бежевые с защитой"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_0_15",
+         "Name_EN":"Brushstroke Armored",
+         "Name_RU":"Мазковые с защитой"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_0_16",
+         "Name_EN":"Flecktarn Armored",
+         "Name_RU":"С защитой флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_0_17",
+         "Name_EN":"Light Woodland Armored",
+         "Name_RU":"Полевые с защитой"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_0_18",
+         "Name_EN":"Moss Armored",
+         "Name_RU":"Болотные с защитой"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_0_19",
+         "Name_EN":"Sand Armored",
+         "Name_RU":"Песочные с защитой"
+      }
+   },
+   "176":{
+      "0":{
+         "GXT":"CLO_GRF_G_0_0",
+         "Name_EN":"Blue Digital Armored",
+         "Name_RU":"Синие цифр. с защитой"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_0_1",
+         "Name_EN":"Brown Digital Armored",
+         "Name_RU":"Бурые цифр. с защитой"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_0_2",
+         "Name_EN":"Green Digital Armored",
+         "Name_RU":"Зеленые цифр. с защитой"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_0_3",
+         "Name_EN":"Gray Digital Armored",
+         "Name_RU":"Серые цифр. с защитой"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_0_4",
+         "Name_EN":"Peach Digital Armored",
+         "Name_RU":"Бежевые цифр. с защитой"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_0_5",
+         "Name_EN":"Fall Armored",
+         "Name_RU":"Осенние с защитой"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_0_6",
+         "Name_EN":"Dark Woodland Armored",
+         "Name_RU":"Лесные с защитой"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_0_7",
+         "Name_EN":"Crosshatch Armored",
+         "Name_RU":"С защитой в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_0_8",
+         "Name_EN":"Moss Digital Armored",
+         "Name_RU":"Болотно-цифр. с защитой"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_0_9",
+         "Name_EN":"Gray Woodland Armored",
+         "Name_RU":"Сероватые с защитой"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_0_10",
+         "Name_EN":"Aqua Camo Armored",
+         "Name_RU":"Морские с защитой"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_0_11",
+         "Name_EN":"Splinter Armored",
+         "Name_RU":"Оскольчатые с защитой"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_0_12",
+         "Name_EN":"Contrast Camo Armored",
+         "Name_RU":"Контрастные с защитой"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_0_13",
+         "Name_EN":"Cobble Armored",
+         "Name_RU":"Галечные с защитой"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_0_14",
+         "Name_EN":"Peach Camo Armored",
+         "Name_RU":"Бежевые с защитой"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_0_15",
+         "Name_EN":"Brushstroke Armored",
+         "Name_RU":"Мазковые с защитой"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_0_16",
+         "Name_EN":"Flecktarn Armored",
+         "Name_RU":"С защитой флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_0_17",
+         "Name_EN":"Light Woodland Armored",
+         "Name_RU":"Полевые с защитой"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_0_18",
+         "Name_EN":"Moss Armored",
+         "Name_RU":"Болотные с защитой"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_0_19",
+         "Name_EN":"Sand Armored",
+         "Name_RU":"Песочные с защитой"
+      }
+   },
+   "177":{
+      "0":{
+         "GXT":"CLO_GRF_G_0_0",
+         "Name_EN":"Blue Digital Armored",
+         "Name_RU":"Синие цифр. с защитой"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_0_1",
+         "Name_EN":"Brown Digital Armored",
+         "Name_RU":"Бурые цифр. с защитой"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_0_2",
+         "Name_EN":"Green Digital Armored",
+         "Name_RU":"Зеленые цифр. с защитой"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_0_3",
+         "Name_EN":"Gray Digital Armored",
+         "Name_RU":"Серые цифр. с защитой"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_0_4",
+         "Name_EN":"Peach Digital Armored",
+         "Name_RU":"Бежевые цифр. с защитой"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_0_5",
+         "Name_EN":"Fall Armored",
+         "Name_RU":"Осенние с защитой"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_0_6",
+         "Name_EN":"Dark Woodland Armored",
+         "Name_RU":"Лесные с защитой"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_0_7",
+         "Name_EN":"Crosshatch Armored",
+         "Name_RU":"С защитой в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_0_8",
+         "Name_EN":"Moss Digital Armored",
+         "Name_RU":"Болотно-цифр. с защитой"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_0_9",
+         "Name_EN":"Gray Woodland Armored",
+         "Name_RU":"Сероватые с защитой"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_0_10",
+         "Name_EN":"Aqua Camo Armored",
+         "Name_RU":"Морские с защитой"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_0_11",
+         "Name_EN":"Splinter Armored",
+         "Name_RU":"Оскольчатые с защитой"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_0_12",
+         "Name_EN":"Contrast Camo Armored",
+         "Name_RU":"Контрастные с защитой"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_0_13",
+         "Name_EN":"Cobble Armored",
+         "Name_RU":"Галечные с защитой"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_0_14",
+         "Name_EN":"Peach Camo Armored",
+         "Name_RU":"Бежевые с защитой"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_0_15",
+         "Name_EN":"Brushstroke Armored",
+         "Name_RU":"Мазковые с защитой"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_0_16",
+         "Name_EN":"Flecktarn Armored",
+         "Name_RU":"С защитой флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_0_17",
+         "Name_EN":"Light Woodland Armored",
+         "Name_RU":"Полевые с защитой"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_0_18",
+         "Name_EN":"Moss Armored",
+         "Name_RU":"Болотные с защитой"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_0_19",
+         "Name_EN":"Sand Armored",
+         "Name_RU":"Песочные с защитой"
+      }
+   },
+   "178":{
+      "0":{
+         "GXT":"CLO_GRF_G_0_0",
+         "Name_EN":"Blue Digital Armored",
+         "Name_RU":"Синие цифр. с защитой"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_0_1",
+         "Name_EN":"Brown Digital Armored",
+         "Name_RU":"Бурые цифр. с защитой"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_0_2",
+         "Name_EN":"Green Digital Armored",
+         "Name_RU":"Зеленые цифр. с защитой"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_0_3",
+         "Name_EN":"Gray Digital Armored",
+         "Name_RU":"Серые цифр. с защитой"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_0_4",
+         "Name_EN":"Peach Digital Armored",
+         "Name_RU":"Бежевые цифр. с защитой"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_0_5",
+         "Name_EN":"Fall Armored",
+         "Name_RU":"Осенние с защитой"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_0_6",
+         "Name_EN":"Dark Woodland Armored",
+         "Name_RU":"Лесные с защитой"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_0_7",
+         "Name_EN":"Crosshatch Armored",
+         "Name_RU":"С защитой в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_0_8",
+         "Name_EN":"Moss Digital Armored",
+         "Name_RU":"Болотно-цифр. с защитой"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_0_9",
+         "Name_EN":"Gray Woodland Armored",
+         "Name_RU":"Сероватые с защитой"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_0_10",
+         "Name_EN":"Aqua Camo Armored",
+         "Name_RU":"Морские с защитой"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_0_11",
+         "Name_EN":"Splinter Armored",
+         "Name_RU":"Оскольчатые с защитой"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_0_12",
+         "Name_EN":"Contrast Camo Armored",
+         "Name_RU":"Контрастные с защитой"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_0_13",
+         "Name_EN":"Cobble Armored",
+         "Name_RU":"Галечные с защитой"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_0_14",
+         "Name_EN":"Peach Camo Armored",
+         "Name_RU":"Бежевые с защитой"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_0_15",
+         "Name_EN":"Brushstroke Armored",
+         "Name_RU":"Мазковые с защитой"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_0_16",
+         "Name_EN":"Flecktarn Armored",
+         "Name_RU":"С защитой флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_0_17",
+         "Name_EN":"Light Woodland Armored",
+         "Name_RU":"Полевые с защитой"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_0_18",
+         "Name_EN":"Moss Armored",
+         "Name_RU":"Болотные с защитой"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_0_19",
+         "Name_EN":"Sand Armored",
+         "Name_RU":"Песочные с защитой"
+      }
+   },
+   "179":{
+      "0":{
+         "GXT":"CLO_GRF_G_0_0",
+         "Name_EN":"Blue Digital Armored",
+         "Name_RU":"Синие цифр. с защитой"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_0_1",
+         "Name_EN":"Brown Digital Armored",
+         "Name_RU":"Бурые цифр. с защитой"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_0_2",
+         "Name_EN":"Green Digital Armored",
+         "Name_RU":"Зеленые цифр. с защитой"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_0_3",
+         "Name_EN":"Gray Digital Armored",
+         "Name_RU":"Серые цифр. с защитой"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_0_4",
+         "Name_EN":"Peach Digital Armored",
+         "Name_RU":"Бежевые цифр. с защитой"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_0_5",
+         "Name_EN":"Fall Armored",
+         "Name_RU":"Осенние с защитой"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_0_6",
+         "Name_EN":"Dark Woodland Armored",
+         "Name_RU":"Лесные с защитой"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_0_7",
+         "Name_EN":"Crosshatch Armored",
+         "Name_RU":"С защитой в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_0_8",
+         "Name_EN":"Moss Digital Armored",
+         "Name_RU":"Болотно-цифр. с защитой"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_0_9",
+         "Name_EN":"Gray Woodland Armored",
+         "Name_RU":"Сероватые с защитой"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_0_10",
+         "Name_EN":"Aqua Camo Armored",
+         "Name_RU":"Морские с защитой"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_0_11",
+         "Name_EN":"Splinter Armored",
+         "Name_RU":"Оскольчатые с защитой"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_0_12",
+         "Name_EN":"Contrast Camo Armored",
+         "Name_RU":"Контрастные с защитой"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_0_13",
+         "Name_EN":"Cobble Armored",
+         "Name_RU":"Галечные с защитой"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_0_14",
+         "Name_EN":"Peach Camo Armored",
+         "Name_RU":"Бежевые с защитой"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_0_15",
+         "Name_EN":"Brushstroke Armored",
+         "Name_RU":"Мазковые с защитой"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_0_16",
+         "Name_EN":"Flecktarn Armored",
+         "Name_RU":"С защитой флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_0_17",
+         "Name_EN":"Light Woodland Armored",
+         "Name_RU":"Полевые с защитой"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_0_18",
+         "Name_EN":"Moss Armored",
+         "Name_RU":"Болотные с защитой"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_0_19",
+         "Name_EN":"Sand Armored",
+         "Name_RU":"Песочные с защитой"
+      }
+   },
+   "180":{
+      "0":{
+         "GXT":"CLO_GRF_G_0_0",
+         "Name_EN":"Blue Digital Armored",
+         "Name_RU":"Синие цифр. с защитой"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_0_1",
+         "Name_EN":"Brown Digital Armored",
+         "Name_RU":"Бурые цифр. с защитой"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_0_2",
+         "Name_EN":"Green Digital Armored",
+         "Name_RU":"Зеленые цифр. с защитой"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_0_3",
+         "Name_EN":"Gray Digital Armored",
+         "Name_RU":"Серые цифр. с защитой"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_0_4",
+         "Name_EN":"Peach Digital Armored",
+         "Name_RU":"Бежевые цифр. с защитой"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_0_5",
+         "Name_EN":"Fall Armored",
+         "Name_RU":"Осенние с защитой"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_0_6",
+         "Name_EN":"Dark Woodland Armored",
+         "Name_RU":"Лесные с защитой"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_0_7",
+         "Name_EN":"Crosshatch Armored",
+         "Name_RU":"С защитой в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_0_8",
+         "Name_EN":"Moss Digital Armored",
+         "Name_RU":"Болотно-цифр. с защитой"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_0_9",
+         "Name_EN":"Gray Woodland Armored",
+         "Name_RU":"Сероватые с защитой"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_0_10",
+         "Name_EN":"Aqua Camo Armored",
+         "Name_RU":"Морские с защитой"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_0_11",
+         "Name_EN":"Splinter Armored",
+         "Name_RU":"Оскольчатые с защитой"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_0_12",
+         "Name_EN":"Contrast Camo Armored",
+         "Name_RU":"Контрастные с защитой"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_0_13",
+         "Name_EN":"Cobble Armored",
+         "Name_RU":"Галечные с защитой"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_0_14",
+         "Name_EN":"Peach Camo Armored",
+         "Name_RU":"Бежевые с защитой"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_0_15",
+         "Name_EN":"Brushstroke Armored",
+         "Name_RU":"Мазковые с защитой"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_0_16",
+         "Name_EN":"Flecktarn Armored",
+         "Name_RU":"С защитой флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_0_17",
+         "Name_EN":"Light Woodland Armored",
+         "Name_RU":"Полевые с защитой"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_0_18",
+         "Name_EN":"Moss Armored",
+         "Name_RU":"Болотные с защитой"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_0_19",
+         "Name_EN":"Sand Armored",
+         "Name_RU":"Песочные с защитой"
+      }
+   },
+   "181":{
+      "0":{
+         "GXT":"CLO_GRF_G_0_0",
+         "Name_EN":"Blue Digital Armored",
+         "Name_RU":"Синие цифр. с защитой"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_0_1",
+         "Name_EN":"Brown Digital Armored",
+         "Name_RU":"Бурые цифр. с защитой"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_0_2",
+         "Name_EN":"Green Digital Armored",
+         "Name_RU":"Зеленые цифр. с защитой"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_0_3",
+         "Name_EN":"Gray Digital Armored",
+         "Name_RU":"Серые цифр. с защитой"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_0_4",
+         "Name_EN":"Peach Digital Armored",
+         "Name_RU":"Бежевые цифр. с защитой"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_0_5",
+         "Name_EN":"Fall Armored",
+         "Name_RU":"Осенние с защитой"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_0_6",
+         "Name_EN":"Dark Woodland Armored",
+         "Name_RU":"Лесные с защитой"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_0_7",
+         "Name_EN":"Crosshatch Armored",
+         "Name_RU":"С защитой в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_0_8",
+         "Name_EN":"Moss Digital Armored",
+         "Name_RU":"Болотно-цифр. с защитой"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_0_9",
+         "Name_EN":"Gray Woodland Armored",
+         "Name_RU":"Сероватые с защитой"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_0_10",
+         "Name_EN":"Aqua Camo Armored",
+         "Name_RU":"Морские с защитой"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_0_11",
+         "Name_EN":"Splinter Armored",
+         "Name_RU":"Оскольчатые с защитой"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_0_12",
+         "Name_EN":"Contrast Camo Armored",
+         "Name_RU":"Контрастные с защитой"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_0_13",
+         "Name_EN":"Cobble Armored",
+         "Name_RU":"Галечные с защитой"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_0_14",
+         "Name_EN":"Peach Camo Armored",
+         "Name_RU":"Бежевые с защитой"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_0_15",
+         "Name_EN":"Brushstroke Armored",
+         "Name_RU":"Мазковые с защитой"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_0_16",
+         "Name_EN":"Flecktarn Armored",
+         "Name_RU":"С защитой флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_0_17",
+         "Name_EN":"Light Woodland Armored",
+         "Name_RU":"Полевые с защитой"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_0_18",
+         "Name_EN":"Moss Armored",
+         "Name_RU":"Болотные с защитой"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_0_19",
+         "Name_EN":"Sand Armored",
+         "Name_RU":"Песочные с защитой"
+      }
+   },
+   "182":{
+      "0":{
+         "GXT":"CLO_GRF_G_0_0",
+         "Name_EN":"Blue Digital Armored",
+         "Name_RU":"Синие цифр. с защитой"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_0_1",
+         "Name_EN":"Brown Digital Armored",
+         "Name_RU":"Бурые цифр. с защитой"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_0_2",
+         "Name_EN":"Green Digital Armored",
+         "Name_RU":"Зеленые цифр. с защитой"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_0_3",
+         "Name_EN":"Gray Digital Armored",
+         "Name_RU":"Серые цифр. с защитой"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_0_4",
+         "Name_EN":"Peach Digital Armored",
+         "Name_RU":"Бежевые цифр. с защитой"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_0_5",
+         "Name_EN":"Fall Armored",
+         "Name_RU":"Осенние с защитой"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_0_6",
+         "Name_EN":"Dark Woodland Armored",
+         "Name_RU":"Лесные с защитой"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_0_7",
+         "Name_EN":"Crosshatch Armored",
+         "Name_RU":"С защитой в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_0_8",
+         "Name_EN":"Moss Digital Armored",
+         "Name_RU":"Болотно-цифр. с защитой"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_0_9",
+         "Name_EN":"Gray Woodland Armored",
+         "Name_RU":"Сероватые с защитой"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_0_10",
+         "Name_EN":"Aqua Camo Armored",
+         "Name_RU":"Морские с защитой"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_0_11",
+         "Name_EN":"Splinter Armored",
+         "Name_RU":"Оскольчатые с защитой"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_0_12",
+         "Name_EN":"Contrast Camo Armored",
+         "Name_RU":"Контрастные с защитой"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_0_13",
+         "Name_EN":"Cobble Armored",
+         "Name_RU":"Галечные с защитой"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_0_14",
+         "Name_EN":"Peach Camo Armored",
+         "Name_RU":"Бежевые с защитой"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_0_15",
+         "Name_EN":"Brushstroke Armored",
+         "Name_RU":"Мазковые с защитой"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_0_16",
+         "Name_EN":"Flecktarn Armored",
+         "Name_RU":"С защитой флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_0_17",
+         "Name_EN":"Light Woodland Armored",
+         "Name_RU":"Полевые с защитой"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_0_18",
+         "Name_EN":"Moss Armored",
+         "Name_RU":"Болотные с защитой"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_0_19",
+         "Name_EN":"Sand Armored",
+         "Name_RU":"Песочные с защитой"
+      }
+   },
+   "183":{
+      "0":{
+         "GXT":"CLO_GRF_G_0_0",
+         "Name_EN":"Blue Digital Armored",
+         "Name_RU":"Синие цифр. с защитой"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_0_1",
+         "Name_EN":"Brown Digital Armored",
+         "Name_RU":"Бурые цифр. с защитой"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_0_2",
+         "Name_EN":"Green Digital Armored",
+         "Name_RU":"Зеленые цифр. с защитой"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_0_3",
+         "Name_EN":"Gray Digital Armored",
+         "Name_RU":"Серые цифр. с защитой"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_0_4",
+         "Name_EN":"Peach Digital Armored",
+         "Name_RU":"Бежевые цифр. с защитой"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_0_5",
+         "Name_EN":"Fall Armored",
+         "Name_RU":"Осенние с защитой"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_0_6",
+         "Name_EN":"Dark Woodland Armored",
+         "Name_RU":"Лесные с защитой"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_0_7",
+         "Name_EN":"Crosshatch Armored",
+         "Name_RU":"С защитой в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_0_8",
+         "Name_EN":"Moss Digital Armored",
+         "Name_RU":"Болотно-цифр. с защитой"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_0_9",
+         "Name_EN":"Gray Woodland Armored",
+         "Name_RU":"Сероватые с защитой"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_0_10",
+         "Name_EN":"Aqua Camo Armored",
+         "Name_RU":"Морские с защитой"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_0_11",
+         "Name_EN":"Splinter Armored",
+         "Name_RU":"Оскольчатые с защитой"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_0_12",
+         "Name_EN":"Contrast Camo Armored",
+         "Name_RU":"Контрастные с защитой"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_0_13",
+         "Name_EN":"Cobble Armored",
+         "Name_RU":"Галечные с защитой"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_0_14",
+         "Name_EN":"Peach Camo Armored",
+         "Name_RU":"Бежевые с защитой"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_0_15",
+         "Name_EN":"Brushstroke Armored",
+         "Name_RU":"Мазковые с защитой"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_0_16",
+         "Name_EN":"Flecktarn Armored",
+         "Name_RU":"С защитой флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_0_17",
+         "Name_EN":"Light Woodland Armored",
+         "Name_RU":"Полевые с защитой"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_0_18",
+         "Name_EN":"Moss Armored",
+         "Name_RU":"Болотные с защитой"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_0_19",
+         "Name_EN":"Sand Armored",
+         "Name_RU":"Песочные с защитой"
+      }
+   },
+   "184":{
+      "0":{
+         "GXT":"CLO_GRF_G_0_0",
+         "Name_EN":"Blue Digital Armored",
+         "Name_RU":"Синие цифр. с защитой"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_0_1",
+         "Name_EN":"Brown Digital Armored",
+         "Name_RU":"Бурые цифр. с защитой"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_0_2",
+         "Name_EN":"Green Digital Armored",
+         "Name_RU":"Зеленые цифр. с защитой"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_0_3",
+         "Name_EN":"Gray Digital Armored",
+         "Name_RU":"Серые цифр. с защитой"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_0_4",
+         "Name_EN":"Peach Digital Armored",
+         "Name_RU":"Бежевые цифр. с защитой"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_0_5",
+         "Name_EN":"Fall Armored",
+         "Name_RU":"Осенние с защитой"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_0_6",
+         "Name_EN":"Dark Woodland Armored",
+         "Name_RU":"Лесные с защитой"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_0_7",
+         "Name_EN":"Crosshatch Armored",
+         "Name_RU":"С защитой в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_0_8",
+         "Name_EN":"Moss Digital Armored",
+         "Name_RU":"Болотно-цифр. с защитой"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_0_9",
+         "Name_EN":"Gray Woodland Armored",
+         "Name_RU":"Сероватые с защитой"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_0_10",
+         "Name_EN":"Aqua Camo Armored",
+         "Name_RU":"Морские с защитой"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_0_11",
+         "Name_EN":"Splinter Armored",
+         "Name_RU":"Оскольчатые с защитой"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_0_12",
+         "Name_EN":"Contrast Camo Armored",
+         "Name_RU":"Контрастные с защитой"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_0_13",
+         "Name_EN":"Cobble Armored",
+         "Name_RU":"Галечные с защитой"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_0_14",
+         "Name_EN":"Peach Camo Armored",
+         "Name_RU":"Бежевые с защитой"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_0_15",
+         "Name_EN":"Brushstroke Armored",
+         "Name_RU":"Мазковые с защитой"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_0_16",
+         "Name_EN":"Flecktarn Armored",
+         "Name_RU":"С защитой флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_0_17",
+         "Name_EN":"Light Woodland Armored",
+         "Name_RU":"Полевые с защитой"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_0_18",
+         "Name_EN":"Moss Armored",
+         "Name_RU":"Болотные с защитой"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_0_19",
+         "Name_EN":"Sand Armored",
+         "Name_RU":"Песочные с защитой"
+      }
+   },
+   "185":{
+      "0":{
+         "GXT":"CLO_GRF_G_0_0",
+         "Name_EN":"Blue Digital Armored",
+         "Name_RU":"Синие цифр. с защитой"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_0_1",
+         "Name_EN":"Brown Digital Armored",
+         "Name_RU":"Бурые цифр. с защитой"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_0_2",
+         "Name_EN":"Green Digital Armored",
+         "Name_RU":"Зеленые цифр. с защитой"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_0_3",
+         "Name_EN":"Gray Digital Armored",
+         "Name_RU":"Серые цифр. с защитой"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_0_4",
+         "Name_EN":"Peach Digital Armored",
+         "Name_RU":"Бежевые цифр. с защитой"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_0_5",
+         "Name_EN":"Fall Armored",
+         "Name_RU":"Осенние с защитой"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_0_6",
+         "Name_EN":"Dark Woodland Armored",
+         "Name_RU":"Лесные с защитой"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_0_7",
+         "Name_EN":"Crosshatch Armored",
+         "Name_RU":"С защитой в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_0_8",
+         "Name_EN":"Moss Digital Armored",
+         "Name_RU":"Болотно-цифр. с защитой"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_0_9",
+         "Name_EN":"Gray Woodland Armored",
+         "Name_RU":"Сероватые с защитой"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_0_10",
+         "Name_EN":"Aqua Camo Armored",
+         "Name_RU":"Морские с защитой"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_0_11",
+         "Name_EN":"Splinter Armored",
+         "Name_RU":"Оскольчатые с защитой"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_0_12",
+         "Name_EN":"Contrast Camo Armored",
+         "Name_RU":"Контрастные с защитой"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_0_13",
+         "Name_EN":"Cobble Armored",
+         "Name_RU":"Галечные с защитой"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_0_14",
+         "Name_EN":"Peach Camo Armored",
+         "Name_RU":"Бежевые с защитой"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_0_15",
+         "Name_EN":"Brushstroke Armored",
+         "Name_RU":"Мазковые с защитой"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_0_16",
+         "Name_EN":"Flecktarn Armored",
+         "Name_RU":"С защитой флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_0_17",
+         "Name_EN":"Light Woodland Armored",
+         "Name_RU":"Полевые с защитой"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_0_18",
+         "Name_EN":"Moss Armored",
+         "Name_RU":"Болотные с защитой"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_0_19",
+         "Name_EN":"Sand Armored",
+         "Name_RU":"Песочные с защитой"
+      }
+   },
+   "186":{
+      "0":{
+         "GXT":"CLO_GRF_G_0_0",
+         "Name_EN":"Blue Digital Armored",
+         "Name_RU":"Синие цифр. с защитой"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_0_1",
+         "Name_EN":"Brown Digital Armored",
+         "Name_RU":"Бурые цифр. с защитой"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_0_2",
+         "Name_EN":"Green Digital Armored",
+         "Name_RU":"Зеленые цифр. с защитой"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_0_3",
+         "Name_EN":"Gray Digital Armored",
+         "Name_RU":"Серые цифр. с защитой"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_0_4",
+         "Name_EN":"Peach Digital Armored",
+         "Name_RU":"Бежевые цифр. с защитой"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_0_5",
+         "Name_EN":"Fall Armored",
+         "Name_RU":"Осенние с защитой"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_0_6",
+         "Name_EN":"Dark Woodland Armored",
+         "Name_RU":"Лесные с защитой"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_0_7",
+         "Name_EN":"Crosshatch Armored",
+         "Name_RU":"С защитой в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_0_8",
+         "Name_EN":"Moss Digital Armored",
+         "Name_RU":"Болотно-цифр. с защитой"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_0_9",
+         "Name_EN":"Gray Woodland Armored",
+         "Name_RU":"Сероватые с защитой"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_0_10",
+         "Name_EN":"Aqua Camo Armored",
+         "Name_RU":"Морские с защитой"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_0_11",
+         "Name_EN":"Splinter Armored",
+         "Name_RU":"Оскольчатые с защитой"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_0_12",
+         "Name_EN":"Contrast Camo Armored",
+         "Name_RU":"Контрастные с защитой"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_0_13",
+         "Name_EN":"Cobble Armored",
+         "Name_RU":"Галечные с защитой"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_0_14",
+         "Name_EN":"Peach Camo Armored",
+         "Name_RU":"Бежевые с защитой"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_0_15",
+         "Name_EN":"Brushstroke Armored",
+         "Name_RU":"Мазковые с защитой"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_0_16",
+         "Name_EN":"Flecktarn Armored",
+         "Name_RU":"С защитой флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_0_17",
+         "Name_EN":"Light Woodland Armored",
+         "Name_RU":"Полевые с защитой"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_0_18",
+         "Name_EN":"Moss Armored",
+         "Name_RU":"Болотные с защитой"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_0_19",
+         "Name_EN":"Sand Armored",
+         "Name_RU":"Песочные с защитой"
+      }
+   },
+   "187":{
+      "0":{
+         "GXT":"CLO_GRF_G_1_0",
+         "Name_EN":"Blue Digital Tactical",
+         "Name_RU":"Синие цифр. армейские"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_1_1",
+         "Name_EN":"Brown Digital Tactical",
+         "Name_RU":"Бурые цифр. армейские"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_1_2",
+         "Name_EN":"Green Digital Tactical",
+         "Name_RU":"Зеленые цифр. армейские"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_1_3",
+         "Name_EN":"Gray Digital Tactical",
+         "Name_RU":"Серые цифр. армейские"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_1_4",
+         "Name_EN":"Peach Digital Tactical",
+         "Name_RU":"Бежевые цифр. армейские"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_1_5",
+         "Name_EN":"Fall Tactical",
+         "Name_RU":"Осенние армейские"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_1_6",
+         "Name_EN":"Dark Woodland Tactical",
+         "Name_RU":"Лесные армейские"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_1_7",
+         "Name_EN":"Crosshatch Tactical",
+         "Name_RU":"Армейские в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_1_8",
+         "Name_EN":"Moss Digital Tactical",
+         "Name_RU":"Болотно-цифр. армейские"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_1_9",
+         "Name_EN":"Gray Woodland Tactical",
+         "Name_RU":"Сероватые армейские"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_1_10",
+         "Name_EN":"Aqua Camo Tactical",
+         "Name_RU":"Морские армейские"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_1_11",
+         "Name_EN":"Splinter Tactical",
+         "Name_RU":"Оскольчатые армейские"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_1_12",
+         "Name_EN":"Contrast Camo Tactical",
+         "Name_RU":"Контрастные армейские"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_1_13",
+         "Name_EN":"Cobble Tactical",
+         "Name_RU":"Галечные армейские"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_1_14",
+         "Name_EN":"Peach Camo Tactical",
+         "Name_RU":"Бежевые армейские"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_1_15",
+         "Name_EN":"Brushstroke Tactical",
+         "Name_RU":"Мазковые армейские"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_1_16",
+         "Name_EN":"Flecktarn Tactical",
+         "Name_RU":"Армейские флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_1_17",
+         "Name_EN":"Light Woodland Tactical",
+         "Name_RU":"Полевые армейские"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_1_18",
+         "Name_EN":"Moss Tactical",
+         "Name_RU":"Болотные армейские"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_1_19",
+         "Name_EN":"Sand Tactical",
+         "Name_RU":"Песочные армейские"
+      }
+   },
+   "188":{
+      "0":{
+         "GXT":"CLO_GRF_G_1_0",
+         "Name_EN":"Blue Digital Tactical",
+         "Name_RU":"Синие цифр. армейские"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_1_1",
+         "Name_EN":"Brown Digital Tactical",
+         "Name_RU":"Бурые цифр. армейские"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_1_2",
+         "Name_EN":"Green Digital Tactical",
+         "Name_RU":"Зеленые цифр. армейские"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_1_3",
+         "Name_EN":"Gray Digital Tactical",
+         "Name_RU":"Серые цифр. армейские"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_1_4",
+         "Name_EN":"Peach Digital Tactical",
+         "Name_RU":"Бежевые цифр. армейские"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_1_5",
+         "Name_EN":"Fall Tactical",
+         "Name_RU":"Осенние армейские"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_1_6",
+         "Name_EN":"Dark Woodland Tactical",
+         "Name_RU":"Лесные армейские"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_1_7",
+         "Name_EN":"Crosshatch Tactical",
+         "Name_RU":"Армейские в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_1_8",
+         "Name_EN":"Moss Digital Tactical",
+         "Name_RU":"Болотно-цифр. армейские"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_1_9",
+         "Name_EN":"Gray Woodland Tactical",
+         "Name_RU":"Сероватые армейские"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_1_10",
+         "Name_EN":"Aqua Camo Tactical",
+         "Name_RU":"Морские армейские"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_1_11",
+         "Name_EN":"Splinter Tactical",
+         "Name_RU":"Оскольчатые армейские"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_1_12",
+         "Name_EN":"Contrast Camo Tactical",
+         "Name_RU":"Контрастные армейские"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_1_13",
+         "Name_EN":"Cobble Tactical",
+         "Name_RU":"Галечные армейские"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_1_14",
+         "Name_EN":"Peach Camo Tactical",
+         "Name_RU":"Бежевые армейские"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_1_15",
+         "Name_EN":"Brushstroke Tactical",
+         "Name_RU":"Мазковые армейские"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_1_16",
+         "Name_EN":"Flecktarn Tactical",
+         "Name_RU":"Армейские флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_1_17",
+         "Name_EN":"Light Woodland Tactical",
+         "Name_RU":"Полевые армейские"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_1_18",
+         "Name_EN":"Moss Tactical",
+         "Name_RU":"Болотные армейские"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_1_19",
+         "Name_EN":"Sand Tactical",
+         "Name_RU":"Песочные армейские"
+      }
+   },
+   "189":{
+      "0":{
+         "GXT":"CLO_GRF_G_1_0",
+         "Name_EN":"Blue Digital Tactical",
+         "Name_RU":"Синие цифр. армейские"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_1_1",
+         "Name_EN":"Brown Digital Tactical",
+         "Name_RU":"Бурые цифр. армейские"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_1_2",
+         "Name_EN":"Green Digital Tactical",
+         "Name_RU":"Зеленые цифр. армейские"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_1_3",
+         "Name_EN":"Gray Digital Tactical",
+         "Name_RU":"Серые цифр. армейские"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_1_4",
+         "Name_EN":"Peach Digital Tactical",
+         "Name_RU":"Бежевые цифр. армейские"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_1_5",
+         "Name_EN":"Fall Tactical",
+         "Name_RU":"Осенние армейские"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_1_6",
+         "Name_EN":"Dark Woodland Tactical",
+         "Name_RU":"Лесные армейские"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_1_7",
+         "Name_EN":"Crosshatch Tactical",
+         "Name_RU":"Армейские в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_1_8",
+         "Name_EN":"Moss Digital Tactical",
+         "Name_RU":"Болотно-цифр. армейские"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_1_9",
+         "Name_EN":"Gray Woodland Tactical",
+         "Name_RU":"Сероватые армейские"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_1_10",
+         "Name_EN":"Aqua Camo Tactical",
+         "Name_RU":"Морские армейские"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_1_11",
+         "Name_EN":"Splinter Tactical",
+         "Name_RU":"Оскольчатые армейские"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_1_12",
+         "Name_EN":"Contrast Camo Tactical",
+         "Name_RU":"Контрастные армейские"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_1_13",
+         "Name_EN":"Cobble Tactical",
+         "Name_RU":"Галечные армейские"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_1_14",
+         "Name_EN":"Peach Camo Tactical",
+         "Name_RU":"Бежевые армейские"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_1_15",
+         "Name_EN":"Brushstroke Tactical",
+         "Name_RU":"Мазковые армейские"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_1_16",
+         "Name_EN":"Flecktarn Tactical",
+         "Name_RU":"Армейские флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_1_17",
+         "Name_EN":"Light Woodland Tactical",
+         "Name_RU":"Полевые армейские"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_1_18",
+         "Name_EN":"Moss Tactical",
+         "Name_RU":"Болотные армейские"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_1_19",
+         "Name_EN":"Sand Tactical",
+         "Name_RU":"Песочные армейские"
+      }
+   },
+   "190":{
+      "0":{
+         "GXT":"CLO_GRF_G_1_0",
+         "Name_EN":"Blue Digital Tactical",
+         "Name_RU":"Синие цифр. армейские"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_1_1",
+         "Name_EN":"Brown Digital Tactical",
+         "Name_RU":"Бурые цифр. армейские"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_1_2",
+         "Name_EN":"Green Digital Tactical",
+         "Name_RU":"Зеленые цифр. армейские"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_1_3",
+         "Name_EN":"Gray Digital Tactical",
+         "Name_RU":"Серые цифр. армейские"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_1_4",
+         "Name_EN":"Peach Digital Tactical",
+         "Name_RU":"Бежевые цифр. армейские"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_1_5",
+         "Name_EN":"Fall Tactical",
+         "Name_RU":"Осенние армейские"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_1_6",
+         "Name_EN":"Dark Woodland Tactical",
+         "Name_RU":"Лесные армейские"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_1_7",
+         "Name_EN":"Crosshatch Tactical",
+         "Name_RU":"Армейские в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_1_8",
+         "Name_EN":"Moss Digital Tactical",
+         "Name_RU":"Болотно-цифр. армейские"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_1_9",
+         "Name_EN":"Gray Woodland Tactical",
+         "Name_RU":"Сероватые армейские"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_1_10",
+         "Name_EN":"Aqua Camo Tactical",
+         "Name_RU":"Морские армейские"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_1_11",
+         "Name_EN":"Splinter Tactical",
+         "Name_RU":"Оскольчатые армейские"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_1_12",
+         "Name_EN":"Contrast Camo Tactical",
+         "Name_RU":"Контрастные армейские"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_1_13",
+         "Name_EN":"Cobble Tactical",
+         "Name_RU":"Галечные армейские"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_1_14",
+         "Name_EN":"Peach Camo Tactical",
+         "Name_RU":"Бежевые армейские"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_1_15",
+         "Name_EN":"Brushstroke Tactical",
+         "Name_RU":"Мазковые армейские"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_1_16",
+         "Name_EN":"Flecktarn Tactical",
+         "Name_RU":"Армейские флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_1_17",
+         "Name_EN":"Light Woodland Tactical",
+         "Name_RU":"Полевые армейские"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_1_18",
+         "Name_EN":"Moss Tactical",
+         "Name_RU":"Болотные армейские"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_1_19",
+         "Name_EN":"Sand Tactical",
+         "Name_RU":"Песочные армейские"
+      }
+   },
+   "191":{
+      "0":{
+         "GXT":"CLO_GRF_G_1_0",
+         "Name_EN":"Blue Digital Tactical",
+         "Name_RU":"Синие цифр. армейские"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_1_1",
+         "Name_EN":"Brown Digital Tactical",
+         "Name_RU":"Бурые цифр. армейские"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_1_2",
+         "Name_EN":"Green Digital Tactical",
+         "Name_RU":"Зеленые цифр. армейские"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_1_3",
+         "Name_EN":"Gray Digital Tactical",
+         "Name_RU":"Серые цифр. армейские"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_1_4",
+         "Name_EN":"Peach Digital Tactical",
+         "Name_RU":"Бежевые цифр. армейские"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_1_5",
+         "Name_EN":"Fall Tactical",
+         "Name_RU":"Осенние армейские"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_1_6",
+         "Name_EN":"Dark Woodland Tactical",
+         "Name_RU":"Лесные армейские"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_1_7",
+         "Name_EN":"Crosshatch Tactical",
+         "Name_RU":"Армейские в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_1_8",
+         "Name_EN":"Moss Digital Tactical",
+         "Name_RU":"Болотно-цифр. армейские"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_1_9",
+         "Name_EN":"Gray Woodland Tactical",
+         "Name_RU":"Сероватые армейские"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_1_10",
+         "Name_EN":"Aqua Camo Tactical",
+         "Name_RU":"Морские армейские"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_1_11",
+         "Name_EN":"Splinter Tactical",
+         "Name_RU":"Оскольчатые армейские"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_1_12",
+         "Name_EN":"Contrast Camo Tactical",
+         "Name_RU":"Контрастные армейские"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_1_13",
+         "Name_EN":"Cobble Tactical",
+         "Name_RU":"Галечные армейские"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_1_14",
+         "Name_EN":"Peach Camo Tactical",
+         "Name_RU":"Бежевые армейские"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_1_15",
+         "Name_EN":"Brushstroke Tactical",
+         "Name_RU":"Мазковые армейские"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_1_16",
+         "Name_EN":"Flecktarn Tactical",
+         "Name_RU":"Армейские флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_1_17",
+         "Name_EN":"Light Woodland Tactical",
+         "Name_RU":"Полевые армейские"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_1_18",
+         "Name_EN":"Moss Tactical",
+         "Name_RU":"Болотные армейские"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_1_19",
+         "Name_EN":"Sand Tactical",
+         "Name_RU":"Песочные армейские"
+      }
+   },
+   "192":{
+      "0":{
+         "GXT":"CLO_GRF_G_1_0",
+         "Name_EN":"Blue Digital Tactical",
+         "Name_RU":"Синие цифр. армейские"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_1_1",
+         "Name_EN":"Brown Digital Tactical",
+         "Name_RU":"Бурые цифр. армейские"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_1_2",
+         "Name_EN":"Green Digital Tactical",
+         "Name_RU":"Зеленые цифр. армейские"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_1_3",
+         "Name_EN":"Gray Digital Tactical",
+         "Name_RU":"Серые цифр. армейские"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_1_4",
+         "Name_EN":"Peach Digital Tactical",
+         "Name_RU":"Бежевые цифр. армейские"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_1_5",
+         "Name_EN":"Fall Tactical",
+         "Name_RU":"Осенние армейские"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_1_6",
+         "Name_EN":"Dark Woodland Tactical",
+         "Name_RU":"Лесные армейские"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_1_7",
+         "Name_EN":"Crosshatch Tactical",
+         "Name_RU":"Армейские в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_1_8",
+         "Name_EN":"Moss Digital Tactical",
+         "Name_RU":"Болотно-цифр. армейские"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_1_9",
+         "Name_EN":"Gray Woodland Tactical",
+         "Name_RU":"Сероватые армейские"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_1_10",
+         "Name_EN":"Aqua Camo Tactical",
+         "Name_RU":"Морские армейские"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_1_11",
+         "Name_EN":"Splinter Tactical",
+         "Name_RU":"Оскольчатые армейские"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_1_12",
+         "Name_EN":"Contrast Camo Tactical",
+         "Name_RU":"Контрастные армейские"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_1_13",
+         "Name_EN":"Cobble Tactical",
+         "Name_RU":"Галечные армейские"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_1_14",
+         "Name_EN":"Peach Camo Tactical",
+         "Name_RU":"Бежевые армейские"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_1_15",
+         "Name_EN":"Brushstroke Tactical",
+         "Name_RU":"Мазковые армейские"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_1_16",
+         "Name_EN":"Flecktarn Tactical",
+         "Name_RU":"Армейские флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_1_17",
+         "Name_EN":"Light Woodland Tactical",
+         "Name_RU":"Полевые армейские"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_1_18",
+         "Name_EN":"Moss Tactical",
+         "Name_RU":"Болотные армейские"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_1_19",
+         "Name_EN":"Sand Tactical",
+         "Name_RU":"Песочные армейские"
+      }
+   },
+   "193":{
+      "0":{
+         "GXT":"CLO_GRF_G_1_0",
+         "Name_EN":"Blue Digital Tactical",
+         "Name_RU":"Синие цифр. армейские"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_1_1",
+         "Name_EN":"Brown Digital Tactical",
+         "Name_RU":"Бурые цифр. армейские"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_1_2",
+         "Name_EN":"Green Digital Tactical",
+         "Name_RU":"Зеленые цифр. армейские"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_1_3",
+         "Name_EN":"Gray Digital Tactical",
+         "Name_RU":"Серые цифр. армейские"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_1_4",
+         "Name_EN":"Peach Digital Tactical",
+         "Name_RU":"Бежевые цифр. армейские"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_1_5",
+         "Name_EN":"Fall Tactical",
+         "Name_RU":"Осенние армейские"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_1_6",
+         "Name_EN":"Dark Woodland Tactical",
+         "Name_RU":"Лесные армейские"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_1_7",
+         "Name_EN":"Crosshatch Tactical",
+         "Name_RU":"Армейские в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_1_8",
+         "Name_EN":"Moss Digital Tactical",
+         "Name_RU":"Болотно-цифр. армейские"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_1_9",
+         "Name_EN":"Gray Woodland Tactical",
+         "Name_RU":"Сероватые армейские"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_1_10",
+         "Name_EN":"Aqua Camo Tactical",
+         "Name_RU":"Морские армейские"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_1_11",
+         "Name_EN":"Splinter Tactical",
+         "Name_RU":"Оскольчатые армейские"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_1_12",
+         "Name_EN":"Contrast Camo Tactical",
+         "Name_RU":"Контрастные армейские"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_1_13",
+         "Name_EN":"Cobble Tactical",
+         "Name_RU":"Галечные армейские"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_1_14",
+         "Name_EN":"Peach Camo Tactical",
+         "Name_RU":"Бежевые армейские"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_1_15",
+         "Name_EN":"Brushstroke Tactical",
+         "Name_RU":"Мазковые армейские"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_1_16",
+         "Name_EN":"Flecktarn Tactical",
+         "Name_RU":"Армейские флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_1_17",
+         "Name_EN":"Light Woodland Tactical",
+         "Name_RU":"Полевые армейские"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_1_18",
+         "Name_EN":"Moss Tactical",
+         "Name_RU":"Болотные армейские"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_1_19",
+         "Name_EN":"Sand Tactical",
+         "Name_RU":"Песочные армейские"
+      }
+   },
+   "194":{
+      "0":{
+         "GXT":"CLO_GRF_G_1_0",
+         "Name_EN":"Blue Digital Tactical",
+         "Name_RU":"Синие цифр. армейские"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_1_1",
+         "Name_EN":"Brown Digital Tactical",
+         "Name_RU":"Бурые цифр. армейские"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_1_2",
+         "Name_EN":"Green Digital Tactical",
+         "Name_RU":"Зеленые цифр. армейские"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_1_3",
+         "Name_EN":"Gray Digital Tactical",
+         "Name_RU":"Серые цифр. армейские"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_1_4",
+         "Name_EN":"Peach Digital Tactical",
+         "Name_RU":"Бежевые цифр. армейские"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_1_5",
+         "Name_EN":"Fall Tactical",
+         "Name_RU":"Осенние армейские"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_1_6",
+         "Name_EN":"Dark Woodland Tactical",
+         "Name_RU":"Лесные армейские"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_1_7",
+         "Name_EN":"Crosshatch Tactical",
+         "Name_RU":"Армейские в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_1_8",
+         "Name_EN":"Moss Digital Tactical",
+         "Name_RU":"Болотно-цифр. армейские"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_1_9",
+         "Name_EN":"Gray Woodland Tactical",
+         "Name_RU":"Сероватые армейские"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_1_10",
+         "Name_EN":"Aqua Camo Tactical",
+         "Name_RU":"Морские армейские"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_1_11",
+         "Name_EN":"Splinter Tactical",
+         "Name_RU":"Оскольчатые армейские"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_1_12",
+         "Name_EN":"Contrast Camo Tactical",
+         "Name_RU":"Контрастные армейские"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_1_13",
+         "Name_EN":"Cobble Tactical",
+         "Name_RU":"Галечные армейские"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_1_14",
+         "Name_EN":"Peach Camo Tactical",
+         "Name_RU":"Бежевые армейские"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_1_15",
+         "Name_EN":"Brushstroke Tactical",
+         "Name_RU":"Мазковые армейские"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_1_16",
+         "Name_EN":"Flecktarn Tactical",
+         "Name_RU":"Армейские флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_1_17",
+         "Name_EN":"Light Woodland Tactical",
+         "Name_RU":"Полевые армейские"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_1_18",
+         "Name_EN":"Moss Tactical",
+         "Name_RU":"Болотные армейские"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_1_19",
+         "Name_EN":"Sand Tactical",
+         "Name_RU":"Песочные армейские"
+      }
+   },
+   "195":{
+      "0":{
+         "GXT":"CLO_GRF_G_1_0",
+         "Name_EN":"Blue Digital Tactical",
+         "Name_RU":"Синие цифр. армейские"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_1_1",
+         "Name_EN":"Brown Digital Tactical",
+         "Name_RU":"Бурые цифр. армейские"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_1_2",
+         "Name_EN":"Green Digital Tactical",
+         "Name_RU":"Зеленые цифр. армейские"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_1_3",
+         "Name_EN":"Gray Digital Tactical",
+         "Name_RU":"Серые цифр. армейские"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_1_4",
+         "Name_EN":"Peach Digital Tactical",
+         "Name_RU":"Бежевые цифр. армейские"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_1_5",
+         "Name_EN":"Fall Tactical",
+         "Name_RU":"Осенние армейские"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_1_6",
+         "Name_EN":"Dark Woodland Tactical",
+         "Name_RU":"Лесные армейские"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_1_7",
+         "Name_EN":"Crosshatch Tactical",
+         "Name_RU":"Армейские в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_1_8",
+         "Name_EN":"Moss Digital Tactical",
+         "Name_RU":"Болотно-цифр. армейские"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_1_9",
+         "Name_EN":"Gray Woodland Tactical",
+         "Name_RU":"Сероватые армейские"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_1_10",
+         "Name_EN":"Aqua Camo Tactical",
+         "Name_RU":"Морские армейские"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_1_11",
+         "Name_EN":"Splinter Tactical",
+         "Name_RU":"Оскольчатые армейские"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_1_12",
+         "Name_EN":"Contrast Camo Tactical",
+         "Name_RU":"Контрастные армейские"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_1_13",
+         "Name_EN":"Cobble Tactical",
+         "Name_RU":"Галечные армейские"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_1_14",
+         "Name_EN":"Peach Camo Tactical",
+         "Name_RU":"Бежевые армейские"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_1_15",
+         "Name_EN":"Brushstroke Tactical",
+         "Name_RU":"Мазковые армейские"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_1_16",
+         "Name_EN":"Flecktarn Tactical",
+         "Name_RU":"Армейские флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_1_17",
+         "Name_EN":"Light Woodland Tactical",
+         "Name_RU":"Полевые армейские"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_1_18",
+         "Name_EN":"Moss Tactical",
+         "Name_RU":"Болотные армейские"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_1_19",
+         "Name_EN":"Sand Tactical",
+         "Name_RU":"Песочные армейские"
+      }
+   },
+   "196":{
+      "0":{
+         "GXT":"CLO_GRF_G_1_0",
+         "Name_EN":"Blue Digital Tactical",
+         "Name_RU":"Синие цифр. армейские"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_1_1",
+         "Name_EN":"Brown Digital Tactical",
+         "Name_RU":"Бурые цифр. армейские"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_1_2",
+         "Name_EN":"Green Digital Tactical",
+         "Name_RU":"Зеленые цифр. армейские"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_1_3",
+         "Name_EN":"Gray Digital Tactical",
+         "Name_RU":"Серые цифр. армейские"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_1_4",
+         "Name_EN":"Peach Digital Tactical",
+         "Name_RU":"Бежевые цифр. армейские"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_1_5",
+         "Name_EN":"Fall Tactical",
+         "Name_RU":"Осенние армейские"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_1_6",
+         "Name_EN":"Dark Woodland Tactical",
+         "Name_RU":"Лесные армейские"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_1_7",
+         "Name_EN":"Crosshatch Tactical",
+         "Name_RU":"Армейские в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_1_8",
+         "Name_EN":"Moss Digital Tactical",
+         "Name_RU":"Болотно-цифр. армейские"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_1_9",
+         "Name_EN":"Gray Woodland Tactical",
+         "Name_RU":"Сероватые армейские"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_1_10",
+         "Name_EN":"Aqua Camo Tactical",
+         "Name_RU":"Морские армейские"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_1_11",
+         "Name_EN":"Splinter Tactical",
+         "Name_RU":"Оскольчатые армейские"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_1_12",
+         "Name_EN":"Contrast Camo Tactical",
+         "Name_RU":"Контрастные армейские"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_1_13",
+         "Name_EN":"Cobble Tactical",
+         "Name_RU":"Галечные армейские"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_1_14",
+         "Name_EN":"Peach Camo Tactical",
+         "Name_RU":"Бежевые армейские"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_1_15",
+         "Name_EN":"Brushstroke Tactical",
+         "Name_RU":"Мазковые армейские"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_1_16",
+         "Name_EN":"Flecktarn Tactical",
+         "Name_RU":"Армейские флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_1_17",
+         "Name_EN":"Light Woodland Tactical",
+         "Name_RU":"Полевые армейские"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_1_18",
+         "Name_EN":"Moss Tactical",
+         "Name_RU":"Болотные армейские"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_1_19",
+         "Name_EN":"Sand Tactical",
+         "Name_RU":"Песочные армейские"
+      }
+   },
+   "197":{
+      "0":{
+         "GXT":"CLO_GRF_G_1_0",
+         "Name_EN":"Blue Digital Tactical",
+         "Name_RU":"Синие цифр. армейские"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_1_1",
+         "Name_EN":"Brown Digital Tactical",
+         "Name_RU":"Бурые цифр. армейские"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_1_2",
+         "Name_EN":"Green Digital Tactical",
+         "Name_RU":"Зеленые цифр. армейские"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_1_3",
+         "Name_EN":"Gray Digital Tactical",
+         "Name_RU":"Серые цифр. армейские"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_1_4",
+         "Name_EN":"Peach Digital Tactical",
+         "Name_RU":"Бежевые цифр. армейские"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_1_5",
+         "Name_EN":"Fall Tactical",
+         "Name_RU":"Осенние армейские"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_1_6",
+         "Name_EN":"Dark Woodland Tactical",
+         "Name_RU":"Лесные армейские"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_1_7",
+         "Name_EN":"Crosshatch Tactical",
+         "Name_RU":"Армейские в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_1_8",
+         "Name_EN":"Moss Digital Tactical",
+         "Name_RU":"Болотно-цифр. армейские"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_1_9",
+         "Name_EN":"Gray Woodland Tactical",
+         "Name_RU":"Сероватые армейские"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_1_10",
+         "Name_EN":"Aqua Camo Tactical",
+         "Name_RU":"Морские армейские"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_1_11",
+         "Name_EN":"Splinter Tactical",
+         "Name_RU":"Оскольчатые армейские"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_1_12",
+         "Name_EN":"Contrast Camo Tactical",
+         "Name_RU":"Контрастные армейские"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_1_13",
+         "Name_EN":"Cobble Tactical",
+         "Name_RU":"Галечные армейские"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_1_14",
+         "Name_EN":"Peach Camo Tactical",
+         "Name_RU":"Бежевые армейские"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_1_15",
+         "Name_EN":"Brushstroke Tactical",
+         "Name_RU":"Мазковые армейские"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_1_16",
+         "Name_EN":"Flecktarn Tactical",
+         "Name_RU":"Армейские флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_1_17",
+         "Name_EN":"Light Woodland Tactical",
+         "Name_RU":"Полевые армейские"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_1_18",
+         "Name_EN":"Moss Tactical",
+         "Name_RU":"Болотные армейские"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_1_19",
+         "Name_EN":"Sand Tactical",
+         "Name_RU":"Песочные армейские"
+      }
+   },
+   "198":{
+      "0":{
+         "GXT":"CLO_GRF_G_1_0",
+         "Name_EN":"Blue Digital Tactical",
+         "Name_RU":"Синие цифр. армейские"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_1_1",
+         "Name_EN":"Brown Digital Tactical",
+         "Name_RU":"Бурые цифр. армейские"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_1_2",
+         "Name_EN":"Green Digital Tactical",
+         "Name_RU":"Зеленые цифр. армейские"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_1_3",
+         "Name_EN":"Gray Digital Tactical",
+         "Name_RU":"Серые цифр. армейские"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_1_4",
+         "Name_EN":"Peach Digital Tactical",
+         "Name_RU":"Бежевые цифр. армейские"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_1_5",
+         "Name_EN":"Fall Tactical",
+         "Name_RU":"Осенние армейские"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_1_6",
+         "Name_EN":"Dark Woodland Tactical",
+         "Name_RU":"Лесные армейские"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_1_7",
+         "Name_EN":"Crosshatch Tactical",
+         "Name_RU":"Армейские в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_1_8",
+         "Name_EN":"Moss Digital Tactical",
+         "Name_RU":"Болотно-цифр. армейские"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_1_9",
+         "Name_EN":"Gray Woodland Tactical",
+         "Name_RU":"Сероватые армейские"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_1_10",
+         "Name_EN":"Aqua Camo Tactical",
+         "Name_RU":"Морские армейские"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_1_11",
+         "Name_EN":"Splinter Tactical",
+         "Name_RU":"Оскольчатые армейские"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_1_12",
+         "Name_EN":"Contrast Camo Tactical",
+         "Name_RU":"Контрастные армейские"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_1_13",
+         "Name_EN":"Cobble Tactical",
+         "Name_RU":"Галечные армейские"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_1_14",
+         "Name_EN":"Peach Camo Tactical",
+         "Name_RU":"Бежевые армейские"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_1_15",
+         "Name_EN":"Brushstroke Tactical",
+         "Name_RU":"Мазковые армейские"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_1_16",
+         "Name_EN":"Flecktarn Tactical",
+         "Name_RU":"Армейские флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_1_17",
+         "Name_EN":"Light Woodland Tactical",
+         "Name_RU":"Полевые армейские"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_1_18",
+         "Name_EN":"Moss Tactical",
+         "Name_RU":"Болотные армейские"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_1_19",
+         "Name_EN":"Sand Tactical",
+         "Name_RU":"Песочные армейские"
+      }
+   },
+   "199":{
+      "0":{
+         "GXT":"CLO_GRF_G_1_0",
+         "Name_EN":"Blue Digital Tactical",
+         "Name_RU":"Синие цифр. армейские"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_1_1",
+         "Name_EN":"Brown Digital Tactical",
+         "Name_RU":"Бурые цифр. армейские"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_1_2",
+         "Name_EN":"Green Digital Tactical",
+         "Name_RU":"Зеленые цифр. армейские"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_1_3",
+         "Name_EN":"Gray Digital Tactical",
+         "Name_RU":"Серые цифр. армейские"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_1_4",
+         "Name_EN":"Peach Digital Tactical",
+         "Name_RU":"Бежевые цифр. армейские"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_1_5",
+         "Name_EN":"Fall Tactical",
+         "Name_RU":"Осенние армейские"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_1_6",
+         "Name_EN":"Dark Woodland Tactical",
+         "Name_RU":"Лесные армейские"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_1_7",
+         "Name_EN":"Crosshatch Tactical",
+         "Name_RU":"Армейские в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_1_8",
+         "Name_EN":"Moss Digital Tactical",
+         "Name_RU":"Болотно-цифр. армейские"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_1_9",
+         "Name_EN":"Gray Woodland Tactical",
+         "Name_RU":"Сероватые армейские"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_1_10",
+         "Name_EN":"Aqua Camo Tactical",
+         "Name_RU":"Морские армейские"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_1_11",
+         "Name_EN":"Splinter Tactical",
+         "Name_RU":"Оскольчатые армейские"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_1_12",
+         "Name_EN":"Contrast Camo Tactical",
+         "Name_RU":"Контрастные армейские"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_1_13",
+         "Name_EN":"Cobble Tactical",
+         "Name_RU":"Галечные армейские"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_1_14",
+         "Name_EN":"Peach Camo Tactical",
+         "Name_RU":"Бежевые армейские"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_1_15",
+         "Name_EN":"Brushstroke Tactical",
+         "Name_RU":"Мазковые армейские"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_1_16",
+         "Name_EN":"Flecktarn Tactical",
+         "Name_RU":"Армейские флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_1_17",
+         "Name_EN":"Light Woodland Tactical",
+         "Name_RU":"Полевые армейские"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_1_18",
+         "Name_EN":"Moss Tactical",
+         "Name_RU":"Болотные армейские"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_1_19",
+         "Name_EN":"Sand Tactical",
+         "Name_RU":"Песочные армейские"
+      }
+   },
+   "200":{
+      "0":{
+         "GXT":"CLO_GRF_G_1_0",
+         "Name_EN":"Blue Digital Tactical",
+         "Name_RU":"Синие цифр. армейские"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_1_1",
+         "Name_EN":"Brown Digital Tactical",
+         "Name_RU":"Бурые цифр. армейские"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_1_2",
+         "Name_EN":"Green Digital Tactical",
+         "Name_RU":"Зеленые цифр. армейские"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_1_3",
+         "Name_EN":"Gray Digital Tactical",
+         "Name_RU":"Серые цифр. армейские"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_1_4",
+         "Name_EN":"Peach Digital Tactical",
+         "Name_RU":"Бежевые цифр. армейские"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_1_5",
+         "Name_EN":"Fall Tactical",
+         "Name_RU":"Осенние армейские"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_1_6",
+         "Name_EN":"Dark Woodland Tactical",
+         "Name_RU":"Лесные армейские"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_1_7",
+         "Name_EN":"Crosshatch Tactical",
+         "Name_RU":"Армейские в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_1_8",
+         "Name_EN":"Moss Digital Tactical",
+         "Name_RU":"Болотно-цифр. армейские"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_1_9",
+         "Name_EN":"Gray Woodland Tactical",
+         "Name_RU":"Сероватые армейские"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_1_10",
+         "Name_EN":"Aqua Camo Tactical",
+         "Name_RU":"Морские армейские"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_1_11",
+         "Name_EN":"Splinter Tactical",
+         "Name_RU":"Оскольчатые армейские"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_1_12",
+         "Name_EN":"Contrast Camo Tactical",
+         "Name_RU":"Контрастные армейские"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_1_13",
+         "Name_EN":"Cobble Tactical",
+         "Name_RU":"Галечные армейские"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_1_14",
+         "Name_EN":"Peach Camo Tactical",
+         "Name_RU":"Бежевые армейские"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_1_15",
+         "Name_EN":"Brushstroke Tactical",
+         "Name_RU":"Мазковые армейские"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_1_16",
+         "Name_EN":"Flecktarn Tactical",
+         "Name_RU":"Армейские флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_1_17",
+         "Name_EN":"Light Woodland Tactical",
+         "Name_RU":"Полевые армейские"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_1_18",
+         "Name_EN":"Moss Tactical",
+         "Name_RU":"Болотные армейские"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_1_19",
+         "Name_EN":"Sand Tactical",
+         "Name_RU":"Песочные армейские"
+      }
+   },
+   "201":{
+      "0":{
+         "GXT":"CLO_GRF_G_1_0",
+         "Name_EN":"Blue Digital Tactical",
+         "Name_RU":"Синие цифр. армейские"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_1_1",
+         "Name_EN":"Brown Digital Tactical",
+         "Name_RU":"Бурые цифр. армейские"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_1_2",
+         "Name_EN":"Green Digital Tactical",
+         "Name_RU":"Зеленые цифр. армейские"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_1_3",
+         "Name_EN":"Gray Digital Tactical",
+         "Name_RU":"Серые цифр. армейские"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_1_4",
+         "Name_EN":"Peach Digital Tactical",
+         "Name_RU":"Бежевые цифр. армейские"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_1_5",
+         "Name_EN":"Fall Tactical",
+         "Name_RU":"Осенние армейские"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_1_6",
+         "Name_EN":"Dark Woodland Tactical",
+         "Name_RU":"Лесные армейские"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_1_7",
+         "Name_EN":"Crosshatch Tactical",
+         "Name_RU":"Армейские в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_1_8",
+         "Name_EN":"Moss Digital Tactical",
+         "Name_RU":"Болотно-цифр. армейские"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_1_9",
+         "Name_EN":"Gray Woodland Tactical",
+         "Name_RU":"Сероватые армейские"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_1_10",
+         "Name_EN":"Aqua Camo Tactical",
+         "Name_RU":"Морские армейские"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_1_11",
+         "Name_EN":"Splinter Tactical",
+         "Name_RU":"Оскольчатые армейские"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_1_12",
+         "Name_EN":"Contrast Camo Tactical",
+         "Name_RU":"Контрастные армейские"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_1_13",
+         "Name_EN":"Cobble Tactical",
+         "Name_RU":"Галечные армейские"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_1_14",
+         "Name_EN":"Peach Camo Tactical",
+         "Name_RU":"Бежевые армейские"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_1_15",
+         "Name_EN":"Brushstroke Tactical",
+         "Name_RU":"Мазковые армейские"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_1_16",
+         "Name_EN":"Flecktarn Tactical",
+         "Name_RU":"Армейские флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_1_17",
+         "Name_EN":"Light Woodland Tactical",
+         "Name_RU":"Полевые армейские"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_1_18",
+         "Name_EN":"Moss Tactical",
+         "Name_RU":"Болотные армейские"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_1_19",
+         "Name_EN":"Sand Tactical",
+         "Name_RU":"Песочные армейские"
+      }
+   },
+   "202":{
+      "0":{
+         "GXT":"CLO_GRF_G_1_0",
+         "Name_EN":"Blue Digital Tactical",
+         "Name_RU":"Синие цифр. армейские"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_1_1",
+         "Name_EN":"Brown Digital Tactical",
+         "Name_RU":"Бурые цифр. армейские"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_1_2",
+         "Name_EN":"Green Digital Tactical",
+         "Name_RU":"Зеленые цифр. армейские"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_1_3",
+         "Name_EN":"Gray Digital Tactical",
+         "Name_RU":"Серые цифр. армейские"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_1_4",
+         "Name_EN":"Peach Digital Tactical",
+         "Name_RU":"Бежевые цифр. армейские"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_1_5",
+         "Name_EN":"Fall Tactical",
+         "Name_RU":"Осенние армейские"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_1_6",
+         "Name_EN":"Dark Woodland Tactical",
+         "Name_RU":"Лесные армейские"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_1_7",
+         "Name_EN":"Crosshatch Tactical",
+         "Name_RU":"Армейские в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_1_8",
+         "Name_EN":"Moss Digital Tactical",
+         "Name_RU":"Болотно-цифр. армейские"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_1_9",
+         "Name_EN":"Gray Woodland Tactical",
+         "Name_RU":"Сероватые армейские"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_1_10",
+         "Name_EN":"Aqua Camo Tactical",
+         "Name_RU":"Морские армейские"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_1_11",
+         "Name_EN":"Splinter Tactical",
+         "Name_RU":"Оскольчатые армейские"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_1_12",
+         "Name_EN":"Contrast Camo Tactical",
+         "Name_RU":"Контрастные армейские"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_1_13",
+         "Name_EN":"Cobble Tactical",
+         "Name_RU":"Галечные армейские"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_1_14",
+         "Name_EN":"Peach Camo Tactical",
+         "Name_RU":"Бежевые армейские"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_1_15",
+         "Name_EN":"Brushstroke Tactical",
+         "Name_RU":"Мазковые армейские"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_1_16",
+         "Name_EN":"Flecktarn Tactical",
+         "Name_RU":"Армейские флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_1_17",
+         "Name_EN":"Light Woodland Tactical",
+         "Name_RU":"Полевые армейские"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_1_18",
+         "Name_EN":"Moss Tactical",
+         "Name_RU":"Болотные армейские"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_1_19",
+         "Name_EN":"Sand Tactical",
+         "Name_RU":"Песочные армейские"
+      }
+   },
+   "203":{
+      "0":{
+         "GXT":"CLO_GRF_G_0_0",
+         "Name_EN":"Blue Digital Armored",
+         "Name_RU":"Синие цифр. с защитой"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_0_1",
+         "Name_EN":"Brown Digital Armored",
+         "Name_RU":"Бурые цифр. с защитой"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_0_2",
+         "Name_EN":"Green Digital Armored",
+         "Name_RU":"Зеленые цифр. с защитой"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_0_3",
+         "Name_EN":"Gray Digital Armored",
+         "Name_RU":"Серые цифр. с защитой"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_0_4",
+         "Name_EN":"Peach Digital Armored",
+         "Name_RU":"Бежевые цифр. с защитой"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_0_5",
+         "Name_EN":"Fall Armored",
+         "Name_RU":"Осенние с защитой"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_0_6",
+         "Name_EN":"Dark Woodland Armored",
+         "Name_RU":"Лесные с защитой"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_0_7",
+         "Name_EN":"Crosshatch Armored",
+         "Name_RU":"С защитой в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_0_8",
+         "Name_EN":"Moss Digital Armored",
+         "Name_RU":"Болотно-цифр. с защитой"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_0_9",
+         "Name_EN":"Gray Woodland Armored",
+         "Name_RU":"Сероватые с защитой"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_0_10",
+         "Name_EN":"Aqua Camo Armored",
+         "Name_RU":"Морские с защитой"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_0_11",
+         "Name_EN":"Splinter Armored",
+         "Name_RU":"Оскольчатые с защитой"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_0_12",
+         "Name_EN":"Contrast Camo Armored",
+         "Name_RU":"Контрастные с защитой"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_0_13",
+         "Name_EN":"Cobble Armored",
+         "Name_RU":"Галечные с защитой"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_0_14",
+         "Name_EN":"Peach Camo Armored",
+         "Name_RU":"Бежевые с защитой"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_0_15",
+         "Name_EN":"Brushstroke Armored",
+         "Name_RU":"Мазковые с защитой"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_0_16",
+         "Name_EN":"Flecktarn Armored",
+         "Name_RU":"С защитой флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_0_17",
+         "Name_EN":"Light Woodland Armored",
+         "Name_RU":"Полевые с защитой"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_0_18",
+         "Name_EN":"Moss Armored",
+         "Name_RU":"Болотные с защитой"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_0_19",
+         "Name_EN":"Sand Armored",
+         "Name_RU":"Песочные с защитой"
+      }
+   },
+   "204":{
+      "0":{
+         "GXT":"CLO_GRF_G_1_0",
+         "Name_EN":"Blue Digital Tactical",
+         "Name_RU":"Синие цифр. армейские"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_1_1",
+         "Name_EN":"Brown Digital Tactical",
+         "Name_RU":"Бурые цифр. армейские"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_1_2",
+         "Name_EN":"Green Digital Tactical",
+         "Name_RU":"Зеленые цифр. армейские"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_1_3",
+         "Name_EN":"Gray Digital Tactical",
+         "Name_RU":"Серые цифр. армейские"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_1_4",
+         "Name_EN":"Peach Digital Tactical",
+         "Name_RU":"Бежевые цифр. армейские"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_1_5",
+         "Name_EN":"Fall Tactical",
+         "Name_RU":"Осенние армейские"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_1_6",
+         "Name_EN":"Dark Woodland Tactical",
+         "Name_RU":"Лесные армейские"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_1_7",
+         "Name_EN":"Crosshatch Tactical",
+         "Name_RU":"Армейские в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_1_8",
+         "Name_EN":"Moss Digital Tactical",
+         "Name_RU":"Болотно-цифр. армейские"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_1_9",
+         "Name_EN":"Gray Woodland Tactical",
+         "Name_RU":"Сероватые армейские"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_1_10",
+         "Name_EN":"Aqua Camo Tactical",
+         "Name_RU":"Морские армейские"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_1_11",
+         "Name_EN":"Splinter Tactical",
+         "Name_RU":"Оскольчатые армейские"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_1_12",
+         "Name_EN":"Contrast Camo Tactical",
+         "Name_RU":"Контрастные армейские"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_1_13",
+         "Name_EN":"Cobble Tactical",
+         "Name_RU":"Галечные армейские"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_1_14",
+         "Name_EN":"Peach Camo Tactical",
+         "Name_RU":"Бежевые армейские"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_1_15",
+         "Name_EN":"Brushstroke Tactical",
+         "Name_RU":"Мазковые армейские"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_1_16",
+         "Name_EN":"Flecktarn Tactical",
+         "Name_RU":"Армейские флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_1_17",
+         "Name_EN":"Light Woodland Tactical",
+         "Name_RU":"Полевые армейские"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_1_18",
+         "Name_EN":"Moss Tactical",
+         "Name_RU":"Болотные армейские"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_1_19",
+         "Name_EN":"Sand Tactical",
+         "Name_RU":"Песочные армейские"
+      }
+   },
+   "205":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "1":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "2":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "3":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "4":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "5":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "6":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "7":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "8":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "9":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "10":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "11":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "206":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "1":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "2":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "3":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "4":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "5":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "6":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "7":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "8":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "9":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "10":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "11":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "12":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "13":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "14":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "15":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "16":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "17":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "207":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "1":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "2":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "3":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "4":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "5":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "6":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "7":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "8":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "9":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "10":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      },
+      "11":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "208":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "209":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "210":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "211":{
+      "0":{
+         "GXT":"CLO_SUF_G_1_0",
+         "Name_EN":"Black Armored",
+         "Name_RU":"Черные с защитой"
+      },
+      "1":{
+         "GXT":"CLO_SUF_G_1_1",
+         "Name_EN":"Gray Armored",
+         "Name_RU":"Серые с защитой"
+      },
+      "2":{
+         "GXT":"CLO_SUF_G_1_2",
+         "Name_EN":"Ash Armored",
+         "Name_RU":"Пепельные с защитой"
+      },
+      "3":{
+         "GXT":"CLO_SUF_G_1_3",
+         "Name_EN":"White Armored",
+         "Name_RU":"Белые с защитой"
+      },
+      "4":{
+         "GXT":"CLO_SUF_G_1_4",
+         "Name_EN":"Red & Gray Armored",
+         "Name_RU":"Красно-серые с защитой"
+      },
+      "5":{
+         "GXT":"CLO_SUF_G_1_5",
+         "Name_EN":"Brown Armored",
+         "Name_RU":"Коричневые с защитой"
+      },
+      "6":{
+         "GXT":"CLO_SUF_G_1_6",
+         "Name_EN":"Smoke Armored",
+         "Name_RU":"Дымчатые с защитой"
+      },
+      "7":{
+         "GXT":"CLO_SUF_G_1_7",
+         "Name_EN":"White & Green Armored",
+         "Name_RU":"Бело-зеленые с защитой"
+      }
+   },
+   "212":{
+      "0":{
+         "GXT":"CLO_SUF_G_1_0",
+         "Name_EN":"Black Armored",
+         "Name_RU":"Черные с защитой"
+      },
+      "1":{
+         "GXT":"CLO_SUF_G_1_1",
+         "Name_EN":"Gray Armored",
+         "Name_RU":"Серые с защитой"
+      },
+      "2":{
+         "GXT":"CLO_SUF_G_1_2",
+         "Name_EN":"Ash Armored",
+         "Name_RU":"Пепельные с защитой"
+      },
+      "3":{
+         "GXT":"CLO_SUF_G_1_3",
+         "Name_EN":"White Armored",
+         "Name_RU":"Белые с защитой"
+      },
+      "4":{
+         "GXT":"CLO_SUF_G_1_4",
+         "Name_EN":"Red & Gray Armored",
+         "Name_RU":"Красно-серые с защитой"
+      },
+      "5":{
+         "GXT":"CLO_SUF_G_1_5",
+         "Name_EN":"Brown Armored",
+         "Name_RU":"Коричневые с защитой"
+      },
+      "6":{
+         "GXT":"CLO_SUF_G_1_6",
+         "Name_EN":"Smoke Armored",
+         "Name_RU":"Дымчатые с защитой"
+      },
+      "7":{
+         "GXT":"CLO_SUF_G_1_7",
+         "Name_EN":"White & Green Armored",
+         "Name_RU":"Бело-зеленые с защитой"
+      }
+   },
+   "213":{
+      "0":{
+         "GXT":"CLO_SUF_G_1_0",
+         "Name_EN":"Black Armored",
+         "Name_RU":"Черные с защитой"
+      },
+      "1":{
+         "GXT":"CLO_SUF_G_1_1",
+         "Name_EN":"Gray Armored",
+         "Name_RU":"Серые с защитой"
+      },
+      "2":{
+         "GXT":"CLO_SUF_G_1_2",
+         "Name_EN":"Ash Armored",
+         "Name_RU":"Пепельные с защитой"
+      },
+      "3":{
+         "GXT":"CLO_SUF_G_1_3",
+         "Name_EN":"White Armored",
+         "Name_RU":"Белые с защитой"
+      },
+      "4":{
+         "GXT":"CLO_SUF_G_1_4",
+         "Name_EN":"Red & Gray Armored",
+         "Name_RU":"Красно-серые с защитой"
+      },
+      "5":{
+         "GXT":"CLO_SUF_G_1_5",
+         "Name_EN":"Brown Armored",
+         "Name_RU":"Коричневые с защитой"
+      },
+      "6":{
+         "GXT":"CLO_SUF_G_1_6",
+         "Name_EN":"Smoke Armored",
+         "Name_RU":"Дымчатые с защитой"
+      },
+      "7":{
+         "GXT":"CLO_SUF_G_1_7",
+         "Name_EN":"White & Green Armored",
+         "Name_RU":"Бело-зеленые с защитой"
+      }
+   },
+   "214":{
+      "0":{
+         "GXT":"CLO_SUF_G_1_0",
+         "Name_EN":"Black Armored",
+         "Name_RU":"Черные с защитой"
+      },
+      "1":{
+         "GXT":"CLO_SUF_G_1_1",
+         "Name_EN":"Gray Armored",
+         "Name_RU":"Серые с защитой"
+      },
+      "2":{
+         "GXT":"CLO_SUF_G_1_2",
+         "Name_EN":"Ash Armored",
+         "Name_RU":"Пепельные с защитой"
+      },
+      "3":{
+         "GXT":"CLO_SUF_G_1_3",
+         "Name_EN":"White Armored",
+         "Name_RU":"Белые с защитой"
+      },
+      "4":{
+         "GXT":"CLO_SUF_G_1_4",
+         "Name_EN":"Red & Gray Armored",
+         "Name_RU":"Красно-серые с защитой"
+      },
+      "5":{
+         "GXT":"CLO_SUF_G_1_5",
+         "Name_EN":"Brown Armored",
+         "Name_RU":"Коричневые с защитой"
+      },
+      "6":{
+         "GXT":"CLO_SUF_G_1_6",
+         "Name_EN":"Smoke Armored",
+         "Name_RU":"Дымчатые с защитой"
+      },
+      "7":{
+         "GXT":"CLO_SUF_G_1_7",
+         "Name_EN":"White & Green Armored",
+         "Name_RU":"Бело-зеленые с защитой"
+      }
+   },
+   "215":{
+      "0":{
+         "GXT":"CLO_SUF_G_1_0",
+         "Name_EN":"Black Armored",
+         "Name_RU":"Черные с защитой"
+      },
+      "1":{
+         "GXT":"CLO_SUF_G_1_1",
+         "Name_EN":"Gray Armored",
+         "Name_RU":"Серые с защитой"
+      },
+      "2":{
+         "GXT":"CLO_SUF_G_1_2",
+         "Name_EN":"Ash Armored",
+         "Name_RU":"Пепельные с защитой"
+      },
+      "3":{
+         "GXT":"CLO_SUF_G_1_3",
+         "Name_EN":"White Armored",
+         "Name_RU":"Белые с защитой"
+      },
+      "4":{
+         "GXT":"CLO_SUF_G_1_4",
+         "Name_EN":"Red & Gray Armored",
+         "Name_RU":"Красно-серые с защитой"
+      },
+      "5":{
+         "GXT":"CLO_SUF_G_1_5",
+         "Name_EN":"Brown Armored",
+         "Name_RU":"Коричневые с защитой"
+      },
+      "6":{
+         "GXT":"CLO_SUF_G_1_6",
+         "Name_EN":"Smoke Armored",
+         "Name_RU":"Дымчатые с защитой"
+      },
+      "7":{
+         "GXT":"CLO_SUF_G_1_7",
+         "Name_EN":"White & Green Armored",
+         "Name_RU":"Бело-зеленые с защитой"
+      }
+   },
+   "216":{
+      "0":{
+         "GXT":"CLO_SUF_G_1_0",
+         "Name_EN":"Black Armored",
+         "Name_RU":"Черные с защитой"
+      },
+      "1":{
+         "GXT":"CLO_SUF_G_1_1",
+         "Name_EN":"Gray Armored",
+         "Name_RU":"Серые с защитой"
+      },
+      "2":{
+         "GXT":"CLO_SUF_G_1_2",
+         "Name_EN":"Ash Armored",
+         "Name_RU":"Пепельные с защитой"
+      },
+      "3":{
+         "GXT":"CLO_SUF_G_1_3",
+         "Name_EN":"White Armored",
+         "Name_RU":"Белые с защитой"
+      },
+      "4":{
+         "GXT":"CLO_SUF_G_1_4",
+         "Name_EN":"Red & Gray Armored",
+         "Name_RU":"Красно-серые с защитой"
+      },
+      "5":{
+         "GXT":"CLO_SUF_G_1_5",
+         "Name_EN":"Brown Armored",
+         "Name_RU":"Коричневые с защитой"
+      },
+      "6":{
+         "GXT":"CLO_SUF_G_1_6",
+         "Name_EN":"Smoke Armored",
+         "Name_RU":"Дымчатые с защитой"
+      },
+      "7":{
+         "GXT":"CLO_SUF_G_1_7",
+         "Name_EN":"White & Green Armored",
+         "Name_RU":"Бело-зеленые с защитой"
+      }
+   },
+   "217":{
+      "0":{
+         "GXT":"CLO_SUF_G_1_0",
+         "Name_EN":"Black Armored",
+         "Name_RU":"Черные с защитой"
+      },
+      "1":{
+         "GXT":"CLO_SUF_G_1_1",
+         "Name_EN":"Gray Armored",
+         "Name_RU":"Серые с защитой"
+      },
+      "2":{
+         "GXT":"CLO_SUF_G_1_2",
+         "Name_EN":"Ash Armored",
+         "Name_RU":"Пепельные с защитой"
+      },
+      "3":{
+         "GXT":"CLO_SUF_G_1_3",
+         "Name_EN":"White Armored",
+         "Name_RU":"Белые с защитой"
+      },
+      "4":{
+         "GXT":"CLO_SUF_G_1_4",
+         "Name_EN":"Red & Gray Armored",
+         "Name_RU":"Красно-серые с защитой"
+      },
+      "5":{
+         "GXT":"CLO_SUF_G_1_5",
+         "Name_EN":"Brown Armored",
+         "Name_RU":"Коричневые с защитой"
+      },
+      "6":{
+         "GXT":"CLO_SUF_G_1_6",
+         "Name_EN":"Smoke Armored",
+         "Name_RU":"Дымчатые с защитой"
+      },
+      "7":{
+         "GXT":"CLO_SUF_G_1_7",
+         "Name_EN":"White & Green Armored",
+         "Name_RU":"Бело-зеленые с защитой"
+      }
+   },
+   "218":{
+      "0":{
+         "GXT":"CLO_SUF_G_1_0",
+         "Name_EN":"Black Armored",
+         "Name_RU":"Черные с защитой"
+      },
+      "1":{
+         "GXT":"CLO_SUF_G_1_1",
+         "Name_EN":"Gray Armored",
+         "Name_RU":"Серые с защитой"
+      },
+      "2":{
+         "GXT":"CLO_SUF_G_1_2",
+         "Name_EN":"Ash Armored",
+         "Name_RU":"Пепельные с защитой"
+      },
+      "3":{
+         "GXT":"CLO_SUF_G_1_3",
+         "Name_EN":"White Armored",
+         "Name_RU":"Белые с защитой"
+      },
+      "4":{
+         "GXT":"CLO_SUF_G_1_4",
+         "Name_EN":"Red & Gray Armored",
+         "Name_RU":"Красно-серые с защитой"
+      },
+      "5":{
+         "GXT":"CLO_SUF_G_1_5",
+         "Name_EN":"Brown Armored",
+         "Name_RU":"Коричневые с защитой"
+      },
+      "6":{
+         "GXT":"CLO_SUF_G_1_6",
+         "Name_EN":"Smoke Armored",
+         "Name_RU":"Дымчатые с защитой"
+      },
+      "7":{
+         "GXT":"CLO_SUF_G_1_7",
+         "Name_EN":"White & Green Armored",
+         "Name_RU":"Бело-зеленые с защитой"
+      }
+   },
+   "219":{
+      "0":{
+         "GXT":"CLO_SUF_G_1_0",
+         "Name_EN":"Black Armored",
+         "Name_RU":"Черные с защитой"
+      },
+      "1":{
+         "GXT":"CLO_SUF_G_1_1",
+         "Name_EN":"Gray Armored",
+         "Name_RU":"Серые с защитой"
+      },
+      "2":{
+         "GXT":"CLO_SUF_G_1_2",
+         "Name_EN":"Ash Armored",
+         "Name_RU":"Пепельные с защитой"
+      },
+      "3":{
+         "GXT":"CLO_SUF_G_1_3",
+         "Name_EN":"White Armored",
+         "Name_RU":"Белые с защитой"
+      },
+      "4":{
+         "GXT":"CLO_SUF_G_1_4",
+         "Name_EN":"Red & Gray Armored",
+         "Name_RU":"Красно-серые с защитой"
+      },
+      "5":{
+         "GXT":"CLO_SUF_G_1_5",
+         "Name_EN":"Brown Armored",
+         "Name_RU":"Коричневые с защитой"
+      },
+      "6":{
+         "GXT":"CLO_SUF_G_1_6",
+         "Name_EN":"Smoke Armored",
+         "Name_RU":"Дымчатые с защитой"
+      },
+      "7":{
+         "GXT":"CLO_SUF_G_1_7",
+         "Name_EN":"White & Green Armored",
+         "Name_RU":"Бело-зеленые с защитой"
+      }
+   },
+   "220":{
+      "0":{
+         "GXT":"CLO_SUF_G_1_0",
+         "Name_EN":"Black Armored",
+         "Name_RU":"Черные с защитой"
+      },
+      "1":{
+         "GXT":"CLO_SUF_G_1_1",
+         "Name_EN":"Gray Armored",
+         "Name_RU":"Серые с защитой"
+      },
+      "2":{
+         "GXT":"CLO_SUF_G_1_2",
+         "Name_EN":"Ash Armored",
+         "Name_RU":"Пепельные с защитой"
+      },
+      "3":{
+         "GXT":"CLO_SUF_G_1_3",
+         "Name_EN":"White Armored",
+         "Name_RU":"Белые с защитой"
+      },
+      "4":{
+         "GXT":"CLO_SUF_G_1_4",
+         "Name_EN":"Red & Gray Armored",
+         "Name_RU":"Красно-серые с защитой"
+      },
+      "5":{
+         "GXT":"CLO_SUF_G_1_5",
+         "Name_EN":"Brown Armored",
+         "Name_RU":"Коричневые с защитой"
+      },
+      "6":{
+         "GXT":"CLO_SUF_G_1_6",
+         "Name_EN":"Smoke Armored",
+         "Name_RU":"Дымчатые с защитой"
+      },
+      "7":{
+         "GXT":"CLO_SUF_G_1_7",
+         "Name_EN":"White & Green Armored",
+         "Name_RU":"Бело-зеленые с защитой"
+      }
+   },
+   "221":{
+      "0":{
+         "GXT":"CLO_SUF_G_1_0",
+         "Name_EN":"Black Armored",
+         "Name_RU":"Черные с защитой"
+      },
+      "1":{
+         "GXT":"CLO_SUF_G_1_1",
+         "Name_EN":"Gray Armored",
+         "Name_RU":"Серые с защитой"
+      },
+      "2":{
+         "GXT":"CLO_SUF_G_1_2",
+         "Name_EN":"Ash Armored",
+         "Name_RU":"Пепельные с защитой"
+      },
+      "3":{
+         "GXT":"CLO_SUF_G_1_3",
+         "Name_EN":"White Armored",
+         "Name_RU":"Белые с защитой"
+      },
+      "4":{
+         "GXT":"CLO_SUF_G_1_4",
+         "Name_EN":"Red & Gray Armored",
+         "Name_RU":"Красно-серые с защитой"
+      },
+      "5":{
+         "GXT":"CLO_SUF_G_1_5",
+         "Name_EN":"Brown Armored",
+         "Name_RU":"Коричневые с защитой"
+      },
+      "6":{
+         "GXT":"CLO_SUF_G_1_6",
+         "Name_EN":"Smoke Armored",
+         "Name_RU":"Дымчатые с защитой"
+      },
+      "7":{
+         "GXT":"CLO_SUF_G_1_7",
+         "Name_EN":"White & Green Armored",
+         "Name_RU":"Бело-зеленые с защитой"
+      }
+   },
+   "222":{
+      "0":{
+         "GXT":"CLO_SUF_G_1_0",
+         "Name_EN":"Black Armored",
+         "Name_RU":"Черные с защитой"
+      },
+      "1":{
+         "GXT":"CLO_SUF_G_1_1",
+         "Name_EN":"Gray Armored",
+         "Name_RU":"Серые с защитой"
+      },
+      "2":{
+         "GXT":"CLO_SUF_G_1_2",
+         "Name_EN":"Ash Armored",
+         "Name_RU":"Пепельные с защитой"
+      },
+      "3":{
+         "GXT":"CLO_SUF_G_1_3",
+         "Name_EN":"White Armored",
+         "Name_RU":"Белые с защитой"
+      },
+      "4":{
+         "GXT":"CLO_SUF_G_1_4",
+         "Name_EN":"Red & Gray Armored",
+         "Name_RU":"Красно-серые с защитой"
+      },
+      "5":{
+         "GXT":"CLO_SUF_G_1_5",
+         "Name_EN":"Brown Armored",
+         "Name_RU":"Коричневые с защитой"
+      },
+      "6":{
+         "GXT":"CLO_SUF_G_1_6",
+         "Name_EN":"Smoke Armored",
+         "Name_RU":"Дымчатые с защитой"
+      },
+      "7":{
+         "GXT":"CLO_SUF_G_1_7",
+         "Name_EN":"White & Green Armored",
+         "Name_RU":"Бело-зеленые с защитой"
+      }
+   },
+   "223":{
+      "0":{
+         "GXT":"CLO_SUF_G_1_0",
+         "Name_EN":"Black Armored",
+         "Name_RU":"Черные с защитой"
+      },
+      "1":{
+         "GXT":"CLO_SUF_G_1_1",
+         "Name_EN":"Gray Armored",
+         "Name_RU":"Серые с защитой"
+      },
+      "2":{
+         "GXT":"CLO_SUF_G_1_2",
+         "Name_EN":"Ash Armored",
+         "Name_RU":"Пепельные с защитой"
+      },
+      "3":{
+         "GXT":"CLO_SUF_G_1_3",
+         "Name_EN":"White Armored",
+         "Name_RU":"Белые с защитой"
+      },
+      "4":{
+         "GXT":"CLO_SUF_G_1_4",
+         "Name_EN":"Red & Gray Armored",
+         "Name_RU":"Красно-серые с защитой"
+      },
+      "5":{
+         "GXT":"CLO_SUF_G_1_5",
+         "Name_EN":"Brown Armored",
+         "Name_RU":"Коричневые с защитой"
+      },
+      "6":{
+         "GXT":"CLO_SUF_G_1_6",
+         "Name_EN":"Smoke Armored",
+         "Name_RU":"Дымчатые с защитой"
+      },
+      "7":{
+         "GXT":"CLO_SUF_G_1_7",
+         "Name_EN":"White & Green Armored",
+         "Name_RU":"Бело-зеленые с защитой"
+      }
+   },
+   "224":{
+      "0":{
+         "GXT":"CLO_SUF_G_1_0",
+         "Name_EN":"Black Armored",
+         "Name_RU":"Черные с защитой"
+      },
+      "1":{
+         "GXT":"CLO_SUF_G_1_1",
+         "Name_EN":"Gray Armored",
+         "Name_RU":"Серые с защитой"
+      },
+      "2":{
+         "GXT":"CLO_SUF_G_1_2",
+         "Name_EN":"Ash Armored",
+         "Name_RU":"Пепельные с защитой"
+      },
+      "3":{
+         "GXT":"CLO_SUF_G_1_3",
+         "Name_EN":"White Armored",
+         "Name_RU":"Белые с защитой"
+      },
+      "4":{
+         "GXT":"CLO_SUF_G_1_4",
+         "Name_EN":"Red & Gray Armored",
+         "Name_RU":"Красно-серые с защитой"
+      },
+      "5":{
+         "GXT":"CLO_SUF_G_1_5",
+         "Name_EN":"Brown Armored",
+         "Name_RU":"Коричневые с защитой"
+      },
+      "6":{
+         "GXT":"CLO_SUF_G_1_6",
+         "Name_EN":"Smoke Armored",
+         "Name_RU":"Дымчатые с защитой"
+      },
+      "7":{
+         "GXT":"CLO_SUF_G_1_7",
+         "Name_EN":"White & Green Armored",
+         "Name_RU":"Бело-зеленые с защитой"
+      }
+   },
+   "225":{
+      "0":{
+         "GXT":"CLO_SUF_G_1_0",
+         "Name_EN":"Black Armored",
+         "Name_RU":"Черные с защитой"
+      },
+      "1":{
+         "GXT":"CLO_SUF_G_1_1",
+         "Name_EN":"Gray Armored",
+         "Name_RU":"Серые с защитой"
+      },
+      "2":{
+         "GXT":"CLO_SUF_G_1_2",
+         "Name_EN":"Ash Armored",
+         "Name_RU":"Пепельные с защитой"
+      },
+      "3":{
+         "GXT":"CLO_SUF_G_1_3",
+         "Name_EN":"White Armored",
+         "Name_RU":"Белые с защитой"
+      },
+      "4":{
+         "GXT":"CLO_SUF_G_1_4",
+         "Name_EN":"Red & Gray Armored",
+         "Name_RU":"Красно-серые с защитой"
+      },
+      "5":{
+         "GXT":"CLO_SUF_G_1_5",
+         "Name_EN":"Brown Armored",
+         "Name_RU":"Коричневые с защитой"
+      },
+      "6":{
+         "GXT":"CLO_SUF_G_1_6",
+         "Name_EN":"Smoke Armored",
+         "Name_RU":"Дымчатые с защитой"
+      },
+      "7":{
+         "GXT":"CLO_SUF_G_1_7",
+         "Name_EN":"White & Green Armored",
+         "Name_RU":"Бело-зеленые с защитой"
+      }
+   },
+   "226":{
+      "0":{
+         "GXT":"CLO_SUF_G_1_0",
+         "Name_EN":"Black Armored",
+         "Name_RU":"Черные с защитой"
+      },
+      "1":{
+         "GXT":"CLO_SUF_G_1_1",
+         "Name_EN":"Gray Armored",
+         "Name_RU":"Серые с защитой"
+      },
+      "2":{
+         "GXT":"CLO_SUF_G_1_2",
+         "Name_EN":"Ash Armored",
+         "Name_RU":"Пепельные с защитой"
+      },
+      "3":{
+         "GXT":"CLO_SUF_G_1_3",
+         "Name_EN":"White Armored",
+         "Name_RU":"Белые с защитой"
+      },
+      "4":{
+         "GXT":"CLO_SUF_G_1_4",
+         "Name_EN":"Red & Gray Armored",
+         "Name_RU":"Красно-серые с защитой"
+      },
+      "5":{
+         "GXT":"CLO_SUF_G_1_5",
+         "Name_EN":"Brown Armored",
+         "Name_RU":"Коричневые с защитой"
+      },
+      "6":{
+         "GXT":"CLO_SUF_G_1_6",
+         "Name_EN":"Smoke Armored",
+         "Name_RU":"Дымчатые с защитой"
+      },
+      "7":{
+         "GXT":"CLO_SUF_G_1_7",
+         "Name_EN":"White & Green Armored",
+         "Name_RU":"Бело-зеленые с защитой"
+      }
+   },
+   "227":{
+      "0":{
+         "GXT":"CLO_SUF_G_1_0",
+         "Name_EN":"Black Armored",
+         "Name_RU":"Черные с защитой"
+      },
+      "1":{
+         "GXT":"CLO_SUF_G_1_1",
+         "Name_EN":"Gray Armored",
+         "Name_RU":"Серые с защитой"
+      },
+      "2":{
+         "GXT":"CLO_SUF_G_1_2",
+         "Name_EN":"Ash Armored",
+         "Name_RU":"Пепельные с защитой"
+      },
+      "3":{
+         "GXT":"CLO_SUF_G_1_3",
+         "Name_EN":"White Armored",
+         "Name_RU":"Белые с защитой"
+      },
+      "4":{
+         "GXT":"CLO_SUF_G_1_4",
+         "Name_EN":"Red & Gray Armored",
+         "Name_RU":"Красно-серые с защитой"
+      },
+      "5":{
+         "GXT":"CLO_SUF_G_1_5",
+         "Name_EN":"Brown Armored",
+         "Name_RU":"Коричневые с защитой"
+      },
+      "6":{
+         "GXT":"CLO_SUF_G_1_6",
+         "Name_EN":"Smoke Armored",
+         "Name_RU":"Дымчатые с защитой"
+      },
+      "7":{
+         "GXT":"CLO_SUF_G_1_7",
+         "Name_EN":"White & Green Armored",
+         "Name_RU":"Бело-зеленые с защитой"
+      }
+   },
+   "228":{
+      "0":{
+         "GXT":"CLO_SUF_G_1_0",
+         "Name_EN":"Black Armored",
+         "Name_RU":"Черные с защитой"
+      },
+      "1":{
+         "GXT":"CLO_SUF_G_1_1",
+         "Name_EN":"Gray Armored",
+         "Name_RU":"Серые с защитой"
+      },
+      "2":{
+         "GXT":"CLO_SUF_G_1_2",
+         "Name_EN":"Ash Armored",
+         "Name_RU":"Пепельные с защитой"
+      },
+      "3":{
+         "GXT":"CLO_SUF_G_1_3",
+         "Name_EN":"White Armored",
+         "Name_RU":"Белые с защитой"
+      },
+      "4":{
+         "GXT":"CLO_SUF_G_1_4",
+         "Name_EN":"Red & Gray Armored",
+         "Name_RU":"Красно-серые с защитой"
+      },
+      "5":{
+         "GXT":"CLO_SUF_G_1_5",
+         "Name_EN":"Brown Armored",
+         "Name_RU":"Коричневые с защитой"
+      },
+      "6":{
+         "GXT":"CLO_SUF_G_1_6",
+         "Name_EN":"Smoke Armored",
+         "Name_RU":"Дымчатые с защитой"
+      },
+      "7":{
+         "GXT":"CLO_SUF_G_1_7",
+         "Name_EN":"White & Green Armored",
+         "Name_RU":"Бело-зеленые с защитой"
+      }
+   },
+   "229":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "230":{
+      "0":{
+         "GXT":"CLO_HSTF_G_0_0",
+         "Name_EN":"Black Driving Gloves",
+         "Name_RU":"Черные водительские"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_0_1",
+         "Name_EN":"Brown Driving Gloves",
+         "Name_RU":"Бурые водительские"
+      }
+   },
+   "231":{
+      "0":{
+         "GXT":"CLO_HSTF_G_1_0",
+         "Name_EN":"Black Leather Gloves",
+         "Name_RU":"Черные кожаные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_1_1",
+         "Name_EN":"Brown Leather Gloves",
+         "Name_RU":"Коричневые перчатки"
+      }
+   },
+   "232":{
+      "0":{
+         "GXT":"CLO_HSTF_G_2_0",
+         "Name_EN":"Black Woolen Gloves",
+         "Name_RU":"Черные шерстяные перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_2_1",
+         "Name_EN":"Gray Woolen Gloves",
+         "Name_RU":"Серые шерстяные перчатки"
+      }
+   },
+   "233":{
+      "0":{
+         "GXT":"CLO_HSTF_G_3_0",
+         "Name_EN":"Black Fingerless Gloves",
+         "Name_RU":"Черные полуперчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_3_1",
+         "Name_EN":"Gray Fingerless Gloves",
+         "Name_RU":"Серые полуперчатки"
+      }
+   },
+   "234":{
+      "0":{
+         "GXT":"CLO_HSTF_G_6_0",
+         "Name_EN":"Refuse Collector Gloves",
+         "Name_RU":"Полуперчатки мусорщика"
+      }
+   },
+   "235":{
+      "0":{
+         "GXT":"CLO_HSTF_G_4_0",
+         "Name_EN":"White Cotton Gloves",
+         "Name_RU":"Белые хлопчатые перчатки"
+      }
+   },
+   "236":{
+      "0":{
+         "GXT":"CLO_HSTF_G_5_0",
+         "Name_EN":"Blue Surgical Gloves",
+         "Name_RU":"Хирургические перчатки"
+      },
+      "1":{
+         "GXT":"CLO_HSTF_G_5_1",
+         "Name_EN":"White Surgical Gloves",
+         "Name_RU":"Белые перчатки"
+      }
+   },
+   "237":{
+      "0":{
+         "GXT":"CLO_GRF_G_0_0",
+         "Name_EN":"Blue Digital Armored",
+         "Name_RU":"Синие цифр. с защитой"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_0_1",
+         "Name_EN":"Brown Digital Armored",
+         "Name_RU":"Бурые цифр. с защитой"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_0_2",
+         "Name_EN":"Green Digital Armored",
+         "Name_RU":"Зеленые цифр. с защитой"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_0_3",
+         "Name_EN":"Gray Digital Armored",
+         "Name_RU":"Серые цифр. с защитой"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_0_4",
+         "Name_EN":"Peach Digital Armored",
+         "Name_RU":"Бежевые цифр. с защитой"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_0_5",
+         "Name_EN":"Fall Armored",
+         "Name_RU":"Осенние с защитой"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_0_6",
+         "Name_EN":"Dark Woodland Armored",
+         "Name_RU":"Лесные с защитой"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_0_7",
+         "Name_EN":"Crosshatch Armored",
+         "Name_RU":"С защитой в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_0_8",
+         "Name_EN":"Moss Digital Armored",
+         "Name_RU":"Болотно-цифр. с защитой"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_0_9",
+         "Name_EN":"Gray Woodland Armored",
+         "Name_RU":"Сероватые с защитой"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_0_10",
+         "Name_EN":"Aqua Camo Armored",
+         "Name_RU":"Морские с защитой"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_0_11",
+         "Name_EN":"Splinter Armored",
+         "Name_RU":"Оскольчатые с защитой"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_0_12",
+         "Name_EN":"Contrast Camo Armored",
+         "Name_RU":"Контрастные с защитой"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_0_13",
+         "Name_EN":"Cobble Armored",
+         "Name_RU":"Галечные с защитой"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_0_14",
+         "Name_EN":"Peach Camo Armored",
+         "Name_RU":"Бежевые с защитой"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_0_15",
+         "Name_EN":"Brushstroke Armored",
+         "Name_RU":"Мазковые с защитой"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_0_16",
+         "Name_EN":"Flecktarn Armored",
+         "Name_RU":"С защитой флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_0_17",
+         "Name_EN":"Light Woodland Armored",
+         "Name_RU":"Полевые с защитой"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_0_18",
+         "Name_EN":"Moss Armored",
+         "Name_RU":"Болотные с защитой"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_0_19",
+         "Name_EN":"Sand Armored",
+         "Name_RU":"Песочные с защитой"
+      }
+   },
+   "238":{
+      "0":{
+         "GXT":"CLO_GRF_G_1_0",
+         "Name_EN":"Blue Digital Tactical",
+         "Name_RU":"Синие цифр. армейские"
+      },
+      "1":{
+         "GXT":"CLO_GRF_G_1_1",
+         "Name_EN":"Brown Digital Tactical",
+         "Name_RU":"Бурые цифр. армейские"
+      },
+      "2":{
+         "GXT":"CLO_GRF_G_1_2",
+         "Name_EN":"Green Digital Tactical",
+         "Name_RU":"Зеленые цифр. армейские"
+      },
+      "3":{
+         "GXT":"CLO_GRF_G_1_3",
+         "Name_EN":"Gray Digital Tactical",
+         "Name_RU":"Серые цифр. армейские"
+      },
+      "4":{
+         "GXT":"CLO_GRF_G_1_4",
+         "Name_EN":"Peach Digital Tactical",
+         "Name_RU":"Бежевые цифр. армейские"
+      },
+      "5":{
+         "GXT":"CLO_GRF_G_1_5",
+         "Name_EN":"Fall Tactical",
+         "Name_RU":"Осенние армейские"
+      },
+      "6":{
+         "GXT":"CLO_GRF_G_1_6",
+         "Name_EN":"Dark Woodland Tactical",
+         "Name_RU":"Лесные армейские"
+      },
+      "7":{
+         "GXT":"CLO_GRF_G_1_7",
+         "Name_EN":"Crosshatch Tactical",
+         "Name_RU":"Армейские в сетку"
+      },
+      "8":{
+         "GXT":"CLO_GRF_G_1_8",
+         "Name_EN":"Moss Digital Tactical",
+         "Name_RU":"Болотно-цифр. армейские"
+      },
+      "9":{
+         "GXT":"CLO_GRF_G_1_9",
+         "Name_EN":"Gray Woodland Tactical",
+         "Name_RU":"Сероватые армейские"
+      },
+      "10":{
+         "GXT":"CLO_GRF_G_1_10",
+         "Name_EN":"Aqua Camo Tactical",
+         "Name_RU":"Морские армейские"
+      },
+      "11":{
+         "GXT":"CLO_GRF_G_1_11",
+         "Name_EN":"Splinter Tactical",
+         "Name_RU":"Оскольчатые армейские"
+      },
+      "12":{
+         "GXT":"CLO_GRF_G_1_12",
+         "Name_EN":"Contrast Camo Tactical",
+         "Name_RU":"Контрастные армейские"
+      },
+      "13":{
+         "GXT":"CLO_GRF_G_1_13",
+         "Name_EN":"Cobble Tactical",
+         "Name_RU":"Галечные армейские"
+      },
+      "14":{
+         "GXT":"CLO_GRF_G_1_14",
+         "Name_EN":"Peach Camo Tactical",
+         "Name_RU":"Бежевые армейские"
+      },
+      "15":{
+         "GXT":"CLO_GRF_G_1_15",
+         "Name_EN":"Brushstroke Tactical",
+         "Name_RU":"Мазковые армейские"
+      },
+      "16":{
+         "GXT":"CLO_GRF_G_1_16",
+         "Name_EN":"Flecktarn Tactical",
+         "Name_RU":"Армейские флектарн"
+      },
+      "17":{
+         "GXT":"CLO_GRF_G_1_17",
+         "Name_EN":"Light Woodland Tactical",
+         "Name_RU":"Полевые армейские"
+      },
+      "18":{
+         "GXT":"CLO_GRF_G_1_18",
+         "Name_EN":"Moss Tactical",
+         "Name_RU":"Болотные армейские"
+      },
+      "19":{
+         "GXT":"CLO_GRF_G_1_19",
+         "Name_EN":"Sand Tactical",
+         "Name_RU":"Песочные армейские"
+      }
+   },
+   "239":{
+      "0":{
+         "GXT":"CLO_SUF_G_1_0",
+         "Name_EN":"Black Armored",
+         "Name_RU":"Черные с защитой"
+      },
+      "1":{
+         "GXT":"CLO_SUF_G_1_1",
+         "Name_EN":"Gray Armored",
+         "Name_RU":"Серые с защитой"
+      },
+      "2":{
+         "GXT":"CLO_SUF_G_1_2",
+         "Name_EN":"Ash Armored",
+         "Name_RU":"Пепельные с защитой"
+      },
+      "3":{
+         "GXT":"CLO_SUF_G_1_3",
+         "Name_EN":"White Armored",
+         "Name_RU":"Белые с защитой"
+      },
+      "4":{
+         "GXT":"CLO_SUF_G_1_4",
+         "Name_EN":"Red & Gray Armored",
+         "Name_RU":"Красно-серые с защитой"
+      },
+      "5":{
+         "GXT":"CLO_SUF_G_1_5",
+         "Name_EN":"Brown Armored",
+         "Name_RU":"Коричневые с защитой"
+      },
+      "6":{
+         "GXT":"CLO_SUF_G_1_6",
+         "Name_EN":"Smoke Armored",
+         "Name_RU":"Дымчатые с защитой"
+      },
+      "7":{
+         "GXT":"CLO_SUF_G_1_7",
+         "Name_EN":"White & Green Armored",
+         "Name_RU":"Бело-зеленые с защитой"
+      }
+   }
+}

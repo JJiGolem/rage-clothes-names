@@ -1,0 +1,654 @@
+﻿{
+   "0":{
+      "0":{
+         "GXT":"CLO_HST_E_0_0",
+         "Name_EN":"Gray Earpiece",
+         "Name_RU":"Серая гарнитура"
+      }
+   },
+   "1":{
+      "0":{
+         "GXT":"CLO_HST_E_1_0",
+         "Name_EN":"Red Earpiece",
+         "Name_RU":"Красная гарнитура"
+      }
+   },
+   "2":{
+      "0":{
+         "GXT":"CLO_HST_E_2_0",
+         "Name_EN":"LCD Earpiece",
+         "Name_RU":"Гарнитура с экраном"
+      }
+   },
+   "3":{
+      "0":{
+         "GXT":"CLO_LXM_E_0_0",
+         "Name_EN":"Gold Angled Hoop (L)",
+         "Name_RU":"Золотая сережка-уголок (л)"
+      },
+      "1":{
+         "GXT":"CLO_LXM_E_0_1",
+         "Name_EN":"Black Angled Hoop (L)",
+         "Name_RU":"Черная сережка-уголок (л)"
+      },
+      "2":{
+         "GXT":"CLO_LXM_E_0_2",
+         "Name_EN":"Platinum Angled Hoop (L)",
+         "Name_RU":"Платин. сережка-уголок (л)"
+      }
+   },
+   "4":{
+      "0":{
+         "GXT":"CLO_LXM_E_1_0",
+         "Name_EN":"Gold Angled Hoop (R)",
+         "Name_RU":"Золотая сережка-уголок (п)"
+      },
+      "1":{
+         "GXT":"CLO_LXM_E_1_1",
+         "Name_EN":"Black Angled Hoop (R)",
+         "Name_RU":"Черная сережка-уголок (п)"
+      },
+      "2":{
+         "GXT":"CLO_LXM_E_1_2",
+         "Name_EN":"Platinum Angled Hoop (R)",
+         "Name_RU":"Платин. сережка-уголок (п)"
+      }
+   },
+   "5":{
+      "0":{
+         "GXT":"CLO_LXM_E_2_0",
+         "Name_EN":"Gold Angled Hoops",
+         "Name_RU":"Золотые сережки-уголки"
+      },
+      "1":{
+         "GXT":"CLO_LXM_E_2_1",
+         "Name_EN":"Black Angled Hoops",
+         "Name_RU":"Черные сережки-уголки"
+      },
+      "2":{
+         "GXT":"CLO_LXM_E_2_2",
+         "Name_EN":"Platinum Angled Hoops",
+         "Name_RU":"Платиновые сережки-уголки"
+      }
+   },
+   "6":{
+      "0":{
+         "GXT":"CLO_LXM_E_3_0",
+         "Name_EN":"Gold Circle Stud (L)",
+         "Name_RU":"Золотая круглая сережка (л)"
+      },
+      "1":{
+         "GXT":"CLO_LXM_E_3_1",
+         "Name_EN":"Platinum Circle Stud (L)",
+         "Name_RU":"Платин. круглая сережка (л)"
+      }
+   },
+   "7":{
+      "0":{
+         "GXT":"CLO_LXM_E_4_0",
+         "Name_EN":"Gold Circle Stud (R)",
+         "Name_RU":"Золотая круглая сережка (п)"
+      },
+      "1":{
+         "GXT":"CLO_LXM_E_4_1",
+         "Name_EN":"Platinum Circle Stud (R)",
+         "Name_RU":"Платин. круглая сережка (п)"
+      }
+   },
+   "8":{
+      "0":{
+         "GXT":"CLO_LXM_E_5_0",
+         "Name_EN":"Gold Circle Studs",
+         "Name_RU":"Золотые круглые сережки"
+      },
+      "1":{
+         "GXT":"CLO_LXM_E_5_1",
+         "Name_EN":"Platinum Circle Studs",
+         "Name_RU":"Платиновые круглые сережки"
+      }
+   },
+   "9":{
+      "0":{
+         "GXT":"CLO_LXM_E_6_0",
+         "Name_EN":"Gold Diamond Stud (L)",
+         "Name_RU":"Золотая сережка-ромб (л)"
+      },
+      "1":{
+         "GXT":"CLO_LXM_E_6_1",
+         "Name_EN":"Black Diamond Stud (L)",
+         "Name_RU":"Черная сережка-ромб (л)"
+      },
+      "2":{
+         "GXT":"CLO_LXM_E_6_2",
+         "Name_EN":"Platinum Diamond Stud (L)",
+         "Name_RU":"Платиновая сережка-ромб (л)"
+      }
+   },
+   "10":{
+      "0":{
+         "GXT":"CLO_LXM_E_7_0",
+         "Name_EN":"Gold Diamond Stud (R)",
+         "Name_RU":"Золотая сережка-ромб (п)"
+      },
+      "1":{
+         "GXT":"CLO_LXM_E_7_1",
+         "Name_EN":"Black Diamond Stud (R)",
+         "Name_RU":"Черная сережка-ромб (п)"
+      },
+      "2":{
+         "GXT":"CLO_LXM_E_7_2",
+         "Name_EN":"Platinum Diamond Stud (R)",
+         "Name_RU":"Платиновая сережка-ромб (п)"
+      }
+   },
+   "11":{
+      "0":{
+         "GXT":"CLO_LXM_E_8_0",
+         "Name_EN":"Gold Diamond Studs",
+         "Name_RU":"Золотые сережки-ромбы"
+      },
+      "1":{
+         "GXT":"CLO_LXM_E_8_1",
+         "Name_EN":"Black Diamond Studs",
+         "Name_RU":"Черные сережки-ромбы"
+      },
+      "2":{
+         "GXT":"CLO_LXM_E_8_2",
+         "Name_EN":"Platinum Diamond Studs",
+         "Name_RU":"Платиновые сережки-ромбы"
+      }
+   },
+   "12":{
+      "0":{
+         "GXT":"CLO_LXM_E_9_0",
+         "Name_EN":"Gold Pillow Stud (L)",
+         "Name_RU":"Золотая подушечка (л)"
+      },
+      "1":{
+         "GXT":"CLO_LXM_E_9_1",
+         "Name_EN":"Black Pillow Stud (L)",
+         "Name_RU":"Черная подушечка (л)"
+      },
+      "2":{
+         "GXT":"CLO_LXM_E_9_2",
+         "Name_EN":"Platinum Pillow Stud (L)",
+         "Name_RU":"Платиновая подушечка (л)"
+      }
+   },
+   "13":{
+      "0":{
+         "GXT":"CLO_LXM_E_10_0",
+         "Name_EN":"Gold Pillow Stud (R)",
+         "Name_RU":"Золотая подушечка (п)"
+      },
+      "1":{
+         "GXT":"CLO_LXM_E_10_1",
+         "Name_EN":"Black Pillow Stud (R)",
+         "Name_RU":"Черная подушечка (п)"
+      },
+      "2":{
+         "GXT":"CLO_LXM_E_10_2",
+         "Name_EN":"Platinum Pillow Stud (R)",
+         "Name_RU":"Платиновая подушечка (п)"
+      }
+   },
+   "14":{
+      "0":{
+         "GXT":"CLO_LXM_E_11_0",
+         "Name_EN":"Gold Pillow Studs",
+         "Name_RU":"Золотые сережки-подушечки"
+      },
+      "1":{
+         "GXT":"CLO_LXM_E_11_1",
+         "Name_EN":"Black Pillow Studs",
+         "Name_RU":"Черные сережки-подушечки"
+      },
+      "2":{
+         "GXT":"CLO_LXM_E_11_2",
+         "Name_EN":"Platinum Pillow Studs",
+         "Name_RU":"Платиновые подушечки"
+      }
+   },
+   "15":{
+      "0":{
+         "GXT":"CLO_LXM_E_12_0",
+         "Name_EN":"Gold Gem Stud (L)",
+         "Name_RU":"Золотая с самоцветом (л)"
+      },
+      "1":{
+         "GXT":"CLO_LXM_E_12_1",
+         "Name_EN":"Black Gem Stud (L)",
+         "Name_RU":"Черная с самоцветом (л)"
+      },
+      "2":{
+         "GXT":"CLO_LXM_E_12_2",
+         "Name_EN":"Platinum Gem Stud (L)",
+         "Name_RU":"Платиновая с самоцветом (л)"
+      }
+   },
+   "16":{
+      "0":{
+         "GXT":"CLO_LXM_E_13_0",
+         "Name_EN":"Gold Gem Stud (R)",
+         "Name_RU":"Золотая с самоцветом (п)"
+      },
+      "1":{
+         "GXT":"CLO_LXM_E_13_1",
+         "Name_EN":"Black Gem Stud (R)",
+         "Name_RU":"Черная с самоцветом (п)"
+      },
+      "2":{
+         "GXT":"CLO_LXM_E_13_2",
+         "Name_EN":"Platinum Gem Stud (R)",
+         "Name_RU":"Платиновая с самоцветом (п)"
+      }
+   },
+   "17":{
+      "0":{
+         "GXT":"CLO_LXM_E_14_0",
+         "Name_EN":"Gold Gem Studs",
+         "Name_RU":"Золотые серьги с самоцветом"
+      },
+      "1":{
+         "GXT":"CLO_LXM_E_14_1",
+         "Name_EN":"Black Gem Studs",
+         "Name_RU":"Черные с самоцветом"
+      },
+      "2":{
+         "GXT":"CLO_LXM_E_14_2",
+         "Name_EN":"Platinum Gem Studs",
+         "Name_RU":"Платиновые с самоцветом"
+      }
+   },
+   "18":{
+      "0":{
+         "GXT":"CLO_LXM_E_24_0",
+         "Name_EN":"Gold Illusion Square Stud (L)",
+         "Name_RU":"Золотая 'Иллюзия' (л)"
+      },
+      "1":{
+         "GXT":"CLO_LXM_E_24_1",
+         "Name_EN":"Gold Grid Square Stud (L)",
+         "Name_RU":"Золотая 'Сетка' (л)"
+      },
+      "2":{
+         "GXT":"CLO_LXM_E_24_2",
+         "Name_EN":"Gold Noir Square Stud (L)",
+         "Name_RU":"Золотая 'Нуар' (л)"
+      },
+      "3":{
+         "GXT":"CLO_LXM_E_24_3",
+         "Name_EN":"Platinum Grid Square Stud (L)",
+         "Name_RU":"Платиновая 'Сетка' (л)"
+      },
+      "4":{
+         "GXT":"CLO_LXM_E_24_4",
+         "Name_EN":"Platinum Noir Square Stud (L)",
+         "Name_RU":"Платиновая 'Нуар' (л)"
+      }
+   },
+   "19":{
+      "0":{
+         "GXT":"CLO_LXM_E_25_0",
+         "Name_EN":"Gold Illusion Square Stud (R)",
+         "Name_RU":"Золотая 'Иллюзия' (п)"
+      },
+      "1":{
+         "GXT":"CLO_LXM_E_25_1",
+         "Name_EN":"Gold Grid Square Stud (R)",
+         "Name_RU":"Золотая 'Сетка' (п)"
+      },
+      "2":{
+         "GXT":"CLO_LXM_E_25_2",
+         "Name_EN":"Gold Noir Square Stud (R)",
+         "Name_RU":"Золотая 'Нуар' (п)"
+      },
+      "3":{
+         "GXT":"CLO_LXM_E_25_3",
+         "Name_EN":"Platinum Grid Square Stud (R)",
+         "Name_RU":"Платиновая 'Сетка' (п)"
+      },
+      "4":{
+         "GXT":"CLO_LXM_E_25_4",
+         "Name_EN":"Platinum Noir Square Stud (R)",
+         "Name_RU":"Платиновая 'Нуар' (п)"
+      }
+   },
+   "20":{
+      "0":{
+         "GXT":"CLO_LXM_E_26_0",
+         "Name_EN":"Gold Illusion Square Studs",
+         "Name_RU":"Золотые сережки 'Иллюзия'"
+      },
+      "1":{
+         "GXT":"CLO_LXM_E_26_1",
+         "Name_EN":"Gold Grid Square Studs",
+         "Name_RU":"Золотые сережки 'Сетка'"
+      },
+      "2":{
+         "GXT":"CLO_LXM_E_26_2",
+         "Name_EN":"Gold Noir Square Studs",
+         "Name_RU":"Золотые сережки 'Нуар'"
+      },
+      "3":{
+         "GXT":"CLO_LXM_E_26_3",
+         "Name_EN":"Platinum Grid Square Studs",
+         "Name_RU":"Платиновые сережки 'Сетка'"
+      },
+      "4":{
+         "GXT":"CLO_LXM_E_26_4",
+         "Name_EN":"Platinum Noir Square Studs",
+         "Name_RU":"Платиновые сережки 'Нуар'"
+      }
+   },
+   "21":{
+      "0":{
+         "GXT":"CLO_L2M_E_15_0",
+         "Name_EN":"Gold SN Stud (L)",
+         "Name_RU":"Золотая сережка SN (л)"
+      },
+      "1":{
+         "GXT":"CLO_L2M_E_15_1",
+         "Name_EN":"Platinum SN Stud (L)",
+         "Name_RU":"Платиновая сережка SN (л)"
+      }
+   },
+   "22":{
+      "0":{
+         "GXT":"CLO_L2M_E_16_0",
+         "Name_EN":"Gold SN Stud (R)",
+         "Name_RU":"Золотая сережка SN (п)"
+      },
+      "1":{
+         "GXT":"CLO_L2M_E_16_1",
+         "Name_EN":"Platinum SN Stud (R)",
+         "Name_RU":"Платиновая сережка SN (п)"
+      }
+   },
+   "23":{
+      "0":{
+         "GXT":"CLO_L2M_E_17_0",
+         "Name_EN":"Gold SN Studs",
+         "Name_RU":"Золотые сережки SN"
+      },
+      "1":{
+         "GXT":"CLO_L2M_E_17_1",
+         "Name_EN":"Platinum SN Studs",
+         "Name_RU":"Платиновые сережки SN"
+      }
+   },
+   "24":{
+      "0":{
+         "GXT":"CLO_L2M_E_18_0",
+         "Name_EN":"Silver Skull Stud (L)",
+         "Name_RU":"Серебряная 'Череп' (л)"
+      },
+      "1":{
+         "GXT":"CLO_L2M_E_18_1",
+         "Name_EN":"Gold Skull Stud (L)",
+         "Name_RU":"Золотая 'Череп' (л)"
+      },
+      "2":{
+         "GXT":"CLO_L2M_E_18_2",
+         "Name_EN":"Black Skull Stud (L)",
+         "Name_RU":"Черная 'Череп' (л)"
+      },
+      "3":{
+         "GXT":"CLO_L2M_E_18_3",
+         "Name_EN":"Platinum Skull Stud (L)",
+         "Name_RU":"Платиновая 'Череп' (л)"
+      }
+   },
+   "25":{
+      "0":{
+         "GXT":"CLO_L2M_E_19_0",
+         "Name_EN":"Silver Skull Stud (R)",
+         "Name_RU":"Серебряная 'Череп' (п)"
+      },
+      "1":{
+         "GXT":"CLO_L2M_E_19_1",
+         "Name_EN":"Gold Skull Stud (R)",
+         "Name_RU":"Золотая 'Череп' (п)"
+      },
+      "2":{
+         "GXT":"CLO_L2M_E_19_2",
+         "Name_EN":"Black Skull Stud (R)",
+         "Name_RU":"Черная 'Череп' (п)"
+      },
+      "3":{
+         "GXT":"CLO_L2M_E_19_3",
+         "Name_EN":"Platinum Skull Stud (R)",
+         "Name_RU":"Платиновая 'Череп' (п)"
+      }
+   },
+   "26":{
+      "0":{
+         "GXT":"CLO_L2M_E_20_0",
+         "Name_EN":"Silver Skull Studs",
+         "Name_RU":"Серебряные сережки 'Череп'"
+      },
+      "1":{
+         "GXT":"CLO_L2M_E_20_1",
+         "Name_EN":"Gold Skull Studs",
+         "Name_RU":"Золотые сережки 'Череп'"
+      },
+      "2":{
+         "GXT":"CLO_L2M_E_20_2",
+         "Name_EN":"Black Skull Studs",
+         "Name_RU":"Черные сережки 'Череп'"
+      },
+      "3":{
+         "GXT":"CLO_L2M_E_20_3",
+         "Name_EN":"Platinum Skull Studs",
+         "Name_RU":"Платиновые сережки 'Череп'"
+      }
+   },
+   "27":{
+      "0":{
+         "GXT":"CLO_L2M_E_21_0",
+         "Name_EN":"Platinum Spike Stud (L)",
+         "Name_RU":"Платиновая 'Шип' (л)"
+      },
+      "1":{
+         "GXT":"CLO_L2M_E_21_1",
+         "Name_EN":"Gold Spike Stud (L)",
+         "Name_RU":"Золотая сережка 'Шип' (л)"
+      }
+   },
+   "28":{
+      "0":{
+         "GXT":"CLO_L2M_E_22_0",
+         "Name_EN":"Platinum Spike Stud (R)",
+         "Name_RU":"Платиновая 'Шип' (п)"
+      },
+      "1":{
+         "GXT":"CLO_L2M_E_22_1",
+         "Name_EN":"Gold Spike Stud (R)",
+         "Name_RU":"Золотая сережка 'Шип' (п)"
+      }
+   },
+   "29":{
+      "0":{
+         "GXT":"CLO_L2M_E_23_0",
+         "Name_EN":"Platinum Spike Studs",
+         "Name_RU":"Платиновые сережки 'Шип'"
+      },
+      "1":{
+         "GXT":"CLO_L2M_E_23_1",
+         "Name_EN":"Gold Spike Studs",
+         "Name_RU":"Золотые сережки 'Шип'"
+      }
+   },
+   "30":{
+      "0":{
+         "GXT":"CLO_L2M_E_27_0",
+         "Name_EN":"Gold Onyx Stud (L)",
+         "Name_RU":"Золотая 'Оникс' (л)"
+      },
+      "1":{
+         "GXT":"CLO_L2M_E_27_1",
+         "Name_EN":"Black Onyx Stud (L)",
+         "Name_RU":"Черная 'Оникс' (л)"
+      },
+      "2":{
+         "GXT":"CLO_L2M_E_27_2",
+         "Name_EN":"Platinum Onyx Stud (L)",
+         "Name_RU":"Платиновая 'Оникс' (л)"
+      }
+   },
+   "31":{
+      "0":{
+         "GXT":"CLO_L2M_E_28_0",
+         "Name_EN":"Gold Onyx Stud (R)",
+         "Name_RU":"Золотая 'Оникс' (п)"
+      },
+      "1":{
+         "GXT":"CLO_L2M_E_28_1",
+         "Name_EN":"Black Onyx Stud (R)",
+         "Name_RU":"Черная 'Оникс' (п)"
+      },
+      "2":{
+         "GXT":"CLO_L2M_E_28_2",
+         "Name_EN":"Platinum Onyx Stud (R)",
+         "Name_RU":"Платиновая 'Оникс' (п)"
+      }
+   },
+   "32":{
+      "0":{
+         "GXT":"CLO_L2M_E_29_0",
+         "Name_EN":"Gold Onyx Studs",
+         "Name_RU":"Золотые сережки 'Оникс'"
+      },
+      "1":{
+         "GXT":"CLO_L2M_E_29_1",
+         "Name_EN":"Black Onyx Studs",
+         "Name_RU":"Черные сережки 'Оникс'"
+      },
+      "2":{
+         "GXT":"CLO_L2M_E_29_2",
+         "Name_EN":"Platinum Onyx Studs",
+         "Name_RU":"Платиновые сережки 'Оникс'"
+      }
+   },
+   "33":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "Name_RU":"NULL"
+      }
+   },
+   "34":{
+      "0":{
+         "GXT":"CLO_L2M_E_30_0",
+         "Name_EN":"Platinum SN Bullion Stud (L)",
+         "Name_RU":"Массивная платиновая SN (л)"
+      },
+      "1":{
+         "GXT":"CLO_L2M_E_30_1",
+         "Name_EN":"Gold SN Bullion Stud (L)",
+         "Name_RU":"Массивная золотая SN (л)"
+      }
+   },
+   "35":{
+      "0":{
+         "GXT":"CLO_L2M_E_31_0",
+         "Name_EN":"Platinum SN Bullion Stud (R)",
+         "Name_RU":"Массивная платиновая SN (п)"
+      },
+      "1":{
+         "GXT":"CLO_L2M_E_31_1",
+         "Name_EN":"Gold SN Bullion Stud (R)",
+         "Name_RU":"Массивная золотая SN (п)"
+      }
+   },
+   "36":{
+      "0":{
+         "GXT":"CLO_L2M_E_32_0",
+         "Name_EN":"Platinum SN Bullion Studs",
+         "Name_RU":"Массивные плат. сережки SN"
+      },
+      "1":{
+         "GXT":"CLO_L2M_E_32_1",
+         "Name_EN":"Gold SN Bullion Studs",
+         "Name_RU":"Массив. золот. сережки SN"
+      }
+   },
+   "37":{
+      "0":{
+         "GXT":"CLO_VWM_PE_0_0",
+         "Name_EN":"Gold Fame or Shame Mics",
+         "Name_RU":"'Стыд или слава' золото"
+      },
+      "1":{
+         "GXT":"CLO_VWM_PE_0_1",
+         "Name_EN":"Silver Fame or Shame Mics",
+         "Name_RU":"'Стыд или слава' серебро"
+      }
+   },
+   "38":{
+      "0":{
+         "GXT":"CLO_VWM_PE_1_0",
+         "Name_EN":"Clubs Earrings",
+         "Name_RU":"Серьги 'Трефы'"
+      },
+      "1":{
+         "GXT":"CLO_VWM_PE_1_1",
+         "Name_EN":"Diamonds Earrings",
+         "Name_RU":"Серьги 'Бубны'"
+      },
+      "2":{
+         "GXT":"CLO_VWM_PE_1_2",
+         "Name_EN":"Hearts Earrings",
+         "Name_RU":"Серьги 'Червы'"
+      },
+      "3":{
+         "GXT":"CLO_VWM_PE_1_3",
+         "Name_EN":"Spades Earrings",
+         "Name_RU":"Серьги 'Пики'"
+      }
+   },
+   "39":{
+      "0":{
+         "GXT":"CLO_VWM_PE_2_0",
+         "Name_EN":"White Dice Earrings",
+         "Name_RU":"Белые кости"
+      },
+      "1":{
+         "GXT":"CLO_VWM_PE_2_1",
+         "Name_EN":"Red Dice Earrings",
+         "Name_RU":"Красные кости"
+      },
+      "2":{
+         "GXT":"CLO_VWM_PE_2_2",
+         "Name_EN":"Tan Dice Earrings",
+         "Name_RU":"Охровые кости"
+      },
+      "3":{
+         "GXT":"CLO_VWM_PE_2_3",
+         "Name_EN":"Gray Dice Earrings",
+         "Name_RU":"Серые кости"
+      }
+   },
+   "40":{
+      "0":{
+         "GXT":"CLO_VWM_PE_3_0",
+         "Name_EN":"Black Chips Earrings",
+         "Name_RU":"Черные фишки"
+      },
+      "1":{
+         "GXT":"CLO_VWM_PE_3_1",
+         "Name_EN":"Yellow Chips Earrings",
+         "Name_RU":"Желтые фишки"
+      },
+      "2":{
+         "GXT":"CLO_VWM_PE_3_2",
+         "Name_EN":"Red Chips Earrings",
+         "Name_RU":"Красные фишки"
+      },
+      "3":{
+         "GXT":"CLO_VWM_PE_3_3",
+         "Name_EN":"Pink Chips Earrings",
+         "Name_RU":"Розовые фишки"
+      }
+   }
+}

@@ -1,0 +1,276 @@
+﻿{
+   "0":{
+      "0":{
+         "GXT":"CLO_HST_E_0_0",
+         "Name_EN":"Gray Earpiece",
+         "Name_RU":"Серая гарнитура"
+      }
+   },
+   "1":{
+      "0":{
+         "GXT":"CLO_HST_E_1_0",
+         "Name_EN":"Red Earpiece",
+         "Name_RU":"Красная гарнитура"
+      }
+   },
+   "2":{
+      "0":{
+         "GXT":"CLO_HST_E_2_0",
+         "Name_EN":"LCD Earpiece",
+         "Name_RU":"Гарнитура с экраном"
+      }
+   },
+   "3":{
+      "0":{
+         "GXT":"CLO_LXF_E_0_0",
+         "Name_EN":"Platinum Pendulums",
+         "Name_RU":"Платиновые маятники"
+      }
+   },
+   "4":{
+      "0":{
+         "GXT":"CLO_LXF_E_1_0",
+         "Name_EN":"Gold Pendulums",
+         "Name_RU":"Золотые маятники"
+      }
+   },
+   "5":{
+      "0":{
+         "GXT":"CLO_LXF_E_2_0",
+         "Name_EN":"Gold Diamond Rounds",
+         "Name_RU":"Золотые с круглым алмазом"
+      }
+   },
+   "6":{
+      "0":{
+         "GXT":"CLO_LXF_E_3_0",
+         "Name_EN":"Gold Diamond Drops",
+         "Name_RU":"Золотые серьги-ромбы"
+      },
+      "1":{
+         "GXT":"CLO_LXF_E_3_1",
+         "Name_EN":"Platinum Diamond Drops",
+         "Name_RU":"Платиновые серьги-ромбы"
+      },
+      "2":{
+         "GXT":"CLO_LXF_E_3_2",
+         "Name_EN":"Black Gold Diamond Drops",
+         "Name_RU":"Черные серьги-ромбы"
+      }
+   },
+   "7":{
+      "0":{
+         "GXT":"CLO_LXF_E_4_0",
+         "Name_EN":"Gold Waterfalls",
+         "Name_RU":"Золотые каскады"
+      },
+      "1":{
+         "GXT":"CLO_LXF_E_4_1",
+         "Name_EN":"Platinum Waterfalls",
+         "Name_RU":"Платиновые каскады"
+      },
+      "2":{
+         "GXT":"CLO_LXF_E_4_2",
+         "Name_EN":"Black Gold Waterfalls",
+         "Name_RU":"Черные каскады"
+      }
+   },
+   "8":{
+      "0":{
+         "GXT":"CLO_LXF_E_5_0",
+         "Name_EN":"Gold Totems",
+         "Name_RU":"Золотые тотемы"
+      },
+      "1":{
+         "GXT":"CLO_LXF_E_5_1",
+         "Name_EN":"Black Gold Totems",
+         "Name_RU":"Черные золотые тотемы"
+      },
+      "2":{
+         "GXT":"CLO_LXF_E_5_2",
+         "Name_EN":"Platinum Totems",
+         "Name_RU":"Платиновые тотемы"
+      }
+   },
+   "9":{
+      "0":{
+         "GXT":"CLO_LXF_E_6_0",
+         "Name_EN":"Gold Diamond Chains",
+         "Name_RU":"Золотые цепочки с алмазом"
+      },
+      "1":{
+         "GXT":"CLO_LXF_E_6_1",
+         "Name_EN":"Platinum Diamond Chains",
+         "Name_RU":"Платин. цепочки с алмазом"
+      },
+      "2":{
+         "GXT":"CLO_LXF_E_6_2",
+         "Name_EN":"Black Gold Diamond Chains",
+         "Name_RU":"Черные цепочки с алмазом"
+      }
+   },
+   "10":{
+      "0":{
+         "GXT":"CLO_LXF_E_7_0",
+         "Name_EN":"Gold Emerald Chains",
+         "Name_RU":"Золотые цепочки с изумрудом"
+      },
+      "1":{
+         "GXT":"CLO_LXF_E_7_1",
+         "Name_EN":"Platinum Emerald Chains",
+         "Name_RU":"Платин. цепочки с изумрудом"
+      },
+      "2":{
+         "GXT":"CLO_LXF_E_7_2",
+         "Name_EN":"Black Gold Emerald Chains",
+         "Name_RU":"Черные цепочки с изумрудом"
+      }
+   },
+   "11":{
+      "0":{
+         "GXT":"CLO_LXF_E_8_0",
+         "Name_EN":"Gold Sun Drops",
+         "Name_RU":"Золотые солнечные капли"
+      },
+      "1":{
+         "GXT":"CLO_LXF_E_8_1",
+         "Name_EN":"Platinum Sun Drops",
+         "Name_RU":"Платиновые солнечные капли"
+      },
+      "2":{
+         "GXT":"CLO_LXF_E_8_2",
+         "Name_EN":"Black Gold Sun Drops",
+         "Name_RU":"Черные солнечные капли"
+      }
+   },
+   "12":{
+      "0":{
+         "GXT":"CLO_LXF_E_9_0",
+         "Name_EN":"Platinum Diamond Studs",
+         "Name_RU":"Платиновые с алмазом"
+      },
+      "1":{
+         "GXT":"CLO_LXF_E_9_1",
+         "Name_EN":"Gold Diamond Studs",
+         "Name_RU":"Золотые сережки с алмазом"
+      },
+      "2":{
+         "GXT":"CLO_LXF_E_9_2",
+         "Name_EN":"Black Gold Diamond Studs",
+         "Name_RU":"Черные сережки с алмазом"
+      }
+   },
+   "13":{
+      "0":{
+         "GXT":"CLO_S1F_E_0_0",
+         "Name_EN":"Assault Hoops",
+         "Name_RU":"Зеленые серьги-кольца"
+      }
+   },
+   "14":{
+      "0":{
+         "GXT":"CLO_S1F_E_1_0",
+         "Name_EN":"Chunky Hoops",
+         "Name_RU":"Толстые серьги-кольца"
+      }
+   },
+   "15":{
+      "0":{
+         "GXT":"CLO_S1F_E_2_0",
+         "Name_EN":"Classic Hoops",
+         "Name_RU":"Классические серьги-кольца"
+      }
+   },
+   "16":{
+      "0":{
+         "GXT":"CLO_S2F_E_0_0",
+         "Name_EN":"FU Hoops",
+         "Name_RU":"Серьги FU"
+      }
+   },
+   "17":{
+      "0":{
+         "GXT":"CLO_S2F_E_1_0",
+         "Name_EN":"Screw You Hoops",
+         "Name_RU":"Серьги 'Пошел ты...'"
+      }
+   },
+   "18":{
+      "0":{
+         "GXT":"CLO_VWF_PE_0_0",
+         "Name_EN":"Gold Fame or Shame Mics",
+         "Name_RU":"'Стыд или слава' золото"
+      },
+      "1":{
+         "GXT":"CLO_VWF_PE_0_1",
+         "Name_EN":"Silver Fame or Shame Mics",
+         "Name_RU":"'Стыд или слава' серебро"
+      }
+   },
+   "19":{
+      "0":{
+         "GXT":"CLO_VWF_PE_1_0",
+         "Name_EN":"Clubs Earrings",
+         "Name_RU":"Трефы"
+      },
+      "1":{
+         "GXT":"CLO_VWF_PE_1_1",
+         "Name_EN":"Diamonds Earrings",
+         "Name_RU":"Бубны"
+      },
+      "2":{
+         "GXT":"CLO_VWF_PE_1_2",
+         "Name_EN":"Hearts Earrings",
+         "Name_RU":"Червы"
+      },
+      "3":{
+         "GXT":"CLO_VWF_PE_1_3",
+         "Name_EN":"Spades Earrings",
+         "Name_RU":"Пики"
+      }
+   },
+   "20":{
+      "0":{
+         "GXT":"CLO_VWF_PE_2_0",
+         "Name_EN":"White Dice Earrings",
+         "Name_RU":"Белые кости"
+      },
+      "1":{
+         "GXT":"CLO_VWF_PE_2_1",
+         "Name_EN":"Red Dice Earrings",
+         "Name_RU":"Красные кости"
+      },
+      "2":{
+         "GXT":"CLO_VWF_PE_2_2",
+         "Name_EN":"Tan Dice Earrings",
+         "Name_RU":"Бежевые кости"
+      },
+      "3":{
+         "GXT":"CLO_VWF_PE_2_3",
+         "Name_EN":"Gray Dice Earrings",
+         "Name_RU":"Серые кости"
+      }
+   },
+   "21":{
+      "0":{
+         "GXT":"CLO_VWF_PE_3_0",
+         "Name_EN":"Black Chips Earrings",
+         "Name_RU":"Черные фишки"
+      },
+      "1":{
+         "GXT":"CLO_VWF_PE_3_1",
+         "Name_EN":"Yellow Chips Earrings",
+         "Name_RU":"Желтые фишки"
+      },
+      "2":{
+         "GXT":"CLO_VWF_PE_3_2",
+         "Name_EN":"Red Chips Earrings",
+         "Name_RU":"Красные фишки"
+      },
+      "3":{
+         "GXT":"CLO_VWF_PE_3_3",
+         "Name_EN":"Pink Chips Earrings",
+         "Name_RU":"Розовые фишки"
+      }
+   }
+}

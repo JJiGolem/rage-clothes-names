@@ -1,0 +1,1398 @@
+﻿{
+   "0":{
+      "0":{
+         "GXT":"H_FMM_0_0",
+         "Name_EN":"Close Shave",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Под ноль"
+      }
+   },
+   "1":{
+      "0":{
+         "GXT":"H_FMM_1_0",
+         "Name_EN":"Buzzcut Dark Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Темный шатен - коротко"
+      },
+      "1":{
+         "GXT":"H_FMM_1_1",
+         "Name_EN":"Buzzcut Light Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Шатен - коротко"
+      },
+      "2":{
+         "GXT":"H_FMM_1_2",
+         "Name_EN":"Buzzcut Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжий - коротко"
+      },
+      "3":{
+         "GXT":"H_FMM_1_3",
+         "Name_EN":"Buzzcut Blond",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Блондин - коротко"
+      },
+      "4":{
+         "GXT":"H_FMM_1_4",
+         "Name_EN":"Buzzcut Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Брюнет - коротко"
+      },
+      "5":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"NULL"
+      }
+   },
+   "2":{
+      "0":{
+         "GXT":"H_FMM_2_0",
+         "Name_EN":"Faux Hawk Dark Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Темный шатен - 'ястреб'"
+      },
+      "1":{
+         "GXT":"H_FMM_2_1",
+         "Name_EN":"Faux Hawk Light Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлый шатен - 'ястреб'"
+      },
+      "2":{
+         "GXT":"H_FMM_2_2",
+         "Name_EN":"Faux Hawk Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжий - 'ястреб'"
+      },
+      "3":{
+         "GXT":"H_FMM_2_3",
+         "Name_EN":"Faux Hawk Blond",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлые - 'ястреб'"
+      },
+      "4":{
+         "GXT":"H_FMM_2_4",
+         "Name_EN":"Faux Hawk Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Брюнет - 'ястреб'"
+      },
+      "5":{
+         "GXT":"H_FMM_2_5",
+         "Name_EN":"Faux Hawk Purple",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Фиолетовые - 'ястреб'"
+      }
+   },
+   "3":{
+      "0":{
+         "GXT":"H_FMM_3_0",
+         "Name_EN":"Hipster Shaved Dark Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Темный шатен - 'хипстер'"
+      },
+      "1":{
+         "GXT":"H_FMM_3_1",
+         "Name_EN":"Hipster Shaved Light Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлый шатен - 'хипстер'"
+      },
+      "2":{
+         "GXT":"H_FMM_3_2",
+         "Name_EN":"Hipster Shaved Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжий - 'хипстер'"
+      },
+      "3":{
+         "GXT":"H_FMM_3_3",
+         "Name_EN":"Hipster Shaved Blond",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Блондин - 'хипстер'"
+      },
+      "4":{
+         "GXT":"H_FMM_3_4",
+         "Name_EN":"Hipster Shaved Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Брюнет - 'хипстер'"
+      },
+      "5":{
+         "GXT":"H_FMM_3_5",
+         "Name_EN":"Hipster Shaved Red",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Красные - 'хипстер'"
+      }
+   },
+   "4":{
+      "0":{
+         "GXT":"H_FMM_4_0",
+         "Name_EN":"Side Parting Spiked Dark Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Темный шатен - 'с пробором'"
+      },
+      "1":{
+         "GXT":"H_FMM_4_1",
+         "Name_EN":"Side Parting Spiked Light Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлый шатен - 'с пробором'"
+      },
+      "2":{
+         "GXT":"H_FMM_4_2",
+         "Name_EN":"Side Parting Spiked Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжий - 'с пробором'"
+      },
+      "3":{
+         "GXT":"H_FMM_4_3",
+         "Name_EN":"Side Parting Spiked Blond",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Блондин - 'с пробором'"
+      },
+      "4":{
+         "GXT":"H_FMM_4_4",
+         "Name_EN":"Side Parting Spiked Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Брюнет - 'с пробором'"
+      },
+      "5":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"NULL"
+      },
+      "6":{
+         "GXT":"H_FMM_4_6",
+         "Name_EN":"Side Parting Spiked Blue",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Синие - 'с пробором'"
+      }
+   },
+   "5":{
+      "0":{
+         "GXT":"H_FMM_5_0",
+         "Name_EN":"Shorter Cut Dark Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Темный шатен - 'полуостров'"
+      },
+      "1":{
+         "GXT":"H_FMM_5_1",
+         "Name_EN":"Shorter Cut Light Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлый шатен - 'полуостров'"
+      },
+      "2":{
+         "GXT":"H_FMM_5_2",
+         "Name_EN":"Shorter Cut Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжий - 'полуостров'"
+      },
+      "3":{
+         "GXT":"H_FMM_5_3",
+         "Name_EN":"Shorter Cut Blond",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Блондин - 'полуостров'"
+      },
+      "4":{
+         "GXT":"H_FMM_5_4",
+         "Name_EN":"Shorter Cut Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Брюнет - 'полуостров'"
+      },
+      "5":{
+         "GXT":"H_FMM_5_5",
+         "Name_EN":"Shorter Cut Green",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Зеленые - 'коротко'"
+      }
+   },
+   "6":{
+      "0":{
+         "GXT":"H_FMM_6_0",
+         "Name_EN":"Biker Dark Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Темный шатен - 'байкер'"
+      },
+      "1":{
+         "GXT":"H_FMM_6_1",
+         "Name_EN":"Biker Light Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлый шатен - 'байкер'"
+      },
+      "2":{
+         "GXT":"H_FMM_6_2",
+         "Name_EN":"Biker Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжий - 'байкер'"
+      },
+      "3":{
+         "GXT":"H_FMM_6_3",
+         "Name_EN":"Biker Blond",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Блондин - 'байкер'"
+      },
+      "4":{
+         "GXT":"H_FMM_6_4",
+         "Name_EN":"Biker Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Брюнет - 'байкер'"
+      },
+      "5":{
+         "GXT":"H_FMM_6_5",
+         "Name_EN":"Biker Purple Fade",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Фиолетовые - 'байкер'"
+      }
+   },
+   "7":{
+      "0":{
+         "GXT":"H_FMM_7_0",
+         "Name_EN":"Ponytail Dark Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Темный шатен - 'хвост'"
+      },
+      "1":{
+         "GXT":"H_FMM_7_1",
+         "Name_EN":"Ponytail Light Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлый шатен - 'хвост'"
+      },
+      "2":{
+         "GXT":"H_FMM_7_2",
+         "Name_EN":"Ponytail Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжий - 'хвост'"
+      },
+      "3":{
+         "GXT":"H_FMM_7_3",
+         "Name_EN":"Ponytail Blond",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлые - 'хвост'"
+      },
+      "4":{
+         "GXT":"H_FMM_7_4",
+         "Name_EN":"Ponytail Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Черные - 'хвост'"
+      },
+      "5":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"NULL"
+      },
+      "6":{
+         "GXT":"H_FMM_7_6",
+         "Name_EN":"Ponytail Purple",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Фиолетовые - 'хвост'"
+      }
+   },
+   "8":{
+      "0":{
+         "GXT":"H_FMM_8_0",
+         "Name_EN":"Cornrows Dark Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Темный шатен - 'брейды'"
+      },
+      "1":{
+         "GXT":"H_FMM_8_1",
+         "Name_EN":"Cornrows Light Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлый шатен - 'брейды'"
+      },
+      "2":{
+         "GXT":"H_FMM_8_2",
+         "Name_EN":"Cornrows Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжий - 'брейды'"
+      },
+      "3":{
+         "GXT":"H_FMM_8_3",
+         "Name_EN":"Cornrows Blond",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Блондин - 'брейды'"
+      },
+      "4":{
+         "GXT":"H_FMM_8_4",
+         "Name_EN":"Cornrows Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Брюнет - 'брейды'"
+      }
+   },
+   "9":{
+      "0":{
+         "GXT":"H_FMM_9_0",
+         "Name_EN":"Slicked Dark Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Темный шатен - 'прилиза'"
+      },
+      "1":{
+         "GXT":"H_FMM_9_1",
+         "Name_EN":"Slicked Light Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлый шатен - 'прилиза'"
+      },
+      "2":{
+         "GXT":"H_FMM_9_2",
+         "Name_EN":"Slicked Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжий - 'прилиза'"
+      },
+      "3":{
+         "GXT":"H_FMM_9_3",
+         "Name_EN":"Slicked Blond",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Блондин - 'прилиза'"
+      },
+      "4":{
+         "GXT":"H_FMM_9_4",
+         "Name_EN":"Slicked Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Брюнет - 'прилиза'"
+      },
+      "5":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"NULL"
+      },
+      "6":{
+         "GXT":"H_FMM_9_6",
+         "Name_EN":"Slicked Red",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Красные - 'прилиза'"
+      }
+   },
+   "10":{
+      "0":{
+         "GXT":"H_FMM_10_0",
+         "Name_EN":"Short Brushed Dark Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Темный шатен - 'канадка'"
+      },
+      "1":{
+         "GXT":"H_FMM_10_1",
+         "Name_EN":"Short Brushed Light Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлый шатен - 'канадка'"
+      },
+      "2":{
+         "GXT":"H_FMM_10_2",
+         "Name_EN":"Short Brushed Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжий - 'канадка'"
+      },
+      "3":{
+         "GXT":"H_FMM_10_3",
+         "Name_EN":"Short Brushed Blond",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Блондин - 'канадка'"
+      },
+      "4":{
+         "GXT":"H_FMM_10_4",
+         "Name_EN":"Short Brushed Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Брюнет - 'канадка'"
+      },
+      "5":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"NULL"
+      }
+   },
+   "11":{
+      "0":{
+         "GXT":"H_FMM_11_0",
+         "Name_EN":"Spikey Dark Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Темный шатен - 'шипы'"
+      },
+      "1":{
+         "GXT":"H_FMM_11_1",
+         "Name_EN":"Spikey Light Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлый шатен - 'шипы'"
+      },
+      "2":{
+         "GXT":"H_FMM_11_2",
+         "Name_EN":"Spikey Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжий - 'шипы'"
+      },
+      "3":{
+         "GXT":"H_FMM_11_3",
+         "Name_EN":"Spikey Blond",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Блондин - 'шипы'"
+      },
+      "4":{
+         "GXT":"H_FMM_11_4",
+         "Name_EN":"Spikey Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Брюнет - 'шипы'"
+      },
+      "5":{
+         "GXT":"H_FMM_11_5",
+         "Name_EN":"Spikey Blue",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Синие - 'шипы'"
+      }
+   },
+   "12":{
+      "0":{
+         "GXT":"H_FMM_12_0",
+         "Name_EN":"Caesar Dark Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Темный шатен - 'Цезарь'"
+      },
+      "1":{
+         "GXT":"H_FMM_12_1",
+         "Name_EN":"Caesar Light Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлый шатен - 'Цезарь'"
+      },
+      "2":{
+         "GXT":"H_FMM_12_2",
+         "Name_EN":"Caesar Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжий - 'Цезарь'"
+      },
+      "3":{
+         "GXT":"H_FMM_12_3",
+         "Name_EN":"Caesar Blond",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Блондин - 'Цезарь'"
+      },
+      "4":{
+         "GXT":"H_FMM_12_4",
+         "Name_EN":"Caesar Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Брюнет - 'Цезарь'"
+      }
+   },
+   "13":{
+      "0":{
+         "GXT":"H_FMM_13_0",
+         "Name_EN":"Chopped Dark Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Шатен - 'чоппи'"
+      },
+      "1":{
+         "GXT":"H_FMM_13_1",
+         "Name_EN":"Chopped Light Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлый шатен - 'чоппи'"
+      },
+      "2":{
+         "GXT":"H_FMM_13_2",
+         "Name_EN":"Chopped Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжий - 'чоппи'"
+      },
+      "3":{
+         "GXT":"H_FMM_13_3",
+         "Name_EN":"Chopped Blond",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Блондин - 'чоппи'"
+      },
+      "4":{
+         "GXT":"H_FMM_13_4",
+         "Name_EN":"Chopped Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Брюнет - 'чоппи'"
+      },
+      "5":{
+         "GXT":"H_FMM_13_5",
+         "Name_EN":"Chopped Green",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Зеленые - 'чоппи'"
+      }
+   },
+   "14":{
+      "0":{
+         "GXT":"H_FMM_14_0",
+         "Name_EN":"Dreads Dark Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Темный шатен - дреды"
+      },
+      "1":{
+         "GXT":"H_FMM_14_1",
+         "Name_EN":"Dreads Light Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлый шатен - дреды"
+      },
+      "2":{
+         "GXT":"H_FMM_14_2",
+         "Name_EN":"Dreads Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжий - дреды"
+      },
+      "3":{
+         "GXT":"H_FMM_14_3",
+         "Name_EN":"Dreads Blond",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Блондин - дреды"
+      },
+      "4":{
+         "GXT":"H_FMM_14_4",
+         "Name_EN":"Dreads Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Брюнет - дреды"
+      }
+   },
+   "15":{
+      "0":{
+         "GXT":"H_FMM_15_0",
+         "Name_EN":"Long Hair Dark Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Темный шатен - 'боб'"
+      },
+      "1":{
+         "GXT":"H_FMM_15_1",
+         "Name_EN":"Long Hair Light Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлый шатен - 'боб'"
+      },
+      "2":{
+         "GXT":"H_FMM_15_2",
+         "Name_EN":"Long Hair Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжий - 'боб'"
+      },
+      "3":{
+         "GXT":"H_FMM_15_3",
+         "Name_EN":"Long Hair Blond",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Блондин - 'боб'"
+      },
+      "4":{
+         "GXT":"H_FMM_15_4",
+         "Name_EN":"Long Hair Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Брюнет - 'боб'"
+      },
+      "5":{
+         "GXT":"H_FMM_15_5",
+         "Name_EN":"Long Hair Purple Fade",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Фиолетовые - длинные"
+      }
+   },
+   "16":{
+      "0":{
+         "GXT":"CLO_BBM_H_00",
+         "Name_EN":"Shaggy Curls Dark Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Темные - 'кудри'"
+      },
+      "1":{
+         "GXT":"CLO_BBM_H_01",
+         "Name_EN":"Shaggy Curls Light Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлые - 'кудри'"
+      },
+      "2":{
+         "GXT":"CLO_BBM_H_02",
+         "Name_EN":"Shaggy Curls Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжий - 'кудри'"
+      },
+      "3":{
+         "GXT":"CLO_BBM_H_03",
+         "Name_EN":"Shaggy Curls Blonde",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Блондин - 'кудри'"
+      },
+      "4":{
+         "GXT":"CLO_BBM_H_04",
+         "Name_EN":"Shaggy Curls Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Черный - 'лохматые кудри'"
+      }
+   },
+   "17":{
+      "0":{
+         "GXT":"CLO_BBM_H_05",
+         "Name_EN":"Surfer Dude Dark Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Темные  - 'серфингист'"
+      },
+      "1":{
+         "GXT":"CLO_BBM_H_06",
+         "Name_EN":"Surfer Dude Light Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлые - 'серфингист'"
+      },
+      "2":{
+         "GXT":"CLO_BBM_H_07",
+         "Name_EN":"Surfer Dude Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжие - 'серфингист'"
+      },
+      "3":{
+         "GXT":"CLO_BBM_H_08",
+         "Name_EN":"Surfer Dude Blonde",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Блондин - 'серфингист'"
+      },
+      "4":{
+         "GXT":"CLO_BBM_H_09",
+         "Name_EN":"Surfer Dude Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Черный  - 'серфингист'"
+      }
+   },
+   "18":{
+      "0":{
+         "GXT":"CLO_BUS_H_0_0",
+         "Name_EN":"Short Side Part Dark Brown",
+         "HairTattooCollection":-2086773,
+         "HairTattooOverlay":224730392,
+         "Name_RU":"Темный шатен - 'набок'"
+      },
+      "1":{
+         "GXT":"CLO_BUS_H_0_1",
+         "Name_EN":"Short Side Part Light Brown",
+         "HairTattooCollection":-2086773,
+         "HairTattooOverlay":1988816738,
+         "Name_RU":"Светлый шатен - 'набок'"
+      },
+      "2":{
+         "GXT":"CLO_BUS_H_0_2",
+         "Name_EN":"Short Side Part Auburn",
+         "HairTattooCollection":-2086773,
+         "HairTattooOverlay":736778786,
+         "Name_RU":"Рыжий - 'набок'"
+      },
+      "3":{
+         "GXT":"CLO_BUS_H_0_3",
+         "Name_EN":"Short Side Part Blonde",
+         "HairTattooCollection":-2086773,
+         "HairTattooOverlay":439629494,
+         "Name_RU":"Блондин - 'набок'"
+      },
+      "4":{
+         "GXT":"CLO_BUS_H_0_4",
+         "Name_EN":"Short Side Part Black",
+         "HairTattooCollection":-2086773,
+         "HairTattooOverlay":1048444745,
+         "Name_RU":"Брюнет - 'набок'"
+      }
+   },
+   "19":{
+      "0":{
+         "GXT":"CLO_BUS_H_1_0",
+         "Name_EN":"High Slicked Sides Dark Brown",
+         "HairTattooCollection":-2086773,
+         "HairTattooOverlay":2140603469,
+         "Name_RU":"Темный шатен - 'зализ'"
+      },
+      "1":{
+         "GXT":"CLO_BUS_H_1_1",
+         "Name_EN":"High Slicked Sides Light Brown",
+         "HairTattooCollection":-2086773,
+         "HairTattooOverlay":-681528353,
+         "Name_RU":"Светлый шатен - 'зализ'"
+      },
+      "2":{
+         "GXT":"CLO_BUS_H_1_2",
+         "Name_EN":"High Slicked Sides Auburn",
+         "HairTattooCollection":-2086773,
+         "HairTattooOverlay":1006238992,
+         "Name_RU":"Рыжий - 'зализ'"
+      },
+      "3":{
+         "GXT":"CLO_BUS_H_1_3",
+         "Name_EN":"High Slicked Sides Blonde",
+         "HairTattooCollection":-2086773,
+         "HairTattooOverlay":214245031,
+         "Name_RU":"Блондин - 'зализ'"
+      },
+      "4":{
+         "GXT":"CLO_BUS_H_1_4",
+         "Name_EN":"High Slicked Sides Black",
+         "HairTattooCollection":-2086773,
+         "HairTattooOverlay":689952604,
+         "Name_RU":"Брюнет - 'зализ'"
+      }
+   },
+   "20":{
+      "0":{
+         "GXT":"CLO_HP_HR_0_0",
+         "Name_EN":"Long Slicked Dark Brown",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":965649655,
+         "Name_RU":"Шатен - длинные"
+      },
+      "1":{
+         "GXT":"CLO_HP_HR_0_1",
+         "Name_EN":"Long Slicked Light Brown",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":718800778,
+         "Name_RU":"Светлый шатен - длинные"
+      },
+      "2":{
+         "GXT":"CLO_HP_HR_0_2",
+         "Name_EN":"Long Slicked Auburn",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":1959959422,
+         "Name_RU":"Рыжие - длинные"
+      },
+      "3":{
+         "GXT":"CLO_HP_HR_0_3",
+         "Name_EN":"Long Slicked Blonde",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":1200177388,
+         "Name_RU":"Блондин - длинные"
+      },
+      "4":{
+         "GXT":"CLO_HP_HR_0_4",
+         "Name_EN":"Long Slicked Black",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":-1874439579,
+         "Name_RU":"Черные - длинные"
+      }
+   },
+   "21":{
+      "0":{
+         "GXT":"CLO_HP_HR_1_0",
+         "Name_EN":"Hipster Youth Dark Brown",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":-1679505893,
+         "Name_RU":"Шатен - хипстер"
+      },
+      "1":{
+         "GXT":"CLO_HP_HR_1_1",
+         "Name_EN":"Hipster Youth Blonde",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":-1976229188,
+         "Name_RU":"Блондин - хипстер"
+      },
+      "2":{
+         "GXT":"CLO_HP_HR_1_2",
+         "Name_EN":"Hipster Youth Auburn",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":2037875009,
+         "Name_RU":"Рыжие - хипстер"
+      },
+      "3":{
+         "GXT":"CLO_HP_HR_1_3",
+         "Name_EN":"Hipster Youth Light Brown",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":-235146664,
+         "Name_RU":"Светлый шатен - хипстер"
+      },
+      "4":{
+         "GXT":"CLO_HP_HR_1_4",
+         "Name_EN":"Hipster Youth Black",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":-441853516,
+         "Name_RU":"Черные - хипстер"
+      }
+   },
+   "22":{
+      "0":{
+         "GXT":"CLO_IND_H_0_0",
+         "Name_EN":"Mullet Dark Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Маллет, темный шатен"
+      },
+      "1":{
+         "GXT":"CLO_IND_H_0_1",
+         "Name_EN":"Mullet Light Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Маллет, светлый шатен"
+      },
+      "2":{
+         "GXT":"CLO_IND_H_0_2",
+         "Name_EN":"Mullet Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Маллет, рыжий"
+      },
+      "3":{
+         "GXT":"CLO_IND_H_0_3",
+         "Name_EN":"Mullet Blonde",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Маллет, блондин"
+      },
+      "4":{
+         "GXT":"CLO_IND_H_0_4",
+         "Name_EN":"Mullet Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Маллет, брюнет"
+      }
+   },
+   "23":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"NULL"
+      }
+   },
+   "24":{
+      "0":{
+         "GXT":"CLO_S1M_H_0_0",
+         "Name_EN":"Classic Cornrows",
+         "HairTattooCollection":62137527,
+         "HairTattooOverlay":534771589,
+         "Name_RU":"Классические 'косички'"
+      }
+   },
+   "25":{
+      "0":{
+         "GXT":"CLO_S1M_H_1_0",
+         "Name_EN":"Palm Cornrows",
+         "HairTattooCollection":62137527,
+         "HairTattooOverlay":-1340139519,
+         "Name_RU":"Косички-'пальма'"
+      }
+   },
+   "26":{
+      "0":{
+         "GXT":"CLO_S1M_H_2_0",
+         "Name_EN":"Lightning Cornrows",
+         "HairTattooCollection":62137527,
+         "HairTattooOverlay":-849980761,
+         "Name_RU":"Косички-'молнии'"
+      }
+   },
+   "27":{
+      "0":{
+         "GXT":"CLO_S1M_H_3_0",
+         "Name_EN":"Whipped Cornrows",
+         "HairTattooCollection":62137527,
+         "HairTattooOverlay":-551553478,
+         "Name_RU":"Зачесанные наверх косички"
+      }
+   },
+   "28":{
+      "0":{
+         "GXT":"CLO_S2M_H_0_0",
+         "Name_EN":"Zig Zag Cornrows",
+         "HairTattooCollection":1529191571,
+         "HairTattooOverlay":-1431204514,
+         "Name_RU":"Косички-зигзаги"
+      }
+   },
+   "29":{
+      "0":{
+         "GXT":"CLO_S2M_H_1_0",
+         "Name_EN":"Snail Cornrows",
+         "HairTattooCollection":1529191571,
+         "HairTattooOverlay":-1133334304,
+         "Name_RU":"Косички-'улитки'"
+      }
+   },
+   "30":{
+      "0":{
+         "GXT":"CLO_S2M_H_2_0",
+         "Name_EN":"Hightop",
+         "HairTattooCollection":1529191571,
+         "HairTattooOverlay":-1809784771,
+         "Name_RU":"Хай-топ"
+      }
+   },
+   "31":{
+      "0":{
+         "GXT":"CLO_BIM_H_0_0",
+         "Name_EN":"Loose Swept Back",
+         "HairTattooCollection":-240234547,
+         "HairTattooOverlay":1431846777,
+         "Name_RU":"Растрепанный зачес назад"
+      }
+   },
+   "32":{
+      "0":{
+         "GXT":"CLO_BIM_H_1_0",
+         "Name_EN":"Undercut Swept Back",
+         "HairTattooCollection":-240234547,
+         "HairTattooOverlay":-460168116,
+         "Name_RU":"Подстриженный зачес назад"
+      }
+   },
+   "33":{
+      "0":{
+         "GXT":"CLO_BIM_H_2_0",
+         "Name_EN":"Undercut Swept Side",
+         "HairTattooCollection":-240234547,
+         "HairTattooOverlay":-311245907,
+         "Name_RU":"Подстриженный зачес набок"
+      }
+   },
+   "34":{
+      "0":{
+         "GXT":"CLO_BIM_H_3_0",
+         "Name_EN":"Spiked Mohawk",
+         "HairTattooCollection":-240234547,
+         "HairTattooOverlay":-942031335,
+         "Name_RU":"Шипастый ирокез"
+      }
+   },
+   "35":{
+      "0":{
+         "GXT":"CLO_BIM_H_4_0",
+         "Name_EN":"Mod",
+         "HairTattooCollection":-240234547,
+         "HairTattooOverlay":-644503216,
+         "Name_RU":"'Стиляга'"
+      }
+   },
+   "36":{
+      "0":{
+         "GXT":"CLO_BIM_H_5_0",
+         "Name_EN":"Layered Mod",
+         "HairTattooCollection":-240234547,
+         "HairTattooOverlay":211198653,
+         "Name_RU":"'Стиляга' со слоями"
+      }
+   },
+   "37":{
+      "0":{
+         "GXT":"CC_M_HS_1",
+         "Name_EN":"Buzzcut",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":739308497,
+         "Name_RU":"Коротко"
+      }
+   },
+   "38":{
+      "0":{
+         "GXT":"CC_M_HS_2",
+         "Name_EN":"Faux Hawk",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":495343292,
+         "Name_RU":"'Ястреб'"
+      }
+   },
+   "39":{
+      "0":{
+         "GXT":"CC_M_HS_3",
+         "Name_EN":"Hipster",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":-1686711653,
+         "Name_RU":"'Хипстер'"
+      }
+   },
+   "40":{
+      "0":{
+         "GXT":"CC_M_HS_4",
+         "Name_EN":"Side Parting",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":1187457341,
+         "Name_RU":"Челка набок"
+      }
+   },
+   "41":{
+      "0":{
+         "GXT":"CC_M_HS_5",
+         "Name_EN":"Shorter Cut",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":956403122,
+         "Name_RU":"'Коротко'"
+      }
+   },
+   "42":{
+      "0":{
+         "GXT":"CC_M_HS_6",
+         "Name_EN":"Biker",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":1647042566,
+         "Name_RU":"'Байкер'"
+      }
+   },
+   "43":{
+      "0":{
+         "GXT":"CC_M_HS_7",
+         "Name_EN":"Ponytail",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":-461478743,
+         "Name_RU":"'Хвост'"
+      }
+   },
+   "44":{
+      "0":{
+         "GXT":"CC_M_HS_8",
+         "Name_EN":"Cornrows",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":-1883325653,
+         "Name_RU":"'Косички'"
+      }
+   },
+   "45":{
+      "0":{
+         "GXT":"CC_M_HS_9",
+         "Name_EN":"Slicked",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":-2114248796,
+         "Name_RU":"'Прилиза'"
+      }
+   },
+   "46":{
+      "0":{
+         "GXT":"CC_M_HS_10",
+         "Name_EN":"Short Brushed",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":314228205,
+         "Name_RU":"'Коротко'"
+      }
+   },
+   "47":{
+      "0":{
+         "GXT":"CC_M_HS_11",
+         "Name_EN":"Spikey",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":1503775674,
+         "Name_RU":"'Шипы'"
+      }
+   },
+   "48":{
+      "0":{
+         "GXT":"CC_M_HS_12",
+         "Name_EN":"Caesar",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":1862399610,
+         "Name_RU":"'Цезарь'"
+      }
+   },
+   "49":{
+      "0":{
+         "GXT":"CC_M_HS_13",
+         "Name_EN":"Chopped",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":708472048,
+         "Name_RU":"'Чоппи'"
+      }
+   },
+   "50":{
+      "0":{
+         "GXT":"CC_M_HS_14",
+         "Name_EN":"Dreads",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":-1207367545,
+         "Name_RU":"Дреды"
+      }
+   },
+   "51":{
+      "0":{
+         "GXT":"CC_M_HS_15",
+         "Name_EN":"Long Hair",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":111650251,
+         "Name_RU":"Длинные"
+      }
+   },
+   "52":{
+      "0":{
+         "GXT":"CLO_BBM_H_00",
+         "Name_EN":"Shaggy Curls Dark Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Темные - 'кудри'"
+      }
+   },
+   "53":{
+      "0":{
+         "GXT":"CLO_BBM_H_05",
+         "Name_EN":"Surfer Dude Dark Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Темные  - 'серфингист'"
+      }
+   },
+   "54":{
+      "0":{
+         "GXT":"CLO_BUS_H_0_0",
+         "Name_EN":"Short Side Part Dark Brown",
+         "HairTattooCollection":-2086773,
+         "HairTattooOverlay":224730392,
+         "Name_RU":"Темный шатен - 'набок'"
+      }
+   },
+   "55":{
+      "0":{
+         "GXT":"CLO_BUS_H_1_0",
+         "Name_EN":"High Slicked Sides Dark Brown",
+         "HairTattooCollection":-2086773,
+         "HairTattooOverlay":2140603469,
+         "Name_RU":"Темный шатен - 'зализ'"
+      }
+   },
+   "56":{
+      "0":{
+         "GXT":"CLO_HP_HR_0_0",
+         "Name_EN":"Long Slicked Dark Brown",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":965649655,
+         "Name_RU":"Шатен - длинные"
+      }
+   },
+   "57":{
+      "0":{
+         "GXT":"CLO_HP_HR_1_0",
+         "Name_EN":"Hipster Youth Dark Brown",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":-1679505893,
+         "Name_RU":"Шатен - хипстер"
+      }
+   },
+   "58":{
+      "0":{
+         "GXT":"CLO_IND_H_0_0",
+         "Name_EN":"Mullet Dark Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Маллет, темный шатен"
+      }
+   },
+   "59":{
+      "0":{
+         "GXT":"CLO_S1M_H_0_0",
+         "Name_EN":"Classic Cornrows",
+         "HairTattooCollection":62137527,
+         "HairTattooOverlay":534771589,
+         "Name_RU":"Классические 'косички'"
+      }
+   },
+   "60":{
+      "0":{
+         "GXT":"CLO_S1M_H_1_0",
+         "Name_EN":"Palm Cornrows",
+         "HairTattooCollection":62137527,
+         "HairTattooOverlay":-1340139519,
+         "Name_RU":"Косички-'пальма'"
+      }
+   },
+   "61":{
+      "0":{
+         "GXT":"CLO_S1M_H_2_0",
+         "Name_EN":"Lightning Cornrows",
+         "HairTattooCollection":62137527,
+         "HairTattooOverlay":-849980761,
+         "Name_RU":"Косички-'молнии'"
+      }
+   },
+   "62":{
+      "0":{
+         "GXT":"CLO_S1M_H_3_0",
+         "Name_EN":"Whipped Cornrows",
+         "HairTattooCollection":62137527,
+         "HairTattooOverlay":-551553478,
+         "Name_RU":"Зачесанные наверх косички"
+      }
+   },
+   "63":{
+      "0":{
+         "GXT":"CLO_S2M_H_0_0",
+         "Name_EN":"Zig Zag Cornrows",
+         "HairTattooCollection":1529191571,
+         "HairTattooOverlay":-1431204514,
+         "Name_RU":"Косички-зигзаги"
+      }
+   },
+   "64":{
+      "0":{
+         "GXT":"CLO_S2M_H_1_0",
+         "Name_EN":"Snail Cornrows",
+         "HairTattooCollection":1529191571,
+         "HairTattooOverlay":-1133334304,
+         "Name_RU":"Косички-'улитки'"
+      }
+   },
+   "65":{
+      "0":{
+         "GXT":"CLO_S2M_H_2_0",
+         "Name_EN":"Hightop",
+         "HairTattooCollection":1529191571,
+         "HairTattooOverlay":-1809784771,
+         "Name_RU":"Хай-топ"
+      }
+   },
+   "66":{
+      "0":{
+         "GXT":"CLO_BIM_H_0_0",
+         "Name_EN":"Loose Swept Back",
+         "HairTattooCollection":-240234547,
+         "HairTattooOverlay":1431846777,
+         "Name_RU":"Растрепанный зачес назад"
+      }
+   },
+   "67":{
+      "0":{
+         "GXT":"CLO_BIM_H_1_0",
+         "Name_EN":"Undercut Swept Back",
+         "HairTattooCollection":-240234547,
+         "HairTattooOverlay":-460168116,
+         "Name_RU":"Подстриженный зачес назад"
+      }
+   },
+   "68":{
+      "0":{
+         "GXT":"CLO_BIM_H_2_0",
+         "Name_EN":"Undercut Swept Side",
+         "HairTattooCollection":-240234547,
+         "HairTattooOverlay":-311245907,
+         "Name_RU":"Подстриженный зачес набок"
+      }
+   },
+   "69":{
+      "0":{
+         "GXT":"CLO_BIM_H_3_0",
+         "Name_EN":"Spiked Mohawk",
+         "HairTattooCollection":-240234547,
+         "HairTattooOverlay":-942031335,
+         "Name_RU":"Шипастый ирокез"
+      }
+   },
+   "70":{
+      "0":{
+         "GXT":"CLO_BIM_H_4_0",
+         "Name_EN":"Mod",
+         "HairTattooCollection":-240234547,
+         "HairTattooOverlay":-644503216,
+         "Name_RU":"'Стиляга'"
+      }
+   },
+   "71":{
+      "0":{
+         "GXT":"CLO_BIM_H_5_0",
+         "Name_EN":"Layered Mod",
+         "HairTattooCollection":-240234547,
+         "HairTattooOverlay":211198653,
+         "Name_RU":"'Стиляга' со слоями"
+      }
+   },
+   "72":{
+      "0":{
+         "GXT":"CLO_GRM_H_0_0",
+         "Name_EN":"Flattop",
+         "HairTattooCollection":1616273011,
+         "HairTattooOverlay":-1119221482,
+         "Name_RU":"'Ежик'"
+      }
+   },
+   "73":{
+      "0":{
+         "GXT":"CLO_GRM_H_1_0",
+         "Name_EN":"Military Buzzcut",
+         "HairTattooCollection":1616273011,
+         "HairTattooOverlay":-1642199958,
+         "Name_RU":"Армейская стрижка"
+      }
+   },
+   "74":{
+      "0":{
+         "GXT":"CLO_VWM_H_0_0",
+         "Name_EN":"Impotent Rage",
+         "HairTattooCollection":1347816957,
+         "HairTattooOverlay":-599666460,
+         "Name_RU":"'Бессильная злоба'"
+      }
+   }
+}

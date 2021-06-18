@@ -1,0 +1,1476 @@
+﻿{
+   "0":{
+      "0":{
+         "GXT":"H_FMF_0_0",
+         "Name_EN":"Close Shave",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Под ноль"
+      }
+   },
+   "1":{
+      "0":{
+         "GXT":"H_FMF_1_0",
+         "Name_EN":"Short Chestnut",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Каштановые - 'коротко'"
+      },
+      "1":{
+         "GXT":"H_FMF_1_1",
+         "Name_EN":"Short Blonde",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлые - 'коротко'"
+      },
+      "2":{
+         "GXT":"H_FMF_1_2",
+         "Name_EN":"Short Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжие - 'коротко'"
+      },
+      "3":{
+         "GXT":"H_FMF_1_3",
+         "Name_EN":"Short Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Черные - 'коротко'"
+      },
+      "4":{
+         "GXT":"H_FMF_1_4",
+         "Name_EN":"Short Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Коричневые - 'коротко'"
+      },
+      "5":{
+         "GXT":"H_FMF_1_5",
+         "Name_EN":"Short Purple",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Фиолетовые - 'коротко'"
+      }
+   },
+   "2":{
+      "0":{
+         "GXT":"H_FMF_2_0",
+         "Name_EN":"Layered Bob Chestnut",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Каштановые - 'слои'"
+      },
+      "1":{
+         "GXT":"H_FMF_2_1",
+         "Name_EN":"Layered Bob Blonde",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлые - 'слои'"
+      },
+      "2":{
+         "GXT":"H_FMF_2_2",
+         "Name_EN":"Layered Bob Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжые - 'слои'"
+      },
+      "3":{
+         "GXT":"H_FMF_2_3",
+         "Name_EN":"Layered Bob Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Черные - 'слои'"
+      },
+      "4":{
+         "GXT":"H_FMF_2_4",
+         "Name_EN":"Layered Bob Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Коричневые - 'слои'"
+      },
+      "5":{
+         "GXT":"H_FMF_2_5",
+         "Name_EN":"Layered Bob Green",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Зеленые - 'слои'"
+      }
+   },
+   "3":{
+      "0":{
+         "GXT":"H_FMF_3_0",
+         "Name_EN":"Pigtails Chestnut",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Каштановые - 'косички'"
+      },
+      "1":{
+         "GXT":"H_FMF_3_1",
+         "Name_EN":"Pigtails Blonde",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлые - 'косички'"
+      },
+      "2":{
+         "GXT":"H_FMF_3_2",
+         "Name_EN":"Pigtails Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжие - 'косички'"
+      },
+      "3":{
+         "GXT":"H_FMF_3_3",
+         "Name_EN":"Pigtails Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Черные - 'косички'"
+      },
+      "4":{
+         "GXT":"H_FMF_3_4",
+         "Name_EN":"Pigtails Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Коричневые - 'косички'"
+      }
+   },
+   "4":{
+      "0":{
+         "GXT":"H_FMF_4_0",
+         "Name_EN":"Ponytail Chestnut",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Каштановые - 'хвост'"
+      },
+      "1":{
+         "GXT":"H_FMF_4_1",
+         "Name_EN":"Ponytail Blonde",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлые - 'хвост'"
+      },
+      "2":{
+         "GXT":"H_FMF_4_2",
+         "Name_EN":"Ponytail Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжие - 'хвост'"
+      },
+      "3":{
+         "GXT":"H_FMF_4_3",
+         "Name_EN":"Ponytail Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Черные - 'хвост'"
+      },
+      "4":{
+         "GXT":"H_FMF_4_4",
+         "Name_EN":"Ponytail Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Коричневые - 'хвост'"
+      },
+      "5":{
+         "GXT":"H_FMF_4_5",
+         "Name_EN":"Ponytail Blue",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Синие - 'хвост'"
+      }
+   },
+   "5":{
+      "0":{
+         "GXT":"H_FMF_5_0",
+         "Name_EN":"Braided Mohawk Chestnut",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Каштановые - 'ирокез'"
+      },
+      "1":{
+         "GXT":"H_FMF_5_1",
+         "Name_EN":"Braided Mohawk Blonde",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлые - 'ирокез'"
+      },
+      "2":{
+         "GXT":"H_FMF_5_2",
+         "Name_EN":"Braided Mohawk Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжие - 'ирокез'"
+      },
+      "3":{
+         "GXT":"H_FMF_5_3",
+         "Name_EN":"Braided Mohawk Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Черные - 'ирокез'"
+      },
+      "4":{
+         "GXT":"H_FMF_5_4",
+         "Name_EN":"Braided Mohawk Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Коричневые - 'ирокез'"
+      },
+      "5":{
+         "GXT":"H_FMF_5_5",
+         "Name_EN":"Braided Mohawk Pink",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Розовые - 'ирокез'"
+      }
+   },
+   "6":{
+      "0":{
+         "GXT":"H_FMF_6_0",
+         "Name_EN":"Braids Chestnut",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Каштановые - 'брейды'"
+      },
+      "1":{
+         "GXT":"H_FMF_6_1",
+         "Name_EN":"Braids Blonde",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлые - 'брейды'"
+      },
+      "2":{
+         "GXT":"H_FMF_6_2",
+         "Name_EN":"Braids Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжие - 'брейды'"
+      },
+      "3":{
+         "GXT":"H_FMF_6_3",
+         "Name_EN":"Braids Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Черные - 'брейды'"
+      },
+      "4":{
+         "GXT":"H_FMF_6_4",
+         "Name_EN":"Braids Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Коричневые - 'брейды'"
+      }
+   },
+   "7":{
+      "0":{
+         "GXT":"H_FMF_7_0",
+         "Name_EN":"Bob Chestnut",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Каштановые - 'боб'"
+      },
+      "1":{
+         "GXT":"H_FMF_7_1",
+         "Name_EN":"Bob Blonde",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлые - 'боб'"
+      },
+      "2":{
+         "GXT":"H_FMF_7_2",
+         "Name_EN":"Bob Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжие - 'боб'"
+      },
+      "3":{
+         "GXT":"H_FMF_7_3",
+         "Name_EN":"Bob Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Черные - 'боб'"
+      },
+      "4":{
+         "GXT":"H_FMF_7_4",
+         "Name_EN":"Bob Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Коричневые - 'боб'"
+      },
+      "5":{
+         "GXT":"H_FMF_7_5",
+         "Name_EN":"Bob Purple Fade",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Фиолетовые - 'боб'"
+      }
+   },
+   "8":{
+      "0":{
+         "GXT":"H_FMF_8_0",
+         "Name_EN":"Faux Hawk Chestnut",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Каштановые - 'ястреб'"
+      },
+      "1":{
+         "GXT":"H_FMF_8_1",
+         "Name_EN":"Faux Hawk Blonde",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлые - 'ястреб'"
+      },
+      "2":{
+         "GXT":"H_FMF_8_2",
+         "Name_EN":"Faux Hawk Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжие - 'ястреб'"
+      },
+      "3":{
+         "GXT":"H_FMF_8_3",
+         "Name_EN":"Faux Hawk Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Черные - 'ястреб'"
+      },
+      "4":{
+         "GXT":"H_FMF_8_4",
+         "Name_EN":"Faux Hawk Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Коричневые - 'ястреб'"
+      },
+      "5":{
+         "GXT":"H_FMF_8_5",
+         "Name_EN":"Faux Hawk Pink",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Розовые - 'ястреб'"
+      }
+   },
+   "9":{
+      "0":{
+         "GXT":"H_FMF_9_0",
+         "Name_EN":"French Twist Chestnut",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Каштановые - 'ракушка'"
+      },
+      "1":{
+         "GXT":"H_FMF_9_1",
+         "Name_EN":"French Twist Blonde",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлые - 'ракушка'"
+      },
+      "2":{
+         "GXT":"H_FMF_9_2",
+         "Name_EN":"French Twist Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжие - 'ракушка'"
+      },
+      "3":{
+         "GXT":"H_FMF_9_3",
+         "Name_EN":"French Twist Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Черные - 'ракушка'"
+      },
+      "4":{
+         "GXT":"H_FMF_9_4",
+         "Name_EN":"French Twist Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Коричневые - 'ракушка'"
+      },
+      "5":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"NULL"
+      }
+   },
+   "10":{
+      "0":{
+         "GXT":"H_FMF_10_0",
+         "Name_EN":"Long Bob Chestnut",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Каштановые - 'лонг боб'"
+      },
+      "1":{
+         "GXT":"H_FMF_10_1",
+         "Name_EN":"Long Bob Blonde",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлые - 'лонг боб'"
+      },
+      "2":{
+         "GXT":"H_FMF_10_2",
+         "Name_EN":"Long Bob Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжие - 'лонг боб'"
+      },
+      "3":{
+         "GXT":"H_FMF_10_3",
+         "Name_EN":"Long Bob Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Черные - 'лонг боб'"
+      },
+      "4":{
+         "GXT":"H_FMF_10_4",
+         "Name_EN":"Long Bob Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Коричневые - 'лонг боб'"
+      },
+      "5":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"NULL"
+      },
+      "6":{
+         "GXT":"H_FMF_10_6",
+         "Name_EN":"Long Bob Purple Fade",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Фиолетовые - 'лонг боб'"
+      }
+   },
+   "11":{
+      "0":{
+         "GXT":"H_FMF_11_0",
+         "Name_EN":"Loose Tied Chestnut",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Каштановые - 'свободно'"
+      },
+      "1":{
+         "GXT":"H_FMF_11_1",
+         "Name_EN":"Loose Tied Blonde",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлые - 'свободно'"
+      },
+      "2":{
+         "GXT":"H_FMF_11_2",
+         "Name_EN":"Loose Tied Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжие - 'свободно'"
+      },
+      "3":{
+         "GXT":"H_FMF_11_3",
+         "Name_EN":"Loose Tied Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Черные - 'свободно'"
+      },
+      "4":{
+         "GXT":"H_FMF_11_4",
+         "Name_EN":"Loose Tied Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Коричневые - 'свободно'"
+      },
+      "5":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"NULL"
+      },
+      "6":{
+         "GXT":"H_FMF_11_6",
+         "Name_EN":"Loose Tied Green",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Зеленые - 'свободно'"
+      }
+   },
+   "12":{
+      "0":{
+         "GXT":"H_FMF_12_0",
+         "Name_EN":"Pixie Chestnut",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Каштановые - 'пикси'"
+      },
+      "1":{
+         "GXT":"H_FMF_12_1",
+         "Name_EN":"Pixie Blonde",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлые - 'пикси'"
+      },
+      "2":{
+         "GXT":"H_FMF_12_2",
+         "Name_EN":"Pixie Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжие - 'пикси'"
+      },
+      "3":{
+         "GXT":"H_FMF_12_3",
+         "Name_EN":"Pixie Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Черные - 'пикси'"
+      },
+      "4":{
+         "GXT":"H_FMF_12_4",
+         "Name_EN":"Pixie Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Коричневые - 'пикси'"
+      },
+      "5":{
+         "GXT":"H_FMF_12_5",
+         "Name_EN":"Pixie Blue",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Синие - 'пикси'"
+      }
+   },
+   "13":{
+      "0":{
+         "GXT":"H_FMF_13_0",
+         "Name_EN":"Shaved Bangs Chestnut",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Каштановые - подбритые виски"
+      },
+      "1":{
+         "GXT":"H_FMF_13_1",
+         "Name_EN":"Shaved Bangs Blonde",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлые - подбритые виски"
+      },
+      "2":{
+         "GXT":"H_FMF_13_2",
+         "Name_EN":"Shaved Bangs Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжие - подбритые виски"
+      },
+      "3":{
+         "GXT":"H_FMF_13_3",
+         "Name_EN":"Shaved Bangs Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Черные - подбритые виски"
+      },
+      "4":{
+         "GXT":"H_FMF_13_4",
+         "Name_EN":"Shaved Bangs Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Коричневые - подбритые виски"
+      },
+      "5":{
+         "GXT":"H_FMF_13_5",
+         "Name_EN":"Shaved Bangs Blue Fade",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Синие - подбритые виски"
+      }
+   },
+   "14":{
+      "0":{
+         "GXT":"H_FMF_14_0",
+         "Name_EN":"Top Knot Chestnut",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Каштановые - 'узел'"
+      },
+      "1":{
+         "GXT":"H_FMF_14_1",
+         "Name_EN":"Top Knot Blonde",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлые - 'узел'"
+      },
+      "2":{
+         "GXT":"H_FMF_14_2",
+         "Name_EN":"Top Knot Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжие - 'узел'"
+      },
+      "3":{
+         "GXT":"H_FMF_14_3",
+         "Name_EN":"Top Knot Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Черные - 'узел'"
+      },
+      "4":{
+         "GXT":"H_FMF_14_4",
+         "Name_EN":"Top Knot Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Коричневые - 'узел'"
+      },
+      "5":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"NULL"
+      }
+   },
+   "15":{
+      "0":{
+         "GXT":"H_FMF_15_0",
+         "Name_EN":"Wavy Bob Chestnut",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Каштановые - волнистый боб"
+      },
+      "1":{
+         "GXT":"H_FMF_15_1",
+         "Name_EN":"Wavy Bob Blonde",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлые - волнистый боб"
+      },
+      "2":{
+         "GXT":"H_FMF_15_2",
+         "Name_EN":"Wavy Bob Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжие - волнистый боб"
+      },
+      "3":{
+         "GXT":"H_FMF_15_3",
+         "Name_EN":"Wavy Bob Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Черные - волнистый боб"
+      },
+      "4":{
+         "GXT":"H_FMF_15_4",
+         "Name_EN":"Wavy Bob Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Коричневые - волнистый боб"
+      },
+      "5":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"NULL"
+      },
+      "6":{
+         "GXT":"H_FMF_15_6",
+         "Name_EN":"Wavy Bob Red Fade",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Двуцветные - волнистый боб"
+      }
+   },
+   "16":{
+      "0":{
+         "GXT":"CLO_BBF_H_00",
+         "Name_EN":"Pin Up Girl Chestnut",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Каштановые - 'красотка'"
+      },
+      "1":{
+         "GXT":"CLO_BBF_H_01",
+         "Name_EN":"Pin Up Girl Blonde",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлые - 'красотка'"
+      },
+      "2":{
+         "GXT":"CLO_BBF_H_02",
+         "Name_EN":"Pin Up Girl Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжие - 'красотка'"
+      },
+      "3":{
+         "GXT":"CLO_BBF_H_03",
+         "Name_EN":"Pin Up Girl Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Черные - 'красотка'"
+      },
+      "4":{
+         "GXT":"CLO_BBF_H_04",
+         "Name_EN":"Pin Up Girl Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Коричневые - 'красотка'"
+      }
+   },
+   "17":{
+      "0":{
+         "GXT":"CLO_BBF_H_05",
+         "Name_EN":"Messy Bun Chestnut",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":-811206225,
+         "Name_RU":"Каштановые - 'пучок'"
+      },
+      "1":{
+         "GXT":"CLO_BBF_H_06",
+         "Name_EN":"Messy Bun Blonde",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":-1586815686,
+         "Name_RU":"Светлые - 'пучок'"
+      },
+      "2":{
+         "GXT":"CLO_BBF_H_07",
+         "Name_EN":"Messy Bun Auburn",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":-1423429452,
+         "Name_RU":"Рыжие - 'пучок'"
+      },
+      "3":{
+         "GXT":"CLO_BBF_H_08",
+         "Name_EN":"Messy Bun Black",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":-1697869815,
+         "Name_RU":"Черные - 'пучок'"
+      },
+      "4":{
+         "GXT":"CLO_BBF_H_09",
+         "Name_EN":"Messy Bun Brown",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":-1470846183,
+         "Name_RU":"Коричневые - 'пучок'"
+      }
+   },
+   "18":{
+      "0":{
+         "GXT":"CLO_VALF_H_0_0",
+         "Name_EN":"Flapper Bob Chestnut",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Каштановые - флэппер боб"
+      },
+      "1":{
+         "GXT":"CLO_VALF_H_0_1",
+         "Name_EN":"Flapper Bob Blonde",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Светлые - флэппер боб"
+      },
+      "2":{
+         "GXT":"CLO_VALF_H_0_2",
+         "Name_EN":"Flapper Bob Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжие - флэппер боб"
+      },
+      "3":{
+         "GXT":"CLO_VALF_H_0_3",
+         "Name_EN":"Flapper Bob Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Черные - флэппер боб"
+      },
+      "4":{
+         "GXT":"CLO_VALF_H_0_4",
+         "Name_EN":"Flapper Bob Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Коричневые - флэппер боб"
+      },
+      "5":{
+         "GXT":"CLO_VALF_H_0_5",
+         "Name_EN":"Flapper Bob Blue",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Синие - флэппер боб"
+      }
+   },
+   "19":{
+      "0":{
+         "GXT":"CLO_BUS_F_H_0_0",
+         "Name_EN":"Tight Bun Black",
+         "HairTattooCollection":-2086773,
+         "HairTattooOverlay":-1816086813,
+         "Name_RU":"Черные - тугой узел"
+      },
+      "1":{
+         "GXT":"CLO_BUS_F_H_0_1",
+         "Name_EN":"Tight Bun Brown",
+         "HairTattooCollection":-2086773,
+         "HairTattooOverlay":-2113006722,
+         "Name_RU":"Коричневые - тугой узел"
+      },
+      "2":{
+         "GXT":"CLO_BUS_F_H_0_2",
+         "Name_EN":"Tight Bun Auburn",
+         "HairTattooCollection":-2086773,
+         "HairTattooOverlay":-1398740829,
+         "Name_RU":"Рыжие - тугой узел"
+      },
+      "3":{
+         "GXT":"CLO_BUS_F_H_0_3",
+         "Name_EN":"Tight Bun Chestnut",
+         "HairTattooCollection":-2086773,
+         "HairTattooOverlay":-131530830,
+         "Name_RU":"Каштановые - тугой узел"
+      },
+      "4":{
+         "GXT":"CLO_BUS_F_H_0_4",
+         "Name_EN":"Tight Bun Blonde",
+         "HairTattooCollection":-2086773,
+         "HairTattooOverlay":-1101886458,
+         "Name_RU":"Светлые - тугой узел"
+      }
+   },
+   "20":{
+      "0":{
+         "GXT":"CLO_BUS_F_H_1_0",
+         "Name_EN":"Twisted Bob Chestnut",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":558694786,
+         "Name_RU":"Каштановые - 'одуванчик'"
+      },
+      "1":{
+         "GXT":"CLO_BUS_F_H_1_1",
+         "Name_EN":"Twisted Bob Black",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":569279177,
+         "Name_RU":"Черные - 'одуванчик'"
+      },
+      "2":{
+         "GXT":"CLO_BUS_F_H_1_2",
+         "Name_EN":"Twisted Bob Auburn",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":544309199,
+         "Name_RU":"Рыжие - 'одуванчик'"
+      },
+      "3":{
+         "GXT":"CLO_BUS_F_H_1_3",
+         "Name_EN":"Twisted Bob Brown",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":1190448341,
+         "Name_RU":"Коричневые - 'одуванчик'"
+      },
+      "4":{
+         "GXT":"CLO_BUS_F_H_1_4",
+         "Name_EN":"Twisted Bob Blonde",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":885139568,
+         "Name_RU":"Светлые - 'одуванчик'"
+      }
+   },
+   "21":{
+      "0":{
+         "GXT":"CLO_HP_F_HR_0_0",
+         "Name_EN":"Big Bangs Chestnut",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Каштановые - взрыв"
+      },
+      "1":{
+         "GXT":"CLO_HP_F_HR_0_1",
+         "Name_EN":"Big Bangs Blonde",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Блондинка - взрыв"
+      },
+      "2":{
+         "GXT":"CLO_HP_F_HR_0_2",
+         "Name_EN":"Big Bangs Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Рыжие - взрыв"
+      },
+      "3":{
+         "GXT":"CLO_HP_F_HR_0_3",
+         "Name_EN":"Big Bangs Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Черные - взрыв"
+      },
+      "4":{
+         "GXT":"CLO_HP_F_HR_0_4",
+         "Name_EN":"Big Bangs Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Коричневые - взрыв"
+      }
+   },
+   "22":{
+      "0":{
+         "GXT":"CLO_HP_F_HR_1_0",
+         "Name_EN":"Braided Top Knot Chestnut",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":-1845683606,
+         "Name_RU":"Каштановые - узел"
+      },
+      "1":{
+         "GXT":"CLO_HP_F_HR_1_1",
+         "Name_EN":"Braided Top Knot Blonde",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":-1555317497,
+         "Name_RU":"Блондин  - узел"
+      },
+      "2":{
+         "GXT":"CLO_HP_F_HR_1_2",
+         "Name_EN":"Braided Top Knot Auburn",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":1704673699,
+         "Name_RU":"Рыжие - узел"
+      },
+      "3":{
+         "GXT":"CLO_HP_F_HR_1_3",
+         "Name_EN":"Braided Top Knot Black",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":1993401358,
+         "Name_RU":"Черные - узел"
+      },
+      "4":{
+         "GXT":"CLO_HP_F_HR_1_4",
+         "Name_EN":"Braided Top Knot Brown",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":1227065524,
+         "Name_RU":"Коричневые - узел"
+      }
+   },
+   "23":{
+      "0":{
+         "GXT":"CLO_INDF_H_0_0",
+         "Name_EN":"Mullet Chestnut",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Маллет, каштановый"
+      },
+      "1":{
+         "GXT":"CLO_INDF_H_0_1",
+         "Name_EN":"Mullet Blonde",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Маллет, блонди"
+      },
+      "2":{
+         "GXT":"CLO_INDF_H_0_2",
+         "Name_EN":"Mullet Auburn",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Маллет, рыжий"
+      },
+      "3":{
+         "GXT":"CLO_INDF_H_0_3",
+         "Name_EN":"Mullet Black",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Маллет, брюнет"
+      },
+      "4":{
+         "GXT":"CLO_INDF_H_0_4",
+         "Name_EN":"Mullet Brown",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Маллет, шатен"
+      }
+   },
+   "24":{
+      "0":{
+         "GXT":"NO_LABEL",
+         "Name_EN":"NULL",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"NULL"
+      }
+   },
+   "25":{
+      "0":{
+         "GXT":"CLO_S1F_H_0_0",
+         "Name_EN":"Pinched Cornrows",
+         "HairTattooCollection":62137527,
+         "HairTattooOverlay":-1325458477,
+         "Name_RU":"Сколотые косички"
+      }
+   },
+   "26":{
+      "0":{
+         "GXT":"CLO_S1F_H_1_0",
+         "Name_EN":"Leaf Cornrows",
+         "HairTattooCollection":62137527,
+         "HairTattooOverlay":-566725051,
+         "Name_RU":"Косички-'листья'"
+      }
+   },
+   "27":{
+      "0":{
+         "GXT":"CLO_S1F_H_2_0",
+         "Name_EN":"Zig Zag Cornrows",
+         "HairTattooCollection":62137527,
+         "HairTattooOverlay":-787850263,
+         "Name_RU":"Косички-зигзаги"
+      }
+   },
+   "28":{
+      "0":{
+         "GXT":"CLO_S1F_H_3_0",
+         "Name_EN":"Pigtail Bangs",
+         "HairTattooCollection":1529191571,
+         "HairTattooOverlay":2039295216,
+         "Name_RU":"'Хвостики' с челкой"
+      }
+   },
+   "29":{
+      "0":{
+         "GXT":"CLO_S2F_H_0_0",
+         "Name_EN":"Wave Braids",
+         "HairTattooCollection":1529191571,
+         "HairTattooOverlay":2039295216,
+         "Name_RU":"Косички-'волны'"
+      }
+   },
+   "30":{
+      "0":{
+         "GXT":"CLO_S2F_H_1_0",
+         "Name_EN":"Coil Braids",
+         "HairTattooCollection":1529191571,
+         "HairTattooOverlay":1800147054,
+         "Name_RU":"Косички-завитки"
+      }
+   },
+   "31":{
+      "0":{
+         "GXT":"CLO_S2F_H_2_0",
+         "Name_EN":"Rolled Quiff",
+         "HairTattooCollection":1529191571,
+         "HairTattooOverlay":-2019505897,
+         "Name_RU":"Челка-валик"
+      }
+   },
+   "32":{
+      "0":{
+         "GXT":"CLO_BIF_H_0_0",
+         "Name_EN":"Loose Swept Back",
+         "HairTattooCollection":-240234547,
+         "HairTattooOverlay":-328340062,
+         "Name_RU":"Растрепанный зачес назад"
+      }
+   },
+   "33":{
+      "0":{
+         "GXT":"CLO_BIF_H_1_0",
+         "Name_EN":"Undercut Swept Back",
+         "HairTattooCollection":-240234547,
+         "HairTattooOverlay":1657725123,
+         "Name_RU":"Подстриженный зачес назад"
+      }
+   },
+   "34":{
+      "0":{
+         "GXT":"CLO_BIF_H_2_0",
+         "Name_EN":"Undercut Swept Side",
+         "HairTattooCollection":-240234547,
+         "HairTattooOverlay":-1517964336,
+         "Name_RU":"Подстриженный зачес набок"
+      }
+   },
+   "35":{
+      "0":{
+         "GXT":"CLO_BIF_H_3_0",
+         "Name_EN":"Spiked Mohawk",
+         "HairTattooCollection":-240234547,
+         "HairTattooOverlay":1677522529,
+         "Name_RU":"Шипастый ирокез"
+      }
+   },
+   "36":{
+      "0":{
+         "GXT":"CLO_BIF_H_4_0",
+         "Name_EN":"Bandana and Braid",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":-1362677538,
+         "Name_RU":"Бандана и косички"
+      }
+   },
+   "37":{
+      "0":{
+         "GXT":"CLO_BIF_H_6_0",
+         "Name_EN":"Skinbyrd",
+         "HairTattooCollection":-240234547,
+         "HairTattooOverlay":1841934566,
+         "Name_RU":"'Челси'"
+      }
+   },
+   "38":{
+      "0":{
+         "GXT":"CLO_BIF_H_5_0",
+         "Name_EN":"Layered Mod",
+         "HairTattooCollection":-240234547,
+         "HairTattooOverlay":1742494019,
+         "Name_RU":"'Стиляга' со слоями"
+      }
+   },
+   "39":{
+      "0":{
+         "GXT":"CC_F_HS_1",
+         "Name_EN":"Short",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":104062694,
+         "Name_RU":"Коротко"
+      }
+   },
+   "40":{
+      "0":{
+         "GXT":"CC_F_HS_2",
+         "Name_EN":"Layered Bob",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":869579299,
+         "Name_RU":"'Слои'"
+      }
+   },
+   "41":{
+      "0":{
+         "GXT":"CC_F_HS_3",
+         "Name_EN":"Pigtails",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":1201332655,
+         "Name_RU":"Косички"
+      }
+   },
+   "42":{
+      "0":{
+         "GXT":"CC_F_HS_4",
+         "Name_EN":"Ponytail",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":1028967715,
+         "Name_RU":"'Хвост'"
+      }
+   },
+   "43":{
+      "0":{
+         "GXT":"CC_F_HS_5",
+         "Name_EN":"Braided Mohawk",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":-1651634800,
+         "Name_RU":"'Ирокез'"
+      }
+   },
+   "44":{
+      "0":{
+         "GXT":"CC_F_HS_6",
+         "Name_EN":"Braids",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":-892278763,
+         "Name_RU":"'Косички'"
+      }
+   },
+   "45":{
+      "0":{
+         "GXT":"CC_F_HS_7",
+         "Name_EN":"Bob",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":-1032005779,
+         "Name_RU":"'Боб'"
+      }
+   },
+   "46":{
+      "0":{
+         "GXT":"CC_F_HS_8",
+         "Name_EN":"Faux Hawk",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":-255675400,
+         "Name_RU":"'Ястреб'"
+      }
+   },
+   "47":{
+      "0":{
+         "GXT":"CC_F_HS_9",
+         "Name_EN":"French Twist",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":1890137027,
+         "Name_RU":"'Ракушка'"
+      }
+   },
+   "48":{
+      "0":{
+         "GXT":"CC_F_HS_10",
+         "Name_EN":"Long Bob",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":-406805808,
+         "Name_RU":"'Лонг боб'"
+      }
+   },
+   "49":{
+      "0":{
+         "GXT":"CC_F_HS_11",
+         "Name_EN":"Loose Tied",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":-592540500,
+         "Name_RU":"Свободно"
+      }
+   },
+   "50":{
+      "0":{
+         "GXT":"CC_F_HS_12",
+         "Name_EN":"Pixie",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":205417419,
+         "Name_RU":"'Пикси'"
+      }
+   },
+   "51":{
+      "0":{
+         "GXT":"CC_F_HS_13",
+         "Name_EN":"Shaved Bangs",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":-2127276619,
+         "Name_RU":"Подбритые виски"
+      }
+   },
+   "52":{
+      "0":{
+         "GXT":"CC_F_HS_14",
+         "Name_EN":"Top Knot",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":-1362677538,
+         "Name_RU":"'Узел'"
+      }
+   },
+   "53":{
+      "0":{
+         "GXT":"CC_F_HS_15",
+         "Name_EN":"Wavy Bob",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":-1549722990,
+         "Name_RU":"'Волнистый боб'"
+      }
+   },
+   "54":{
+      "0":{
+         "GXT":"CLO_BBF_H_05",
+         "Name_EN":"Messy Bun Chestnut",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":-811206225,
+         "Name_RU":"Каштановые - 'пучок'"
+      }
+   },
+   "55":{
+      "0":{
+         "GXT":"CLO_BBF_H_00",
+         "Name_EN":"Pin Up Girl Chestnut",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Каштановые - 'красотка'"
+      }
+   },
+   "56":{
+      "0":{
+         "GXT":"CLO_BUS_F_H_0_0",
+         "Name_EN":"Tight Bun Black",
+         "HairTattooCollection":-2086773,
+         "HairTattooOverlay":-1816086813,
+         "Name_RU":"Черные - тугой узел"
+      }
+   },
+   "57":{
+      "0":{
+         "GXT":"CLO_BUS_F_H_1_0",
+         "Name_EN":"Twisted Bob Chestnut",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":558694786,
+         "Name_RU":"Каштановые - 'одуванчик'"
+      }
+   },
+   "58":{
+      "0":{
+         "GXT":"CLO_VALF_H_0_0",
+         "Name_EN":"Flapper Bob Chestnut",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Каштановые - флэппер боб"
+      }
+   },
+   "59":{
+      "0":{
+         "GXT":"CLO_HP_F_HR_0_0",
+         "Name_EN":"Big Bangs Chestnut",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Каштановые - взрыв"
+      }
+   },
+   "60":{
+      "0":{
+         "GXT":"CLO_HP_F_HR_1_0",
+         "Name_EN":"Braided Top Knot Chestnut",
+         "HairTattooCollection":-1398869298,
+         "HairTattooOverlay":-1845683606,
+         "Name_RU":"Каштановые - узел"
+      }
+   },
+   "61":{
+      "0":{
+         "GXT":"CLO_INDF_H_0_0",
+         "Name_EN":"Mullet Chestnut",
+         "HairTattooCollection":-1,
+         "HairTattooOverlay":-1,
+         "Name_RU":"Маллет, каштановый"
+      }
+   },
+   "62":{
+      "0":{
+         "GXT":"CLO_S1F_H_0_0",
+         "Name_EN":"Pinched Cornrows",
+         "HairTattooCollection":62137527,
+         "HairTattooOverlay":-1325458477,
+         "Name_RU":"Сколотые косички"
+      }
+   },
+   "63":{
+      "0":{
+         "GXT":"CLO_S1F_H_1_0",
+         "Name_EN":"Leaf Cornrows",
+         "HairTattooCollection":62137527,
+         "HairTattooOverlay":-566725051,
+         "Name_RU":"Косички-'листья'"
+      }
+   },
+   "64":{
+      "0":{
+         "GXT":"CLO_S1F_H_2_0",
+         "Name_EN":"Zig Zag Cornrows",
+         "HairTattooCollection":62137527,
+         "HairTattooOverlay":-787850263,
+         "Name_RU":"Косички-зигзаги"
+      }
+   },
+   "65":{
+      "0":{
+         "GXT":"CLO_S1F_H_3_0",
+         "Name_EN":"Pigtail Bangs",
+         "HairTattooCollection":1529191571,
+         "HairTattooOverlay":2039295216,
+         "Name_RU":"'Хвостики' с челкой"
+      }
+   },
+   "66":{
+      "0":{
+         "GXT":"CLO_S2F_H_0_0",
+         "Name_EN":"Wave Braids",
+         "HairTattooCollection":1529191571,
+         "HairTattooOverlay":2039295216,
+         "Name_RU":"Косички-'волны'"
+      }
+   },
+   "67":{
+      "0":{
+         "GXT":"CLO_S2F_H_1_0",
+         "Name_EN":"Coil Braids",
+         "HairTattooCollection":1529191571,
+         "HairTattooOverlay":1800147054,
+         "Name_RU":"Косички-завитки"
+      }
+   },
+   "68":{
+      "0":{
+         "GXT":"CLO_S2F_H_2_0",
+         "Name_EN":"Rolled Quiff",
+         "HairTattooCollection":1529191571,
+         "HairTattooOverlay":-2019505897,
+         "Name_RU":"Челка-валик"
+      }
+   },
+   "69":{
+      "0":{
+         "GXT":"CLO_BIF_H_0_0",
+         "Name_EN":"Loose Swept Back",
+         "HairTattooCollection":-240234547,
+         "HairTattooOverlay":-328340062,
+         "Name_RU":"Растрепанный зачес назад"
+      }
+   },
+   "70":{
+      "0":{
+         "GXT":"CLO_BIF_H_1_0",
+         "Name_EN":"Undercut Swept Back",
+         "HairTattooCollection":-240234547,
+         "HairTattooOverlay":1657725123,
+         "Name_RU":"Подстриженный зачес назад"
+      }
+   },
+   "71":{
+      "0":{
+         "GXT":"CLO_BIF_H_2_0",
+         "Name_EN":"Undercut Swept Side",
+         "HairTattooCollection":-240234547,
+         "HairTattooOverlay":-1517964336,
+         "Name_RU":"Подстриженный зачес набок"
+      }
+   },
+   "72":{
+      "0":{
+         "GXT":"CLO_BIF_H_3_0",
+         "Name_EN":"Spiked Mohawk",
+         "HairTattooCollection":-240234547,
+         "HairTattooOverlay":1677522529,
+         "Name_RU":"Шипастый ирокез"
+      }
+   },
+   "73":{
+      "0":{
+         "GXT":"CLO_BIF_H_4_0",
+         "Name_EN":"Bandana and Braid",
+         "HairTattooCollection":598190139,
+         "HairTattooOverlay":-1362677538,
+         "Name_RU":"Бандана и косички"
+      }
+   },
+   "74":{
+      "0":{
+         "GXT":"CLO_BIF_H_5_0",
+         "Name_EN":"Layered Mod",
+         "HairTattooCollection":-240234547,
+         "HairTattooOverlay":1742494019,
+         "Name_RU":"'Стиляга' со слоями"
+      }
+   },
+   "75":{
+      "0":{
+         "GXT":"CLO_BIF_H_6_0",
+         "Name_EN":"Skinbyrd",
+         "HairTattooCollection":-240234547,
+         "HairTattooOverlay":1841934566,
+         "Name_RU":"'Челси'"
+      }
+   },
+   "76":{
+      "0":{
+         "GXT":"CLO_GRF_H_0_0",
+         "Name_EN":"Neat Bun",
+         "HairTattooCollection":1616273011,
+         "HairTattooOverlay":687338866,
+         "Name_RU":"Опрятный пучок"
+      }
+   },
+   "77":{
+      "0":{
+         "GXT":"CLO_GRF_H_1_0",
+         "Name_EN":"Short Bob",
+         "HairTattooCollection":1616273011,
+         "HairTattooOverlay":1827923343,
+         "Name_RU":"'Короткий боб'"
+      }
+   },
+   "78":{
+      "0":{
+         "GXT":"CLO_VWF_H_0_0",
+         "Name_EN":"Impotent Rage",
+         "HairTattooCollection":1347816957,
+         "HairTattooOverlay":987747946,
+         "Name_RU":"'Бессильная злоба'"
+      }
+   }
+}

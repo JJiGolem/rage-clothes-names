@@ -1,0 +1,184 @@
+﻿{
+   "0":{
+      "0":{
+         "GXT":"CLO_L2F_RW_0_0",
+         "Name_EN":"Gold Snake Cuff",
+         "Name_RU":"Золотой браслет-змейка"
+      }
+   },
+   "1":{
+      "0":{
+         "GXT":"CLO_L2F_RW_1_0",
+         "Name_EN":"Gold Diamond Cuff",
+         "Name_RU":"Бриллиантовый браслет"
+      }
+   },
+   "2":{
+      "0":{
+         "GXT":"CLO_L2F_RW_2_0",
+         "Name_EN":"Gold Plain Cuff",
+         "Name_RU":"Золотой плоский браслет"
+      }
+   },
+   "3":{
+      "0":{
+         "GXT":"CLO_L2F_RW_3_0",
+         "Name_EN":"Gold Le Chien Cuff",
+         "Name_RU":"Золотой браслет Le Chien"
+      }
+   },
+   "4":{
+      "0":{
+         "GXT":"CLO_L2F_RW_4_0",
+         "Name_EN":"Gold Detail Cuff",
+         "Name_RU":"Золотой браслет"
+      }
+   },
+   "5":{
+      "0":{
+         "GXT":"CLO_L2F_RW_5_0",
+         "Name_EN":"Gold Swirl Cuff",
+         "Name_RU":"Золотой узорный браслет"
+      }
+   },
+   "6":{
+      "0":{
+         "GXT":"CLO_L2F_RW_6_0",
+         "Name_EN":"Gold Textured Cuff",
+         "Name_RU":"Золотой рельефный браслет"
+      }
+   },
+   "7":{
+      "0":{
+         "GXT":"CLO_BIF_PRW_0_0",
+         "Name_EN":"Light Wrist Chain (R)",
+         "Name_RU":"Легкий браслет (п)"
+      }
+   },
+   "8":{
+      "0":{
+         "GXT":"CLO_BIF_PRW_1_0",
+         "Name_EN":"Chunky Wrist Chain (R)",
+         "Name_RU":"Тяжелый браслет (п)"
+      }
+   },
+   "9":{
+      "0":{
+         "GXT":"CLO_BIF_PRW_2_0",
+         "Name_EN":"Square Wrist Chain (R)",
+         "Name_RU":"Прямоугольный браслет (п)"
+      }
+   },
+   "10":{
+      "0":{
+         "GXT":"CLO_BIF_PRW_3_0",
+         "Name_EN":"Skull Wrist Chain (R)",
+         "Name_RU":"Браслет с черепами (п)"
+      }
+   },
+   "11":{
+      "0":{
+         "GXT":"CLO_BIF_PRW_4_0",
+         "Name_EN":"Tread Wrist Chain (R)",
+         "Name_RU":"Широкий браслет (п)"
+      }
+   },
+   "12":{
+      "0":{
+         "GXT":"CLO_BIF_PRW_5_0",
+         "Name_EN":"Gear Wrist Chains (R)",
+         "Name_RU":"Цепочки с черепами (п)"
+      }
+   },
+   "13":{
+      "0":{
+         "GXT":"CLO_BIF_PRW_6_0",
+         "Name_EN":"Spiked Gauntlet (R)",
+         "Name_RU":"Браслет с шипами (п)"
+      }
+   },
+   "14":{
+      "0":{
+         "GXT":"CLO_BIF_PRW_7_0",
+         "Name_EN":"Black Gauntlet (R)",
+         "Name_RU":"Черный браслет (п)"
+      },
+      "1":{
+         "GXT":"CLO_BIF_PRW_7_1",
+         "Name_EN":"Chocolate Gauntlet (R)",
+         "Name_RU":"Коричневый браслет (п)"
+      },
+      "2":{
+         "GXT":"CLO_BIF_PRW_7_2",
+         "Name_EN":"Tan Gauntlet (R)",
+         "Name_RU":"Бежевый браслет (п)"
+      },
+      "3":{
+         "GXT":"CLO_BIF_PRW_7_3",
+         "Name_EN":"Ox Blood Gauntlet (R)",
+         "Name_RU":"Бордовый браслет (п)"
+      }
+   },
+   "15":{
+      "0":{
+         "GXT":"CLO_H4F_PRW_0_0",
+         "Name_EN":"Blue Bangles (R)",
+         "Name_RU":"Синие браслеты (п)"
+      },
+      "1":{
+         "GXT":"CLO_H4F_PRW_0_1",
+         "Name_EN":"Red Bangles (R)",
+         "Name_RU":"Красные браслеты (п)"
+      },
+      "2":{
+         "GXT":"CLO_H4F_PRW_0_2",
+         "Name_EN":"Pink Bangles (R)",
+         "Name_RU":"Розовые браслеты (п)"
+      },
+      "3":{
+         "GXT":"CLO_H4F_PRW_0_3",
+         "Name_EN":"Yellow Bangles (R)",
+         "Name_RU":"Желтые браслеты (п)"
+      },
+      "4":{
+         "GXT":"CLO_H4F_PRW_0_4",
+         "Name_EN":"Orange Bangles (R)",
+         "Name_RU":"Оранжевые (п)"
+      },
+      "5":{
+         "GXT":"CLO_H4F_PRW_0_5",
+         "Name_EN":"Green Bangles (R)",
+         "Name_RU":"Зеленые браслеты (п)"
+      },
+      "6":{
+         "GXT":"CLO_H4F_PRW_0_6",
+         "Name_EN":"Red & Blue Bangles (R)",
+         "Name_RU":"Красно-синие (п)"
+      },
+      "7":{
+         "GXT":"CLO_H4F_PRW_0_7",
+         "Name_EN":"Yellow & Orange Bangles (R)",
+         "Name_RU":"Желто-оранжевые (п)"
+      },
+      "8":{
+         "GXT":"CLO_H4F_PRW_0_8",
+         "Name_EN":"Green & Pink Bangles (R)",
+         "Name_RU":"Зелено-розовые (п)"
+      },
+      "9":{
+         "GXT":"CLO_H4F_PRW_0_9",
+         "Name_EN":"Rainbow Bangles (R)",
+         "Name_RU":"Радужные браслеты (п)"
+      },
+      "10":{
+         "GXT":"CLO_H4F_PRW_010",
+         "Name_EN":"Sunset Bangles (R)",
+         "Name_RU":"Браслеты 'Закат' (п)"
+      },
+      "11":{
+         "GXT":"CLO_H4F_PRW_011",
+         "Name_EN":"Tropical Bangles (R)",
+         "Name_RU":"Браслеты 'Тропики' (п)"
+      }
+   }
+}
